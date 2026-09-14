@@ -1,0 +1,374 @@
+{
+  "manifest": {
+    "id": "west-africa-practice",
+    "version": 1,
+    "curriculum": "Core",
+    "subject": "All",
+    "questionCount": 20,
+    "publishedAt": "2026-09-14T14:00:00.000Z",
+    "source": "COLBRYAN Technologies",
+    "reviewStatus": "reviewed"
+  },
+  "questions": [
+    {
+      "id": "waec-math-geometry-2",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 2,
+      "curricula": [
+        "WAEC"
+      ],
+      "prompt": "The angles of a triangle are x, 2x and 3x. What is x?",
+      "options": [
+        "20°",
+        "30°",
+        "45°",
+        "60°"
+      ],
+      "answer": 1,
+      "explanation": "Triangle angles total 180°, so 6x = 180° and x = 30°."
+    },
+    {
+      "id": "jamb-math-algebra-2",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "If x² − 5x + 6 = 0, what are the possible values of x?",
+      "options": [
+        "1 and 6",
+        "2 and 3",
+        "−2 and −3",
+        "3 and 5"
+      ],
+      "answer": 1,
+      "explanation": "The expression factors as (x − 2)(x − 3), giving x = 2 or x = 3."
+    },
+    {
+      "id": "waec-english-grammar-2",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "curricula": [
+        "WAEC"
+      ],
+      "prompt": "Choose the word that completes the sentence: Neither Musa nor his friends ___ ready.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has"
+      ],
+      "answer": 1,
+      "explanation": "With neither...nor, the verb agrees with the nearer subject; 'friends' takes 'are'."
+    },
+    {
+      "id": "jamb-english-comprehension-2",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "In the sentence 'Her explanation was lucid', what does lucid mean?",
+      "options": [
+        "Clear",
+        "Lengthy",
+        "Doubtful",
+        "Secret"
+      ],
+      "answer": 0,
+      "explanation": "Lucid means clear and easy to understand, especially when describing an explanation."
+    },
+    {
+      "id": "waec-physics-motion-2",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 2,
+      "curricula": [
+        "WAEC"
+      ],
+      "prompt": "A car increases its speed from 5 m/s to 25 m/s in 4 s. What is its acceleration?",
+      "options": [
+        "4 m/s²",
+        "5 m/s²",
+        "6 m/s²",
+        "8 m/s²"
+      ],
+      "answer": 1,
+      "explanation": "Acceleration is change in velocity divided by time: (25 − 5) ÷ 4 = 5 m/s²."
+    },
+    {
+      "id": "jamb-physics-waves-2",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "A wave travels at 300 m/s with wavelength 2 m. What is its frequency?",
+      "options": [
+        "75 Hz",
+        "150 Hz",
+        "300 Hz",
+        "600 Hz"
+      ],
+      "answer": 1,
+      "explanation": "Using v = fλ, frequency is 300 ÷ 2 = 150 Hz."
+    },
+    {
+      "id": "waec-chemistry-atomic-2",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 2,
+      "curricula": [
+        "WAEC"
+      ],
+      "prompt": "Atoms of the same element with different numbers of neutrons are called what?",
+      "options": [
+        "Isotopes",
+        "Ions",
+        "Molecules",
+        "Allotropes"
+      ],
+      "answer": 0,
+      "explanation": "Isotopes share the same proton number but have different neutron and mass numbers."
+    },
+    {
+      "id": "jamb-chemistry-acids-2",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Which products normally form when an acid reacts completely with an alkali?",
+      "options": [
+        "Salt and water",
+        "Hydrogen and salt",
+        "Water and oxygen",
+        "Acid and metal"
+      ],
+      "answer": 0,
+      "explanation": "Neutralisation between an acid and an alkali produces a salt and water."
+    },
+    {
+      "id": "waec-biology-ecology-2",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 2,
+      "curricula": [
+        "WAEC"
+      ],
+      "prompt": "In the food chain grass → grasshopper → frog, which organism is the primary consumer?",
+      "options": [
+        "Grass",
+        "Grasshopper",
+        "Frog",
+        "All three"
+      ],
+      "answer": 1,
+      "explanation": "The grasshopper feeds directly on the producer, so it is the primary consumer."
+    },
+    {
+      "id": "jamb-biology-genetics-2",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Which term describes an allele whose effect appears in a heterozygote?",
+      "options": [
+        "Dominant",
+        "Recessive",
+        "Linked",
+        "Mutated"
+      ],
+      "answer": 0,
+      "explanation": "A dominant allele is expressed when only one copy is present in a heterozygous genotype."
+    },
+    {
+      "id": "waec-economics-demand-2",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 2,
+      "curricula": [
+        "WAEC"
+      ],
+      "prompt": "Demand is price elastic when the percentage change in quantity demanded is what?",
+      "options": [
+        "Greater than the percentage change in price",
+        "Equal to zero",
+        "Less than the percentage change in price",
+        "Always negative one"
+      ],
+      "answer": 0,
+      "explanation": "Elastic demand responds proportionately more in quantity than the change that occurred in price."
+    },
+    {
+      "id": "jamb-economics-money-2",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Which institution normally acts as banker to a country's commercial banks?",
+      "options": [
+        "Central bank",
+        "Stock exchange",
+        "Insurance company",
+        "Finance ministry"
+      ],
+      "answer": 0,
+      "explanation": "The central bank keeps commercial-bank reserves and provides banking services to them."
+    },
+    {
+      "id": "waec-geography-map-2",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 2,
+      "curricula": [
+        "WAEC"
+      ],
+      "prompt": "On a 1:50,000 map, what ground distance is represented by 2 cm?",
+      "options": [
+        "500 m",
+        "1 km",
+        "5 km",
+        "10 km"
+      ],
+      "answer": 1,
+      "explanation": "Two centimetres represent 100,000 cm, which equals 1,000 m or 1 km."
+    },
+    {
+      "id": "jamb-geography-population-2",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Which factor is most likely to push people away from a rural area?",
+      "options": [
+        "Lack of employment",
+        "Better hospitals",
+        "Higher wages",
+        "More universities"
+      ],
+      "answer": 0,
+      "explanation": "Few employment opportunities are a push factor that encourages out-migration."
+    },
+    {
+      "id": "waec-government-arms-2",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 2,
+      "curricula": [
+        "WAEC"
+      ],
+      "prompt": "Which arm of government is primarily responsible for interpreting laws?",
+      "options": [
+        "Judiciary",
+        "Executive",
+        "Legislature",
+        "Civil service"
+      ],
+      "answer": 0,
+      "explanation": "Courts within the judiciary interpret laws and apply them to disputes and cases."
+    },
+    {
+      "id": "jamb-government-parties-2",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "What is a major function of opposition parties in a democracy?",
+      "options": [
+        "Scrutinising the government",
+        "Appointing every judge",
+        "Printing national currency",
+        "Commanding the armed forces"
+      ],
+      "answer": 0,
+      "explanation": "Opposition parties question government decisions and offer alternative policies to voters."
+    },
+    {
+      "id": "waec-literature-poetry-2",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 2,
+      "curricula": [
+        "WAEC"
+      ],
+      "prompt": "The expression 'the wind whispered through the trees' uses which literary device?",
+      "options": [
+        "Personification",
+        "Hyperbole",
+        "Oxymoron",
+        "Euphemism"
+      ],
+      "answer": 0,
+      "explanation": "Personification gives a human action, whispering, to the non-human wind."
+    },
+    {
+      "id": "jamb-literature-prose-2",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "What does indirect characterisation reveal about a character?",
+      "options": [
+        "Traits through actions and speech",
+        "Only the chapter number",
+        "The book's selling price",
+        "Only the narrator's name"
+      ],
+      "answer": 0,
+      "explanation": "Indirect characterisation lets readers infer traits from behaviour, speech and relationships."
+    },
+    {
+      "id": "waec-computing-hardware-2",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 2,
+      "curricula": [
+        "WAEC"
+      ],
+      "prompt": "Which type of computer memory loses its contents when power is switched off?",
+      "options": [
+        "RAM",
+        "ROM",
+        "SSD",
+        "Flash memory"
+      ],
+      "answer": 0,
+      "explanation": "RAM is volatile working memory, so its stored data is lost when power is removed."
+    },
+    {
+      "id": "jamb-computing-programming-2",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Which control structure chooses between actions based on a condition?",
+      "options": [
+        "Selection",
+        "Sequence",
+        "Iteration",
+        "Declaration"
+      ],
+      "answer": 0,
+      "explanation": "Selection uses a condition, such as an if statement, to choose which action to execute."
+    }
+  ]
+}
