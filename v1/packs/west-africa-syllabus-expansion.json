@@ -1,0 +1,2313 @@
+{
+  "manifest": {
+    "id": "west-africa-syllabus-expansion",
+    "version": 1,
+    "curriculum": "Core",
+    "subject": "All",
+    "questionCount": 121,
+    "publishedAt": "2026-09-14T20:00:00.000Z",
+    "source": "COLBRYAN Technologies",
+    "reviewStatus": "reviewed"
+  },
+  "questions": [
+    {
+      "id": "wa-jamb-math-algebra-01",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 1,
+      "prompt": "Solve 3x + 5 = 20.",
+      "options": [
+        "25",
+        "3",
+        "5",
+        "7"
+      ],
+      "answer": 2,
+      "explanation": "Subtracting 5 gives 3x = 15, and division by 3 gives x = 5.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-math-algebra-02",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 2,
+      "prompt": "Factorise x² - 7x + 12.",
+      "options": [
+        "(x - 3)(x - 4)",
+        "(x + 3)(x + 4)",
+        "(x - 2)(x - 6)",
+        "(x + 2)(x - 6)"
+      ],
+      "answer": 0,
+      "explanation": "The numbers -3 and -4 multiply to 12 and add to -7.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-math-algebra-03",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 3,
+      "prompt": "If 2^(x+1) = 32, find x.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "answer": 0,
+      "explanation": "Since 32 = 2^5, x + 1 = 5 and therefore x = 4.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-math-geometry-01",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 1,
+      "prompt": "Find the area of a rectangle 8 cm long and 5 cm wide.",
+      "options": [
+        "26 cm²",
+        "40 cm²",
+        "80 cm²",
+        "13 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Rectangle area is length multiplied by width, so 8 × 5 = 40 cm².",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-math-geometry-02",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 2,
+      "prompt": "Two angles of a triangle are 48° and 67°. Find the third angle.",
+      "options": [
+        "75°",
+        "115°",
+        "55°",
+        "65°"
+      ],
+      "answer": 3,
+      "explanation": "Angles in a triangle total 180°, so the third angle is 180 - 48 - 67 = 65°.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-math-geometry-03",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 3,
+      "prompt": "A circle has circumference 44 cm. Using π = 22/7, find its radius.",
+      "options": [
+        "22 cm",
+        "3.5 cm",
+        "7 cm",
+        "14 cm"
+      ],
+      "answer": 2,
+      "explanation": "From C = 2πr, r = 44 ÷ (2 × 22/7) = 7 cm.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-math-trig-01",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "difficulty": 1,
+      "prompt": "What is sin 30°?",
+      "options": [
+        "1",
+        "0",
+        "1/2",
+        "√2/2"
+      ],
+      "answer": 2,
+      "explanation": "The standard exact value of sin 30° is one-half.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-math-trig-02",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "difficulty": 2,
+      "prompt": "In a right triangle, the opposite side is 6 cm and the hypotenuse is 10 cm. Find sin θ.",
+      "options": [
+        "3/5",
+        "4/5",
+        "5/3",
+        "8/5"
+      ],
+      "answer": 0,
+      "explanation": "Sine equals opposite over hypotenuse, so sin θ = 6/10 = 3/5.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-math-trig-03",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "difficulty": 3,
+      "prompt": "If tan θ = 3/4 for an acute angle, find cos θ.",
+      "options": [
+        "4/5",
+        "4/3",
+        "5/4",
+        "3/5"
+      ],
+      "answer": 0,
+      "explanation": "A 3-4-5 triangle has adjacent side 4 and hypotenuse 5, so cos θ = 4/5.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-math-stats-01",
+      "subject": "Mathematics",
+      "unit": "Statistics",
+      "difficulty": 1,
+      "prompt": "Find the mean of 4, 6, 8 and 10.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "explanation": "The total is 28 and 28 divided by four observations is 7.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-math-stats-02",
+      "subject": "Mathematics",
+      "unit": "Statistics",
+      "difficulty": 2,
+      "prompt": "Find the median of 3, 9, 5, 11 and 7.",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "5"
+      ],
+      "answer": 0,
+      "explanation": "In order the values are 3, 5, 7, 9, 11, making 7 the middle value.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-math-stats-03",
+      "subject": "Mathematics",
+      "unit": "Statistics",
+      "difficulty": 3,
+      "prompt": "A fair die is thrown once. What is the probability of obtaining a prime number?",
+      "options": [
+        "1/2",
+        "2/3",
+        "1/6",
+        "1/3"
+      ],
+      "answer": 0,
+      "explanation": "The prime outcomes are 2, 3 and 5, giving 3 favourable outcomes out of 6.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-math-algebra-04",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 2,
+      "prompt": "Simplify (6a²b)/(3ab²).",
+      "options": [
+        "3a/b",
+        "2ab",
+        "2a/b",
+        "2b/a"
+      ],
+      "answer": 2,
+      "explanation": "Dividing coefficients and subtracting indices gives 2a^(2-1)b^(1-2) = 2a/b.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-physics-motion-01",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 1,
+      "prompt": "A car travels 150 m in 10 s. What is its average speed?",
+      "options": [
+        "10 m/s",
+        "15 m/s",
+        "20 m/s",
+        "1500 m/s"
+      ],
+      "answer": 1,
+      "explanation": "Average speed is distance divided by time: 150 ÷ 10 = 15 m/s.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-physics-motion-02",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 2,
+      "prompt": "A body starts from rest and accelerates uniformly at 3 m/s² for 4 s. Find its final speed.",
+      "options": [
+        "12 m/s",
+        "16 m/s",
+        "24 m/s",
+        "7 m/s"
+      ],
+      "answer": 0,
+      "explanation": "Using v = u + at with u = 0 gives v = 3 × 4 = 12 m/s.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-physics-motion-03",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 3,
+      "prompt": "A stone is projected vertically upward at 20 m/s. Taking g = 10 m/s², how long does it take to reach maximum height?",
+      "options": [
+        "4 s",
+        "10 s",
+        "1 s",
+        "2 s"
+      ],
+      "answer": 3,
+      "explanation": "At maximum height v = 0, so 0 = 20 - 10t and t = 2 s.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-physics-forces-01",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 1,
+      "prompt": "Which quantity is measured in newtons?",
+      "options": [
+        "Energy",
+        "Force",
+        "Power",
+        "Pressure"
+      ],
+      "answer": 1,
+      "explanation": "The newton is the SI unit of force.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-physics-forces-02",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 2,
+      "prompt": "What force accelerates a 5 kg mass at 2 m/s²?",
+      "options": [
+        "7 N",
+        "10 N",
+        "25 N",
+        "2.5 N"
+      ],
+      "answer": 1,
+      "explanation": "Newton's second law gives F = ma = 5 × 2 = 10 N.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-physics-forces-03",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 3,
+      "prompt": "A 20 N force acts 0.5 m perpendicularly from a pivot. Find its moment.",
+      "options": [
+        "40 N m",
+        "0.025 N m",
+        "10 N m",
+        "20 N m"
+      ],
+      "answer": 2,
+      "explanation": "Moment equals force times perpendicular distance, giving 20 × 0.5 = 10 N m.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-physics-waves-01",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 1,
+      "prompt": "Which wave can travel through a vacuum?",
+      "options": [
+        "Sound",
+        "Water wave",
+        "Light",
+        "Seismic wave"
+      ],
+      "answer": 2,
+      "explanation": "Light is electromagnetic and needs no material medium to travel.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-physics-waves-02",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 2,
+      "prompt": "A wave has frequency 50 Hz and wavelength 4 m. Find its speed.",
+      "options": [
+        "46 m/s",
+        "54 m/s",
+        "200 m/s",
+        "12.5 m/s"
+      ],
+      "answer": 2,
+      "explanation": "Wave speed v = fλ = 50 × 4 = 200 m/s.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-physics-waves-03",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 3,
+      "prompt": "Which change occurs when light passes from air into glass?",
+      "options": [
+        "Speed increases",
+        "Frequency and wavelength increase",
+        "Speed and wavelength decrease",
+        "Frequency decreases only"
+      ],
+      "answer": 2,
+      "explanation": "The frequency stays constant, while lower speed in glass causes wavelength to decrease.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-physics-electricity-01",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 1,
+      "prompt": "What instrument measures electric current?",
+      "options": [
+        "Hydrometer",
+        "Ammeter",
+        "Voltmeter",
+        "Ohmmeter"
+      ],
+      "answer": 1,
+      "explanation": "An ammeter is connected in series to measure electric current.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-physics-electricity-02",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 2,
+      "prompt": "A 12 V supply drives 3 A through a resistor. Find the resistance.",
+      "options": [
+        "0.25 Ω",
+        "4 Ω",
+        "9 Ω",
+        "36 Ω"
+      ],
+      "answer": 1,
+      "explanation": "Ohm's law gives R = V/I = 12/3 = 4 Ω.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-physics-electricity-03",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 3,
+      "prompt": "Two 6 Ω resistors are connected in parallel. What is their combined resistance?",
+      "options": [
+        "6 Ω",
+        "12 Ω",
+        "36 Ω",
+        "3 Ω"
+      ],
+      "answer": 3,
+      "explanation": "For equal resistors in parallel the total is half one resistance, so it is 3 Ω.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-chem-atomic-01",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 1,
+      "prompt": "Which particle has a negative charge?",
+      "options": [
+        "Neutron",
+        "Electron",
+        "Nucleus",
+        "Proton"
+      ],
+      "answer": 1,
+      "explanation": "An electron carries one unit of negative electric charge.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-chem-atomic-02",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 2,
+      "prompt": "An atom has atomic number 17 and mass number 35. How many neutrons does it contain?",
+      "options": [
+        "35",
+        "52",
+        "17",
+        "18"
+      ],
+      "answer": 3,
+      "explanation": "Neutrons equal mass number minus atomic number, so 35 - 17 = 18.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-chem-atomic-03",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 3,
+      "prompt": "Which electronic configuration represents a sodium atom?",
+      "options": [
+        "2,7,2",
+        "2,8",
+        "2,8,1",
+        "2,8,2"
+      ],
+      "answer": 2,
+      "explanation": "Sodium has atomic number 11, so its electrons are arranged 2,8,1.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-chem-bonding-01",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 1,
+      "prompt": "What type of bond forms when atoms share electrons?",
+      "options": [
+        "Ionic",
+        "Metallic",
+        "Hydrogen",
+        "Covalent"
+      ],
+      "answer": 3,
+      "explanation": "A covalent bond consists of one or more shared pairs of electrons.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-chem-bonding-02",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 2,
+      "prompt": "Why does solid sodium chloride not conduct electricity?",
+      "options": [
+        "It contains no electrons",
+        "It dissolves in water",
+        "It has no ions",
+        "Its ions cannot move freely"
+      ],
+      "answer": 3,
+      "explanation": "The ions are fixed in a rigid lattice in the solid and cannot carry charge through it.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-chem-bonding-03",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 3,
+      "prompt": "Which substance has a giant covalent structure?",
+      "options": [
+        "Copper",
+        "Methane",
+        "Diamond",
+        "Sodium chloride"
+      ],
+      "answer": 2,
+      "explanation": "Diamond is a continuous three-dimensional network of covalently bonded carbon atoms.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-chem-acid-01",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 1,
+      "prompt": "What colour does blue litmus turn in an acid?",
+      "options": [
+        "Green",
+        "Red",
+        "White",
+        "Blue"
+      ],
+      "answer": 1,
+      "explanation": "Acids change blue litmus paper to red.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-chem-acid-02",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 2,
+      "prompt": "Which products form when hydrochloric acid reacts with sodium hydroxide?",
+      "options": [
+        "Hydrogen and oxygen",
+        "Sodium oxide and water",
+        "Sodium chloride and water",
+        "Sodium and chlorine"
+      ],
+      "answer": 2,
+      "explanation": "Neutralisation produces the salt sodium chloride and water.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-chem-acid-03",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 3,
+      "prompt": "A solution has pH 3. Compared with a pH 5 solution, its hydrogen ion concentration is how many times greater?",
+      "options": [
+        "1000",
+        "2",
+        "10",
+        "100"
+      ],
+      "answer": 3,
+      "explanation": "Each pH unit represents a factor of ten, so a two-unit difference is a factor of 100.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-chem-organic-01",
+      "subject": "Chemistry",
+      "unit": "Organic chemistry",
+      "difficulty": 1,
+      "prompt": "Which homologous series contains only single carbon-carbon bonds?",
+      "options": [
+        "Alcohols",
+        "Alkanes",
+        "Alkenes",
+        "Alkynes"
+      ],
+      "answer": 1,
+      "explanation": "Alkanes are saturated hydrocarbons containing only single carbon-carbon bonds.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-chem-organic-02",
+      "subject": "Chemistry",
+      "unit": "Organic chemistry",
+      "difficulty": 2,
+      "prompt": "What is the molecular formula of ethene?",
+      "options": [
+        "C2H2",
+        "C2H4",
+        "C2H6",
+        "CH4"
+      ],
+      "answer": 1,
+      "explanation": "Alkenes follow CnH2n, so ethene with two carbons is C2H4.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-chem-organic-03",
+      "subject": "Chemistry",
+      "unit": "Organic chemistry",
+      "difficulty": 3,
+      "prompt": "Which reagent distinguishes ethene from ethane at room temperature?",
+      "options": [
+        "Bromine water",
+        "Dilute acid",
+        "Aqueous sodium chloride",
+        "Limewater"
+      ],
+      "answer": 0,
+      "explanation": "Ethene rapidly decolourises bromine water by an addition reaction, while ethane does not.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-bio-cells-01",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 1,
+      "prompt": "Which organelle controls the activities of a typical cell?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Vacuole",
+        "Cell wall"
+      ],
+      "answer": 0,
+      "explanation": "The nucleus contains genetic material and coordinates cellular activities.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-bio-cells-02",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 2,
+      "prompt": "What is the main function of mitochondria?",
+      "options": [
+        "Aerobic respiration",
+        "Photosynthesis",
+        "Cell division",
+        "Protein storage"
+      ],
+      "answer": 0,
+      "explanation": "Mitochondria release usable energy through aerobic respiration.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-bio-cells-03",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 3,
+      "prompt": "A plant cell placed in concentrated salt solution loses water. What is this process called?",
+      "options": [
+        "Osmosis",
+        "Translocation",
+        "Active transport",
+        "Diffusion"
+      ],
+      "answer": 0,
+      "explanation": "Water moves through a selectively permeable membrane from higher to lower water potential by osmosis.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-bio-genetics-01",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 1,
+      "prompt": "What molecule carries hereditary information?",
+      "options": [
+        "Cellulose",
+        "ATP",
+        "DNA",
+        "Glucose"
+      ],
+      "answer": 2,
+      "explanation": "DNA stores the genetic instructions passed between generations.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-bio-genetics-02",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 2,
+      "prompt": "If T is dominant for tallness and t is recessive, what phenotype has genotype Tt?",
+      "options": [
+        "Tall",
+        "Short",
+        "Both tall and short",
+        "Neither trait"
+      ],
+      "answer": 0,
+      "explanation": "One dominant T allele is sufficient for the tall phenotype.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-bio-genetics-03",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 3,
+      "prompt": "Two heterozygous parents, Aa and Aa, have offspring. What is the probability of genotype aa?",
+      "options": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "0"
+      ],
+      "answer": 0,
+      "explanation": "The cross gives AA, Aa, Aa and aa, so one of four outcomes is aa.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-bio-ecology-01",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 1,
+      "prompt": "What is the original source of energy in most ecosystems?",
+      "options": [
+        "Water",
+        "Soil",
+        "The Sun",
+        "Decomposers"
+      ],
+      "answer": 2,
+      "explanation": "Producers capture solar energy, which then passes through food chains.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-bio-ecology-02",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 2,
+      "prompt": "Which organisms break down dead organic material and recycle nutrients?",
+      "options": [
+        "Producers",
+        "Herbivores",
+        "Decomposers",
+        "Primary consumers"
+      ],
+      "answer": 2,
+      "explanation": "Decomposers digest dead matter and return mineral nutrients to the environment.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-bio-ecology-03",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 3,
+      "prompt": "Why is less energy available at each higher trophic level?",
+      "options": [
+        "Energy is lost as heat and in waste",
+        "Producers absorb all energy",
+        "Consumers stop respiring",
+        "Energy is destroyed by predators"
+      ],
+      "answer": 0,
+      "explanation": "Respiration releases heat and not all biomass is eaten or digested, reducing transferred energy.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-bio-human-01",
+      "subject": "Biology",
+      "unit": "Human systems",
+      "difficulty": 1,
+      "prompt": "Which organ pumps blood around the human body?",
+      "options": [
+        "Kidney",
+        "Lung",
+        "Liver",
+        "Heart"
+      ],
+      "answer": 3,
+      "explanation": "Muscular contractions of the heart drive blood through the circulatory system.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-bio-human-02",
+      "subject": "Biology",
+      "unit": "Human systems",
+      "difficulty": 2,
+      "prompt": "Where does most absorption of digested food occur?",
+      "options": [
+        "Oesophagus",
+        "Stomach",
+        "Small intestine",
+        "Large intestine"
+      ],
+      "answer": 2,
+      "explanation": "Villi in the small intestine provide a large surface for nutrient absorption.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-bio-human-03",
+      "subject": "Biology",
+      "unit": "Human systems",
+      "difficulty": 3,
+      "prompt": "How does insulin lower blood glucose concentration?",
+      "options": [
+        "It converts glycogen to glucose",
+        "It promotes glucose uptake and glycogen formation",
+        "It stops cellular respiration",
+        "It increases glucagon release"
+      ],
+      "answer": 1,
+      "explanation": "Insulin promotes uptake of glucose by cells and conversion of excess glucose to glycogen.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-english-comp-01",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 1,
+      "prompt": "A passage states that a farmer rose before sunrise every day. What can be inferred most directly?",
+      "options": [
+        "The farmer was habitually early",
+        "The farmer disliked farming",
+        "The farm had no workers",
+        "Sunrise occurred at noon"
+      ],
+      "answer": 0,
+      "explanation": "Rising before sunrise every day directly suggests a regular habit of starting early.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-english-comp-02",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 2,
+      "prompt": "Which statement best describes the main idea of a paragraph?",
+      "options": [
+        "Its central message",
+        "Its first punctuation mark",
+        "Every example copied together",
+        "Its longest sentence"
+      ],
+      "answer": 0,
+      "explanation": "The main idea is the central point that the supporting details explain or develop.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-english-comp-03",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 3,
+      "prompt": "In the sentence 'Although the road was flooded, the driver continued cautiously,' what relationship does 'although' express?",
+      "options": [
+        "Sequence",
+        "Addition",
+        "Cause",
+        "Contrast"
+      ],
+      "answer": 3,
+      "explanation": "Although introduces a contrast between the flooded road and the driver's decision to continue.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-english-grammar-01",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 1,
+      "prompt": "Choose the correct form: She ___ to school every weekday.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1,
+      "explanation": "A third-person singular subject takes goes in the simple present tense.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-english-grammar-02",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "prompt": "Choose the sentence with correct subject-verb agreement.",
+      "options": [
+        "The players in the team is ready.",
+        "Each of the books is useful.",
+        "Neither boys was present.",
+        "The list of items are long."
+      ],
+      "answer": 1,
+      "explanation": "The singular subject each takes the singular verb is.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-english-grammar-03",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 3,
+      "prompt": "Choose the option that correctly completes: If Ada had studied harder, she ___ the test.",
+      "options": [
+        "would have passed",
+        "will have passed",
+        "passes",
+        "would pass"
+      ],
+      "answer": 0,
+      "explanation": "A past unreal condition uses had plus participle and would have plus participle.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-english-essay-01",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 1,
+      "prompt": "Which part of an essay introduces its main subject?",
+      "options": [
+        "Signature",
+        "Postscript",
+        "Introduction",
+        "Bibliography"
+      ],
+      "answer": 2,
+      "explanation": "The introduction presents the topic and establishes the direction of the essay.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-english-essay-02",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 2,
+      "prompt": "What is the main purpose of a topic sentence?",
+      "options": [
+        "To replace supporting evidence",
+        "To end every essay",
+        "To state a paragraph's controlling idea",
+        "To list all punctuation rules"
+      ],
+      "answer": 2,
+      "explanation": "A topic sentence states the main idea that the rest of its paragraph develops.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-english-essay-03",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 3,
+      "prompt": "Which revision most improves coherence between paragraphs?",
+      "options": [
+        "Removing every transition",
+        "Arranging ideas logically and using clear links",
+        "Making every sentence the same length",
+        "Repeating the title after each paragraph"
+      ],
+      "answer": 1,
+      "explanation": "Logical order and suitable transitions show how one paragraph's idea connects to the next.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-english-oral-01",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 1,
+      "prompt": "Which word begins with the same consonant sound as 'judge'?",
+      "options": [
+        "chemist",
+        "goat",
+        "giant",
+        "yacht"
+      ],
+      "answer": 2,
+      "explanation": "Judge and giant both begin with the voiced affricate sound /dʒ/.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-english-oral-02",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 2,
+      "prompt": "Which word has a different vowel sound from the others?",
+      "options": [
+        "seat",
+        "heat",
+        "great",
+        "meat"
+      ],
+      "answer": 2,
+      "explanation": "Seat, heat and meat use /iː/, while great uses the diphthong /eɪ/.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-english-oral-03",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 3,
+      "prompt": "In the noun 'record', which syllable normally carries primary stress?",
+      "options": [
+        "The second syllable",
+        "Both equally",
+        "Neither syllable",
+        "The first syllable"
+      ],
+      "answer": 3,
+      "explanation": "The noun REcord normally carries primary stress on its first syllable.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-econ-demand-01",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 1,
+      "prompt": "According to the law of demand, what normally happens to quantity demanded when price rises?",
+      "options": [
+        "It falls",
+        "It stays fixed",
+        "It becomes supply",
+        "It rises"
+      ],
+      "answer": 0,
+      "explanation": "Other things equal, consumers demand a smaller quantity at a higher price.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-econ-demand-02",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 2,
+      "prompt": "Which change shifts the demand curve for a normal good to the right?",
+      "options": [
+        "A fall in its price",
+        "A rise in production cost",
+        "A fall in consumer income",
+        "A rise in consumer income"
+      ],
+      "answer": 3,
+      "explanation": "Higher income raises demand for a normal good at each possible price.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-econ-demand-03",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 3,
+      "prompt": "If demand is perfectly inelastic, a rise in price causes quantity demanded to do what?",
+      "options": [
+        "Become infinitely large",
+        "Fall to zero",
+        "Remain unchanged",
+        "Rise proportionately"
+      ],
+      "answer": 2,
+      "explanation": "Perfectly inelastic demand is vertical, so quantity does not respond to price changes.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-econ-market-01",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 1,
+      "prompt": "Which market structure has many firms selling identical products?",
+      "options": [
+        "Perfect competition",
+        "Monopoly",
+        "Monopsony",
+        "Duopoly"
+      ],
+      "answer": 0,
+      "explanation": "Perfect competition assumes many sellers offering a homogeneous product.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-econ-market-02",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 2,
+      "prompt": "A single seller protected by high barriers to entry is characteristic of what market?",
+      "options": [
+        "Monopoly",
+        "Monopolistic competition",
+        "Informal market",
+        "Perfect competition"
+      ],
+      "answer": 0,
+      "explanation": "A monopoly has one dominant seller and barriers that limit entry by rivals.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-econ-market-03",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 3,
+      "prompt": "Why can firms in monopolistic competition charge slightly different prices?",
+      "options": [
+        "There are no buyers",
+        "All products are identical",
+        "Products are differentiated",
+        "Government fixes one price"
+      ],
+      "answer": 2,
+      "explanation": "Product differentiation gives each firm some control over the price of its own variety.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-econ-money-01",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 1,
+      "prompt": "Which function of money allows prices to be stated in a common measure?",
+      "options": [
+        "Store of value",
+        "Unit of account",
+        "Deferred payment",
+        "Legal tender"
+      ],
+      "answer": 1,
+      "explanation": "As a unit of account, money provides the common standard used to quote values and prices.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-econ-money-02",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 2,
+      "prompt": "Which institution normally controls a country's money supply?",
+      "options": [
+        "Stock exchange",
+        "Insurance company",
+        "Retail cooperative",
+        "Central bank"
+      ],
+      "answer": 3,
+      "explanation": "The central bank conducts monetary policy and regulates the supply of money.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-econ-money-03",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 3,
+      "prompt": "What is a likely effect of a central bank raising its policy interest rate?",
+      "options": [
+        "Currency ceases to exist",
+        "All taxes immediately fall",
+        "Borrowing becomes cheaper",
+        "Borrowing and spending tend to fall"
+      ],
+      "answer": 3,
+      "explanation": "Higher interest rates raise borrowing costs and generally reduce credit-financed spending.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-econ-dev-01",
+      "subject": "Economics",
+      "unit": "Development",
+      "difficulty": 1,
+      "prompt": "What does GDP measure?",
+      "options": [
+        "Only imported goods",
+        "The value of final output produced within a country",
+        "Only government wages",
+        "The number of citizens abroad"
+      ],
+      "answer": 1,
+      "explanation": "GDP measures the market value of final goods and services produced within a country.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-econ-dev-02",
+      "subject": "Economics",
+      "unit": "Development",
+      "difficulty": 2,
+      "prompt": "Which indicator combines health, education and income dimensions?",
+      "options": [
+        "Consumer price index",
+        "Human Development Index",
+        "Exchange rate",
+        "Balance of trade"
+      ],
+      "answer": 1,
+      "explanation": "The Human Development Index combines life expectancy, education and income measures.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-econ-dev-03",
+      "subject": "Economics",
+      "unit": "Development",
+      "difficulty": 3,
+      "prompt": "Economic growth without development is most likely when what occurs?",
+      "options": [
+        "Literacy and health both improve",
+        "Income inequality falls sharply",
+        "Basic services reach more people",
+        "Output rises but living standards remain widely poor"
+      ],
+      "answer": 3,
+      "explanation": "Growth records higher output, while development also requires broad improvements in welfare and opportunity.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-geo-map-01",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 1,
+      "prompt": "What do contour lines on a topographic map join?",
+      "options": [
+        "Places of equal elevation",
+        "Places of equal population",
+        "All roads",
+        "Political boundaries"
+      ],
+      "answer": 0,
+      "explanation": "Each contour line connects points at the same height above a reference level.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-geo-map-02",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 2,
+      "prompt": "On a map with scale 1:50,000, 2 cm represents what ground distance?",
+      "options": [
+        "500 m",
+        "1 km",
+        "10 km",
+        "100 m"
+      ],
+      "answer": 1,
+      "explanation": "Two centimetres represents 100,000 cm, which equals 1 kilometre.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-geo-map-03",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 3,
+      "prompt": "Closely spaced contour lines on a map indicate what type of slope?",
+      "options": [
+        "Flat",
+        "Depressed only",
+        "Gentle",
+        "Steep"
+      ],
+      "answer": 3,
+      "explanation": "A rapid change in elevation over a short horizontal distance produces close contours.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-geo-climate-01",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 1,
+      "prompt": "Which instrument measures rainfall?",
+      "options": [
+        "Rain gauge",
+        "Hygrometer",
+        "Anemometer",
+        "Barometer"
+      ],
+      "answer": 0,
+      "explanation": "A rain gauge collects and measures precipitation over a set period.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-geo-climate-02",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 2,
+      "prompt": "Why are coastal places often cooler than inland places during hot afternoons?",
+      "options": [
+        "Wind stops at the coast",
+        "Land reflects all sunlight",
+        "Water heats more slowly than land",
+        "Sea water has no heat"
+      ],
+      "answer": 2,
+      "explanation": "The sea changes temperature more slowly, and cooler onshore air moderates coastal temperatures.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-geo-climate-03",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 3,
+      "prompt": "Air rising over a mountain cools and produces rain on the windward side. What is this rainfall called?",
+      "options": [
+        "Cyclonic only",
+        "Convectional",
+        "Relief",
+        "Frontal"
+      ],
+      "answer": 2,
+      "explanation": "Relief rainfall occurs when moist air is forced to rise over elevated land.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-geo-pop-01",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 1,
+      "prompt": "What is population density?",
+      "options": [
+        "People per unit area",
+        "Deaths per hospital",
+        "Workers per industry",
+        "Births per year"
+      ],
+      "answer": 0,
+      "explanation": "Population density divides the number of inhabitants by the land area occupied.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-geo-pop-02",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 2,
+      "prompt": "Which factor is a common pull factor for rural-to-urban migration?",
+      "options": [
+        "Lower availability of schools",
+        "Greater distance from markets",
+        "Fewer employment opportunities",
+        "Better access to jobs"
+      ],
+      "answer": 3,
+      "explanation": "People are often attracted to cities by employment and access to services.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-geo-pop-03",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 3,
+      "prompt": "A population pyramid with a very broad base usually indicates what?",
+      "options": [
+        "No dependent population",
+        "A low birth rate",
+        "An ageing population only",
+        "A high birth rate"
+      ],
+      "answer": 3,
+      "explanation": "A broad base represents a large share of young children produced by high birth rates.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-geo-res-01",
+      "subject": "Geography",
+      "unit": "Resources",
+      "difficulty": 1,
+      "prompt": "Which resource is renewable?",
+      "options": [
+        "Coal",
+        "Crude oil",
+        "Solar energy",
+        "Natural gas"
+      ],
+      "answer": 2,
+      "explanation": "Sunlight is naturally replenished and can provide a continuing energy supply.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-geo-res-02",
+      "subject": "Geography",
+      "unit": "Resources",
+      "difficulty": 2,
+      "prompt": "What is one direct benefit of crop rotation?",
+      "options": [
+        "Maintenance of soil fertility",
+        "Guaranteed drought",
+        "Removal of all organisms",
+        "Permanent soil exposure"
+      ],
+      "answer": 0,
+      "explanation": "Alternating crops, especially with legumes, helps manage nutrients and interrupt pest cycles.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-geo-res-03",
+      "subject": "Geography",
+      "unit": "Resources",
+      "difficulty": 3,
+      "prompt": "Which practice best supports sustainable forest use?",
+      "options": [
+        "Burning every dry season",
+        "Removing protected areas",
+        "Clear-felling without replacement",
+        "Selective logging with replanting"
+      ],
+      "answer": 3,
+      "explanation": "Selective harvesting and replanting allow forest resources and habitats to recover.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-gov-const-01",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 1,
+      "prompt": "What is a constitution?",
+      "options": [
+        "A court witness statement",
+        "An annual budget only",
+        "A country's fundamental rules of government",
+        "A party campaign poster"
+      ],
+      "answer": 2,
+      "explanation": "A constitution establishes the basic institutions, powers, procedures and rights of a state.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-gov-const-02",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 2,
+      "prompt": "A constitution that is difficult to amend is described as what?",
+      "options": [
+        "Unitary",
+        "Flexible",
+        "Rigid",
+        "Unwritten only"
+      ],
+      "answer": 2,
+      "explanation": "A rigid constitution requires a special procedure beyond ordinary lawmaking for amendment.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-gov-const-03",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 3,
+      "prompt": "Why is constitutional supremacy important?",
+      "options": [
+        "It places public power under higher rules",
+        "It abolishes all courts",
+        "It lets officials ignore rights",
+        "It prevents every amendment"
+      ],
+      "answer": 0,
+      "explanation": "Supremacy makes governmental acts subject to the constitution and permits invalid acts to be challenged.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-gov-arms-01",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 1,
+      "prompt": "Which arm of government interprets laws?",
+      "options": [
+        "Judiciary",
+        "Civil service",
+        "Executive",
+        "Legislature"
+      ],
+      "answer": 0,
+      "explanation": "Courts in the judiciary interpret laws when deciding cases.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-gov-arms-02",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 2,
+      "prompt": "What is the main role of the legislature?",
+      "options": [
+        "Printing newspapers",
+        "Making laws",
+        "Commanding private companies",
+        "Conducting every court trial"
+      ],
+      "answer": 1,
+      "explanation": "The legislature debates and enacts laws and also scrutinises government activity.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-gov-arms-03",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 3,
+      "prompt": "Checks and balances are intended primarily to achieve what?",
+      "options": [
+        "Concentrate all power in one office",
+        "Limit abuse by allowing institutions to restrain one another",
+        "Remove judicial independence",
+        "End legislative debate"
+      ],
+      "answer": 1,
+      "explanation": "Checks and balances distribute controls so no single institution can exercise unchecked authority.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-gov-parties-01",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 1,
+      "prompt": "What is a central aim of a political party?",
+      "options": [
+        "To operate only as a charity",
+        "To gain political power through elections",
+        "To replace every court",
+        "To abolish public opinion"
+      ],
+      "answer": 1,
+      "explanation": "Political parties organise candidates and policies in order to win elections and govern.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-gov-parties-02",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 2,
+      "prompt": "What role does an opposition party perform in a democracy?",
+      "options": [
+        "It scrutinises the government and offers alternatives",
+        "It suspends all elections",
+        "It controls every judge",
+        "It prevents voters from choosing"
+      ],
+      "answer": 0,
+      "explanation": "Opposition parties hold government to account and present alternative policies to voters.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-gov-parties-03",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 3,
+      "prompt": "Which electoral system most directly allocates seats according to each party's share of votes?",
+      "options": [
+        "Proportional representation",
+        "Hereditary succession",
+        "Military appointment",
+        "First past the post"
+      ],
+      "answer": 0,
+      "explanation": "Proportional representation seeks to match legislative seat shares with vote shares.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-gov-foreign-01",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "difficulty": 1,
+      "prompt": "What is foreign policy concerned with?",
+      "options": [
+        "Only local road repairs",
+        "Private family rules",
+        "School timetables",
+        "Relations with other countries"
+      ],
+      "answer": 3,
+      "explanation": "Foreign policy guides how a state pursues its interests in relations with other international actors.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-gov-foreign-02",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "difficulty": 2,
+      "prompt": "Which activity is an example of diplomacy?",
+      "options": [
+        "Ignoring all international communication",
+        "Cancelling domestic elections",
+        "Negotiating a treaty",
+        "Closing every embassy"
+      ],
+      "answer": 2,
+      "explanation": "Diplomacy uses negotiation and representation to manage relations between states.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-gov-foreign-03",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "difficulty": 3,
+      "prompt": "Why might states join a regional organisation?",
+      "options": [
+        "To prevent diplomatic contact",
+        "To cooperate on shared economic and security concerns",
+        "To surrender every domestic law automatically",
+        "To eliminate all trade"
+      ],
+      "answer": 1,
+      "explanation": "Regional organisations help neighbouring states coordinate trade, development, peace and security.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-lit-prose-01",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 1,
+      "prompt": "Who is the protagonist of a story?",
+      "options": [
+        "Its publisher",
+        "Every reader",
+        "The page designer",
+        "Its main character"
+      ],
+      "answer": 3,
+      "explanation": "The protagonist is the central character whose actions or conflict drive much of the story.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-lit-prose-02",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 2,
+      "prompt": "A narrator who uses 'I' and participates in events uses which point of view?",
+      "options": [
+        "Third-person omniscient",
+        "Objective dramatic",
+        "First person",
+        "Second person"
+      ],
+      "answer": 2,
+      "explanation": "A participant narrator who refers to self as I tells the story in the first person.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-lit-prose-03",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 3,
+      "prompt": "When a narrative moves back to an earlier event, which technique is used?",
+      "options": [
+        "Denouement",
+        "Foreshadowing",
+        "Flashback",
+        "Climax"
+      ],
+      "answer": 2,
+      "explanation": "A flashback interrupts present chronology to present an event from the past.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-lit-drama-01",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 1,
+      "prompt": "What is a stage direction?",
+      "options": [
+        "A review written after the play",
+        "The price of admission",
+        "A list of audience members",
+        "An instruction about action or performance"
+      ],
+      "answer": 3,
+      "explanation": "Stage directions guide movement, delivery, setting or other aspects of performance.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-lit-drama-02",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 2,
+      "prompt": "A speech made by a character alone on stage revealing private thoughts is called what?",
+      "options": [
+        "Chorus",
+        "Prologue",
+        "Dialogue",
+        "Soliloquy"
+      ],
+      "answer": 3,
+      "explanation": "A soliloquy allows a character alone on stage to express thoughts directly to the audience.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-lit-drama-03",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 3,
+      "prompt": "Dramatic irony occurs when which situation exists?",
+      "options": [
+        "The stage is completely dark",
+        "The audience knows more than a character",
+        "Every character knows the same facts",
+        "A play has no conflict"
+      ],
+      "answer": 1,
+      "explanation": "Dramatic irony depends on the audience understanding something that a character does not.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-lit-poetry-01",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 1,
+      "prompt": "What is a stanza?",
+      "options": [
+        "A prose chapter",
+        "A grouped set of lines in a poem",
+        "The cover of a novel",
+        "A character in a play"
+      ],
+      "answer": 1,
+      "explanation": "A stanza is a unit of poetic lines arranged together, often around one pattern or idea.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-lit-poetry-02",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 2,
+      "prompt": "What is enjambment?",
+      "options": [
+        "A sentence continuing beyond a line break",
+        "An exact end rhyme",
+        "A repeated title",
+        "A poem without imagery"
+      ],
+      "answer": 0,
+      "explanation": "Enjambment occurs when syntax and meaning continue from one poetic line into the next without a full pause.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-lit-poetry-03",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 3,
+      "prompt": "A regular pattern of stressed and unstressed syllables is called what?",
+      "options": [
+        "Metre",
+        "Setting",
+        "Persona",
+        "Plot"
+      ],
+      "answer": 0,
+      "explanation": "Metre is the organised rhythmic pattern produced by stressed and unstressed syllables.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-lit-device-01",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 1,
+      "prompt": "'The wind whispered through the trees' uses which device?",
+      "options": [
+        "Personification",
+        "Hyperbole",
+        "Pun",
+        "Paradox"
+      ],
+      "answer": 0,
+      "explanation": "The non-human wind is given the human action of whispering, which is personification.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-lit-device-02",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 2,
+      "prompt": "'He fought like a lion' is an example of what?",
+      "options": [
+        "Simile",
+        "Irony",
+        "Euphemism",
+        "Metaphor"
+      ],
+      "answer": 0,
+      "explanation": "A simile makes an explicit comparison using like or as.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-lit-device-03",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 3,
+      "prompt": "What device places two contrasting ideas close together for emphasis?",
+      "options": [
+        "Apostrophe",
+        "Alliteration",
+        "Juxtaposition",
+        "Onomatopoeia"
+      ],
+      "answer": 2,
+      "explanation": "Juxtaposition places unlike ideas or images side by side to highlight their contrast.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-cs-hardware-01",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 1,
+      "prompt": "Which component performs most arithmetic and logical operations in a computer?",
+      "options": [
+        "Printer",
+        "CPU",
+        "Monitor",
+        "Keyboard"
+      ],
+      "answer": 1,
+      "explanation": "The central processing unit executes instructions and performs arithmetic and logic operations.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-cs-hardware-02",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 2,
+      "prompt": "Which storage device has no moving mechanical parts?",
+      "options": [
+        "Magnetic hard disk",
+        "Solid-state drive",
+        "Optical disc drive",
+        "Magnetic tape reel"
+      ],
+      "answer": 1,
+      "explanation": "A solid-state drive stores data in flash memory and uses no moving read-write mechanism.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-cs-hardware-03",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 3,
+      "prompt": "What is the main purpose of cache memory?",
+      "options": [
+        "To print permanent records",
+        "To replace every input device",
+        "To provide internet addresses",
+        "To hold frequently needed data close to the CPU"
+      ],
+      "answer": 3,
+      "explanation": "Fast cache reduces the time the CPU waits for frequently accessed instructions and data.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-cs-algo-01",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 1,
+      "prompt": "What is an algorithm?",
+      "options": [
+        "A finite sequence of steps for solving a problem",
+        "A physical computer case",
+        "A type of monitor",
+        "A permanent network cable"
+      ],
+      "answer": 0,
+      "explanation": "An algorithm is a clear finite procedure that transforms input into a required result.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-cs-algo-02",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 2,
+      "prompt": "Which search method repeatedly halves a sorted list?",
+      "options": [
+        "Binary search",
+        "Bubble sort",
+        "Sequential output",
+        "Linear search"
+      ],
+      "answer": 0,
+      "explanation": "Binary search compares the middle item and discards half of the remaining sorted range.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-cs-algo-03",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 3,
+      "prompt": "What is the time complexity of binary search on a sorted list?",
+      "options": [
+        "O(n)",
+        "O(n²)",
+        "O(1)",
+        "O(log n)"
+      ],
+      "answer": 3,
+      "explanation": "Halving the search space on each comparison produces logarithmic time complexity.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-cs-prog-01",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 1,
+      "prompt": "Which programming structure repeats a block of instructions?",
+      "options": [
+        "Constant",
+        "Comment",
+        "Assignment only",
+        "Loop"
+      ],
+      "answer": 3,
+      "explanation": "A loop repeatedly executes a block while a condition or count controls continuation.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-cs-prog-02",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 2,
+      "prompt": "What value does the expression 7 % 3 produce in many programming languages?",
+      "options": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "answer": 2,
+      "explanation": "The modulo operator returns the remainder; dividing 7 by 3 leaves remainder 1.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-cs-prog-03",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 3,
+      "prompt": "Why is a function parameter useful?",
+      "options": [
+        "It replaces all variables globally",
+        "It lets a function receive values from its caller",
+        "It permanently stops execution",
+        "It deletes the source code"
+      ],
+      "answer": 1,
+      "explanation": "Parameters make a function reusable by letting callers supply the values it should process.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-cs-net-01",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 1,
+      "prompt": "What does LAN stand for?",
+      "options": [
+        "Local Area Network",
+        "Long Access Node",
+        "Linked Analogue Number",
+        "Logical Application Name"
+      ],
+      "answer": 0,
+      "explanation": "LAN means Local Area Network, normally covering a limited location such as a school or office.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-cs-net-02",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 2,
+      "prompt": "Which device forwards data packets between different networks?",
+      "options": [
+        "Keyboard",
+        "Scanner",
+        "Projector",
+        "Router"
+      ],
+      "answer": 3,
+      "explanation": "A router examines network addresses and forwards packets toward their destinations.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "wa-jamb-cs-net-03",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 3,
+      "prompt": "What is the purpose of DNS on the internet?",
+      "options": [
+        "It encrypts every stored file",
+        "It supplies electrical power",
+        "It translates domain names into IP addresses",
+        "It physically repairs cables"
+      ],
+      "answer": 2,
+      "explanation": "The Domain Name System resolves human-readable domain names to network IP addresses.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    }
+  ]
+}
