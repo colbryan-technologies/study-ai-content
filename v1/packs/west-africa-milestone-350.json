@@ -1,0 +1,2864 @@
+{
+  "manifest": {
+    "id": "west-africa-milestone-350",
+    "version": 1,
+    "curriculum": "Core",
+    "subject": "All",
+    "questionCount": 150,
+    "publishedAt": "2026-09-14T22:00:00.000Z",
+    "source": "COLBRYAN Technologies",
+    "reviewStatus": "reviewed"
+  },
+  "questions": [
+    {
+      "id": "milestone-350-mathematics-01",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 1,
+      "prompt": "Solve 5x - 7 = 18.",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "11"
+      ],
+      "answer": 1,
+      "explanation": "Adding 7 gives 5x = 25, so x = 5.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-mathematics-02",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 2,
+      "prompt": "Expand (x + 3)(x - 2).",
+      "options": [
+        "x² - x - 6",
+        "x² + 5x - 6",
+        "x² + x + 6",
+        "x² + x - 6"
+      ],
+      "answer": 3,
+      "explanation": "Multiplying each term gives x² - 2x + 3x - 6 = x² + x - 6.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-mathematics-03",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 3,
+      "prompt": "If y varies directly as x and y = 12 when x = 3, find y when x = 5.",
+      "options": [
+        "24",
+        "60",
+        "15",
+        "20"
+      ],
+      "answer": 3,
+      "explanation": "The constant is 12/3 = 4, so y = 4 × 5 = 20.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-mathematics-04",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 1,
+      "prompt": "Solve the simultaneous equations x + y = 9 and x - y = 3.",
+      "options": [
+        "x = 12, y = 6",
+        "x = 3, y = 6",
+        "x = 6, y = 3",
+        "x = 9, y = 3"
+      ],
+      "answer": 2,
+      "explanation": "Adding the equations gives 2x = 12, hence x = 6 and y = 3.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-mathematics-05",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 2,
+      "prompt": "Find the perimeter of a square whose side is 9 cm.",
+      "options": [
+        "18 cm",
+        "27 cm",
+        "36 cm",
+        "81 cm"
+      ],
+      "answer": 2,
+      "explanation": "A square has four equal sides, so its perimeter is 4 × 9 = 36 cm.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-mathematics-06",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 3,
+      "prompt": "A right triangle has legs 6 cm and 8 cm. Find its hypotenuse.",
+      "options": [
+        "10 cm",
+        "12 cm",
+        "14 cm",
+        "7 cm"
+      ],
+      "answer": 0,
+      "explanation": "Pythagoras gives √(6² + 8²) = √100 = 10 cm.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-mathematics-07",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 1,
+      "prompt": "Find the volume of a cuboid measuring 5 cm by 4 cm by 3 cm.",
+      "options": [
+        "47 cm³",
+        "60 cm³",
+        "12 cm³",
+        "20 cm³"
+      ],
+      "answer": 1,
+      "explanation": "Volume is length × width × height = 5 × 4 × 3 = 60 cm³.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-mathematics-08",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 2,
+      "prompt": "Each exterior angle of a regular polygon is 45°. How many sides has it?",
+      "options": [
+        "12",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": 2,
+      "explanation": "Exterior angles total 360°, so the number of sides is 360/45 = 8.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-mathematics-09",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "difficulty": 3,
+      "prompt": "What is cos 60°?",
+      "options": [
+        "0",
+        "1/2",
+        "√3/2",
+        "1"
+      ],
+      "answer": 1,
+      "explanation": "The standard exact value of cos 60° is one-half.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-mathematics-10",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "difficulty": 1,
+      "prompt": "A ladder 5 m long reaches 4 m up a wall. How far is its foot from the wall?",
+      "options": [
+        "1 m",
+        "3 m",
+        "4 m",
+        "9 m"
+      ],
+      "answer": 1,
+      "explanation": "Pythagoras gives √(5² - 4²) = √9 = 3 m.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-mathematics-11",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "difficulty": 2,
+      "prompt": "If sin θ = 5/13 for an acute angle, find tan θ.",
+      "options": [
+        "12/5",
+        "5/13",
+        "13/12",
+        "5/12"
+      ],
+      "answer": 3,
+      "explanation": "The corresponding right triangle is 5-12-13, so tan θ = 5/12.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-mathematics-12",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "difficulty": 3,
+      "prompt": "From a point 20 m from a tower, the angle of elevation is 45°. Find the tower's height.",
+      "options": [
+        "20√2 m",
+        "40 m",
+        "10 m",
+        "20 m"
+      ],
+      "answer": 3,
+      "explanation": "tan 45° = height/20 = 1, so the height is 20 m.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-mathematics-13",
+      "subject": "Mathematics",
+      "unit": "Statistics",
+      "difficulty": 1,
+      "prompt": "Find the range of 4, 11, 7, 15 and 9.",
+      "options": [
+        "15",
+        "4",
+        "9",
+        "11"
+      ],
+      "answer": 3,
+      "explanation": "Range equals maximum minus minimum: 15 - 4 = 11.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-mathematics-14",
+      "subject": "Mathematics",
+      "unit": "Statistics",
+      "difficulty": 2,
+      "prompt": "The probabilities of all outcomes in a complete sample space sum to what?",
+      "options": [
+        "0",
+        "1",
+        "10",
+        "100"
+      ],
+      "answer": 1,
+      "explanation": "A complete sample space has total probability equal to 1.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-mathematics-15",
+      "subject": "Mathematics",
+      "unit": "Statistics",
+      "difficulty": 3,
+      "prompt": "A bag contains 3 red and 7 blue balls. What is the probability of choosing a red ball?",
+      "options": [
+        "3/10",
+        "7/10",
+        "1/3",
+        "3/7"
+      ],
+      "answer": 0,
+      "explanation": "There are 3 favourable balls out of 10 total, giving 3/10.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-01",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 1,
+      "prompt": "A runner increases speed from 4 m/s to 10 m/s in 3 s. Find the acceleration.",
+      "options": [
+        "18 m/s²",
+        "2 m/s²",
+        "3 m/s²",
+        "6 m/s²"
+      ],
+      "answer": 1,
+      "explanation": "Acceleration is change in velocity divided by time: (10 - 4)/3 = 2 m/s².",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-02",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 2,
+      "prompt": "On a distance-time graph, which physical quantity is given by the gradient?",
+      "options": [
+        "Acceleration",
+        "Speed",
+        "Force",
+        "Momentum"
+      ],
+      "answer": 1,
+      "explanation": "Distance change divided by time change is speed.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-03",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 3,
+      "prompt": "A vehicle moving at 12 m/s stops uniformly in 4 s. Find its acceleration.",
+      "options": [
+        "-2 m/s²",
+        "3 m/s²",
+        "48 m/s²",
+        "-3 m/s²"
+      ],
+      "answer": 3,
+      "explanation": "Acceleration is (0 - 12)/4 = -3 m/s²; the negative sign indicates slowing.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-04",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 1,
+      "prompt": "A body moves at 8 m/s for 15 s. How far does it travel?",
+      "options": [
+        "120 m",
+        "240 m",
+        "23 m",
+        "60 m"
+      ],
+      "answer": 0,
+      "explanation": "At constant speed, distance = speed × time = 8 × 15 = 120 m.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-05",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 2,
+      "prompt": "What is the weight of a 6 kg mass where g = 10 N/kg?",
+      "options": [
+        "600 N",
+        "0.6 N",
+        "16 N",
+        "60 N"
+      ],
+      "answer": 3,
+      "explanation": "Weight W = mg = 6 × 10 = 60 N.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-06",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 3,
+      "prompt": "Which law explains why a passenger moves forward when a car stops suddenly?",
+      "options": [
+        "Newton's first law",
+        "Hooke's law",
+        "Ohm's law",
+        "Boyle's law"
+      ],
+      "answer": 0,
+      "explanation": "Inertia keeps the passenger moving forward unless a restraining force acts.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-07",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 1,
+      "prompt": "A force of 30 N moves an object 5 m in its direction. Find the work done.",
+      "options": [
+        "35 J",
+        "150 J",
+        "750 J",
+        "6 J"
+      ],
+      "answer": 1,
+      "explanation": "Work equals force × distance = 30 × 5 = 150 J.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-08",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 2,
+      "prompt": "A machine does 600 J of work in 20 s. Find its power.",
+      "options": [
+        "120 W",
+        "12,000 W",
+        "20 W",
+        "30 W"
+      ],
+      "answer": 3,
+      "explanation": "Power is work divided by time: 600/20 = 30 W.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-09",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 3,
+      "prompt": "What is the period of a 5 Hz wave?",
+      "options": [
+        "25 s",
+        "0.2 s",
+        "2 s",
+        "5 s"
+      ],
+      "answer": 1,
+      "explanation": "Period T = 1/f = 1/5 = 0.2 s.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-10",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 1,
+      "prompt": "Which property of sound mainly determines pitch?",
+      "options": [
+        "Intensity only",
+        "Amplitude",
+        "Frequency",
+        "Speed"
+      ],
+      "answer": 2,
+      "explanation": "Higher frequency produces a higher perceived pitch.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-11",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 2,
+      "prompt": "Why can sound not travel through a vacuum?",
+      "options": [
+        "It is too fast",
+        "It needs particles to transfer vibrations",
+        "Its frequency becomes zero",
+        "Vacuum absorbs all light"
+      ],
+      "answer": 1,
+      "explanation": "Sound is mechanical and propagates through vibrations passed between particles.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-12",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 3,
+      "prompt": "What phenomenon makes a straw appear bent in water?",
+      "options": [
+        "Refraction",
+        "Diffraction",
+        "Interference",
+        "Reflection"
+      ],
+      "answer": 0,
+      "explanation": "Light changes direction as its speed changes between water and air.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-13",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 1,
+      "prompt": "How much charge flows when a current of 2 A passes for 5 s?",
+      "options": [
+        "7 C",
+        "10 C",
+        "0.4 C",
+        "2.5 C"
+      ],
+      "answer": 1,
+      "explanation": "Charge Q = It = 2 × 5 = 10 C.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-14",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 2,
+      "prompt": "A 60 W lamp operates for 10 s. How much energy does it use?",
+      "options": [
+        "6000 J",
+        "6 J",
+        "50 J",
+        "600 J"
+      ],
+      "answer": 3,
+      "explanation": "Energy = power × time = 60 × 10 = 600 J.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-physics-15",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 3,
+      "prompt": "In a series circuit, which quantity is the same through every component?",
+      "options": [
+        "Current",
+        "Voltage",
+        "Resistance",
+        "Power"
+      ],
+      "answer": 0,
+      "explanation": "There is only one path, so the same current passes through all series components.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-01",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 1,
+      "prompt": "What is the atomic number of an element equal to?",
+      "options": [
+        "Its number of protons",
+        "Its protons plus neutrons",
+        "Its number of shells",
+        "Its relative molecular mass"
+      ],
+      "answer": 0,
+      "explanation": "Atomic number is defined as the number of protons in an atom's nucleus.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-02",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 2,
+      "prompt": "Which pair represents isotopes of the same element?",
+      "options": [
+        "Atoms with different protons and equal neutrons",
+        "An atom and an unrelated ion",
+        "Two identical molecules",
+        "Atoms with equal protons but different neutrons"
+      ],
+      "answer": 3,
+      "explanation": "Isotopes share an atomic number but have different neutron counts and mass numbers.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-03",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 3,
+      "prompt": "How many electrons are in a magnesium ion, Mg²⁺, if magnesium has atomic number 12?",
+      "options": [
+        "14",
+        "24",
+        "10",
+        "12"
+      ],
+      "answer": 2,
+      "explanation": "A neutral magnesium atom has 12 electrons and loses two to form Mg²⁺, leaving 10.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-04",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 1,
+      "prompt": "Which shell is filled first when electrons occupy an atom?",
+      "options": [
+        "The shell with most neutrons",
+        "The lowest-energy shell",
+        "The outermost shell",
+        "Any shell at random"
+      ],
+      "answer": 1,
+      "explanation": "Electrons occupy available lower-energy levels before higher-energy levels.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-05",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 2,
+      "prompt": "Which particles hold positive metal ions together in metallic bonding?",
+      "options": [
+        "Delocalised electrons",
+        "Free neutrons",
+        "Shared protons",
+        "Negative nuclei"
+      ],
+      "answer": 0,
+      "explanation": "Electrostatic attraction between metal ions and delocalised electrons holds the lattice together.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-06",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 3,
+      "prompt": "Why do ionic compounds often have high melting points?",
+      "options": [
+        "Their molecules have no forces",
+        "They contain only gases",
+        "Their ions are uncharged",
+        "Strong attractions act between oppositely charged ions"
+      ],
+      "answer": 3,
+      "explanation": "A large amount of energy is needed to overcome strong electrostatic attractions in the lattice.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-07",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 1,
+      "prompt": "Which molecule contains a double covalent bond?",
+      "options": [
+        "HCl",
+        "CH₄",
+        "O₂",
+        "H₂"
+      ],
+      "answer": 2,
+      "explanation": "The two oxygen atoms in O₂ share two pairs of electrons, forming a double bond.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-08",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 2,
+      "prompt": "Which property is typical of simple covalent substances?",
+      "options": [
+        "Free-moving metal ions",
+        "Low melting point",
+        "Electrical conduction when solid",
+        "A giant ionic lattice"
+      ],
+      "answer": 1,
+      "explanation": "Weak forces between small molecules usually give simple covalent substances low melting points.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-09",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 3,
+      "prompt": "Which ion is produced by acids in aqueous solution?",
+      "options": [
+        "H⁺",
+        "OH⁻",
+        "Na⁺",
+        "Cl⁻ only"
+      ],
+      "answer": 0,
+      "explanation": "Acids donate hydrogen ions when dissolved in water.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-10",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 1,
+      "prompt": "What salt forms when sulfuric acid neutralises potassium hydroxide?",
+      "options": [
+        "Potassium sulfate",
+        "Potassium chloride",
+        "Sodium sulfate",
+        "Potassium sulfide"
+      ],
+      "answer": 0,
+      "explanation": "Sulfuric acid and potassium hydroxide form potassium sulfate and water.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-11",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 2,
+      "prompt": "Which substance can raise the pH of acidic soil?",
+      "options": [
+        "Hydrochloric acid",
+        "Sulfur dioxide",
+        "Ammonium chloride",
+        "Calcium carbonate"
+      ],
+      "answer": 3,
+      "explanation": "Calcium carbonate neutralises excess acid and is commonly used as agricultural lime.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-12",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 3,
+      "prompt": "What volume of 0.5 mol/dm³ solution contains 0.25 mol of solute?",
+      "options": [
+        "1.0 dm³",
+        "2.0 dm³",
+        "0.5 dm³",
+        "0.125 dm³"
+      ],
+      "answer": 2,
+      "explanation": "Using n = cV gives V = 0.25/0.5 = 0.5 dm³.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-13",
+      "subject": "Chemistry",
+      "unit": "Organic chemistry",
+      "difficulty": 1,
+      "prompt": "What functional group characterises alcohols?",
+      "options": [
+        "Carbon-carbon triple bond",
+        "Hydroxyl, -OH",
+        "Carboxyl, -COOH",
+        "Amino, -NH₂"
+      ],
+      "answer": 1,
+      "explanation": "Alcohols contain the hydroxyl functional group bonded to a carbon atom.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-14",
+      "subject": "Chemistry",
+      "unit": "Organic chemistry",
+      "difficulty": 2,
+      "prompt": "Complete combustion of a hydrocarbon produces which substances?",
+      "options": [
+        "Carbon dioxide and water",
+        "Carbon monoxide only",
+        "Carbon and hydrogen",
+        "Methane and oxygen"
+      ],
+      "answer": 0,
+      "explanation": "With sufficient oxygen, carbon becomes carbon dioxide and hydrogen becomes water.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-chemistry-15",
+      "subject": "Chemistry",
+      "unit": "Organic chemistry",
+      "difficulty": 3,
+      "prompt": "What polymer forms from many ethene molecules?",
+      "options": [
+        "Poly(propene)",
+        "Nylon",
+        "Starch",
+        "Poly(ethene)"
+      ],
+      "answer": 3,
+      "explanation": "Ethene monomers join by addition polymerisation to form poly(ethene).",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-01",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 1,
+      "prompt": "Which structure controls movement of substances into and out of a cell?",
+      "options": [
+        "Nucleus",
+        "Chromosome",
+        "Cell wall only",
+        "Cell membrane"
+      ],
+      "answer": 3,
+      "explanation": "The selectively permeable cell membrane regulates exchange with the surroundings.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-02",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 2,
+      "prompt": "Where are proteins assembled in a cell?",
+      "options": [
+        "Centrioles only",
+        "Cellulose walls",
+        "Ribosomes",
+        "Vacuoles"
+      ],
+      "answer": 2,
+      "explanation": "Ribosomes translate genetic instructions and link amino acids into proteins.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-03",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 3,
+      "prompt": "Why do root hair cells have long projections?",
+      "options": [
+        "To store seeds",
+        "To increase surface area for absorption",
+        "To carry out pollination",
+        "To reduce contact with soil"
+      ],
+      "answer": 1,
+      "explanation": "Their projections increase contact with soil water and mineral ions.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-04",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 1,
+      "prompt": "What happens to an animal cell in a very dilute solution?",
+      "options": [
+        "It gains water and may burst",
+        "It loses all water",
+        "Its cell wall thickens",
+        "It immediately divides"
+      ],
+      "answer": 0,
+      "explanation": "Water enters by osmosis, and without a cell wall the cell may lyse.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-05",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 2,
+      "prompt": "What is an allele?",
+      "options": [
+        "A complete organ",
+        "A type of carbohydrate",
+        "A cell membrane",
+        "An alternative form of a gene"
+      ],
+      "answer": 3,
+      "explanation": "Alleles are different versions of the same gene at a particular locus.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-06",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 3,
+      "prompt": "Which sex chromosomes normally occur in a human male?",
+      "options": [
+        "YY",
+        "XO only",
+        "XY",
+        "XX"
+      ],
+      "answer": 2,
+      "explanation": "A typical human male has one X and one Y chromosome.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-07",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 1,
+      "prompt": "What process produces genetically varied gametes?",
+      "options": [
+        "Budding only",
+        "Meiosis",
+        "Mitosis",
+        "Binary fission"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis includes independent assortment and crossing over, producing varied haploid gametes.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-08",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 2,
+      "prompt": "A homozygous dominant plant TT is crossed with tt. What genotype has every F1 offspring?",
+      "options": [
+        "Tt",
+        "TT",
+        "tt",
+        "T only"
+      ],
+      "answer": 0,
+      "explanation": "Each offspring receives T from one parent and t from the other, producing Tt.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-09",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 3,
+      "prompt": "What term describes all populations living together in an area?",
+      "options": [
+        "Species",
+        "Habitat",
+        "Biosphere only",
+        "Community"
+      ],
+      "answer": 3,
+      "explanation": "A biological community consists of interacting populations of different species.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-10",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 1,
+      "prompt": "Which relationship benefits both participating species?",
+      "options": [
+        "Parasitism",
+        "Predation",
+        "Competition",
+        "Mutualism"
+      ],
+      "answer": 3,
+      "explanation": "In mutualism, each organism receives a benefit from the association.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-11",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 2,
+      "prompt": "Why are food chains usually short?",
+      "options": [
+        "Predators never respire",
+        "All consumers have equal biomass",
+        "Energy is lost at each transfer",
+        "Producers contain no energy"
+      ],
+      "answer": 2,
+      "explanation": "Large energy losses between trophic levels leave too little to support many levels.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-12",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 3,
+      "prompt": "What is the likely immediate effect of removing a top predator?",
+      "options": [
+        "Rainfall always doubles",
+        "Its prey population may increase",
+        "All producers disappear instantly",
+        "Energy transfer stops completely"
+      ],
+      "answer": 1,
+      "explanation": "Reduced predation commonly allows prey numbers to rise until other limits act.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-13",
+      "subject": "Biology",
+      "unit": "Human systems",
+      "difficulty": 1,
+      "prompt": "Which blood cells transport oxygen?",
+      "options": [
+        "Red blood cells",
+        "Platelets",
+        "Lymphocytes only",
+        "Phagocytes only"
+      ],
+      "answer": 0,
+      "explanation": "Haemoglobin in red blood cells binds and carries oxygen.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-14",
+      "subject": "Biology",
+      "unit": "Human systems",
+      "difficulty": 2,
+      "prompt": "What is the main function of the kidneys?",
+      "options": [
+        "Pumping blood",
+        "Producing bile",
+        "Digesting starch",
+        "Removing wastes and regulating water balance"
+      ],
+      "answer": 3,
+      "explanation": "Kidneys filter blood, excrete urea and regulate water and ion concentrations.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-biology-15",
+      "subject": "Biology",
+      "unit": "Human systems",
+      "difficulty": 3,
+      "prompt": "Which enzyme begins starch digestion in the mouth?",
+      "options": [
+        "Pepsin",
+        "Trypsin",
+        "Amylase",
+        "Lipase"
+      ],
+      "answer": 2,
+      "explanation": "Salivary amylase hydrolyses starch into smaller sugars.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-01",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 1,
+      "prompt": "What should a reader use to determine the meaning of an unfamiliar word in a passage?",
+      "options": [
+        "The author's surname only",
+        "The paragraph length",
+        "Its surrounding context",
+        "The page number"
+      ],
+      "answer": 2,
+      "explanation": "Nearby words and ideas provide contextual clues to the intended meaning.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-02",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 2,
+      "prompt": "A writer gives statistics after making a claim. What purpose do the statistics serve?",
+      "options": [
+        "A title",
+        "Supporting evidence",
+        "A greeting",
+        "A change of tense"
+      ],
+      "answer": 1,
+      "explanation": "Relevant statistics provide evidence that can strengthen or clarify a claim.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-03",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 3,
+      "prompt": "Which phrase most clearly signals a conclusion?",
+      "options": [
+        "Therefore",
+        "For example",
+        "Meanwhile",
+        "In contrast"
+      ],
+      "answer": 0,
+      "explanation": "Therefore introduces a result or conclusion drawn from earlier information.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-04",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 1,
+      "prompt": "What does an author's tone reveal?",
+      "options": [
+        "Only the number of paragraphs",
+        "The printing method",
+        "The reader's age",
+        "The author's attitude toward the subject"
+      ],
+      "answer": 3,
+      "explanation": "Word choice and style convey the author's attitude, known as tone.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-05",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "prompt": "Which option uses correct subject-verb agreement?",
+      "options": [
+        "Neither Musa or Tunde is late.",
+        "Neither Musa nor Tunde be late.",
+        "Neither Musa nor Tunde is late.",
+        "Neither Musa nor Tunde are late."
+      ],
+      "answer": 2,
+      "explanation": "With two singular alternatives joined by neither nor, the verb is singular.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-06",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 3,
+      "prompt": "What part of speech is 'carefully' in 'She carefully opened the box'?",
+      "options": [
+        "Pronoun",
+        "Adverb",
+        "Adjective",
+        "Noun"
+      ],
+      "answer": 1,
+      "explanation": "Carefully modifies the verb opened and is therefore an adverb.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-07",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 1,
+      "prompt": "Choose the correctly punctuated direct speech.",
+      "options": [
+        "Ada said, “I am ready.”",
+        "Ada said I am ready.",
+        "Ada, said I am ready.",
+        "Ada said; I am ready?"
+      ],
+      "answer": 0,
+      "explanation": "A reporting clause is followed by a comma, and the spoken sentence is enclosed in quotation marks.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-08",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "prompt": "Change 'They completed the work' to the passive voice.",
+      "options": [
+        "The work completed them.",
+        "They were completed by the work.",
+        "The work is completing.",
+        "The work was completed by them."
+      ],
+      "answer": 3,
+      "explanation": "The object becomes the passive subject and takes was completed.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-09",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 3,
+      "prompt": "Which feature is essential in a formal letter?",
+      "options": [
+        "No paragraphs",
+        "An invented signature only",
+        "An appropriate address and salutation",
+        "Slang throughout"
+      ],
+      "answer": 2,
+      "explanation": "Formal letters follow an accepted structure including addresses, date and salutation.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-10",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 1,
+      "prompt": "What makes evidence relevant in an argumentative essay?",
+      "options": [
+        "It changes the topic",
+        "It has difficult spelling",
+        "It directly supports the claim",
+        "It is the longest sentence"
+      ],
+      "answer": 2,
+      "explanation": "Relevant evidence bears directly on the argument being made.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-11",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 2,
+      "prompt": "Which order best supports a clear narrative?",
+      "options": [
+        "Repeated introductions only",
+        "A logical sequence of events",
+        "Random unrelated incidents",
+        "Conclusion before every event"
+      ],
+      "answer": 1,
+      "explanation": "A coherent narrative guides the reader through events in a meaningful sequence.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-12",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 3,
+      "prompt": "Why should a writer proofread a final draft?",
+      "options": [
+        "To correct errors and improve clarity",
+        "To remove every paragraph",
+        "To replace evidence with slang",
+        "To hide the main idea"
+      ],
+      "answer": 0,
+      "explanation": "Proofreading catches language and presentation errors before the work is submitted.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-13",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 1,
+      "prompt": "Which word rhymes with 'day'?",
+      "options": [
+        "see",
+        "die",
+        "do",
+        "say"
+      ],
+      "answer": 3,
+      "explanation": "Day and say share the final vowel and consonant pattern /eɪ/.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-14",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 2,
+      "prompt": "Which word contains a silent initial consonant?",
+      "options": [
+        "lock",
+        "mock",
+        "knock",
+        "rock"
+      ],
+      "answer": 2,
+      "explanation": "The initial letter k in knock is not pronounced.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-english-15",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 3,
+      "prompt": "Which syllable is stressed in the verb 'record'?",
+      "options": [
+        "Neither syllable",
+        "The second syllable",
+        "The first syllable",
+        "Both equally"
+      ],
+      "answer": 1,
+      "explanation": "The verb reCORD normally takes primary stress on its second syllable.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-01",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 1,
+      "prompt": "What is equilibrium price?",
+      "options": [
+        "The price where quantity demanded equals quantity supplied",
+        "The highest imaginable price",
+        "A price with no buyers",
+        "The cost of one input only"
+      ],
+      "answer": 0,
+      "explanation": "Market equilibrium occurs where planned demand and planned supply are equal.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-02",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 2,
+      "prompt": "A fall in production cost will normally do what to supply?",
+      "options": [
+        "Decrease it",
+        "Leave it permanently fixed",
+        "Turn it into demand",
+        "Increase it"
+      ],
+      "answer": 3,
+      "explanation": "Lower costs make production more profitable, shifting supply to the right.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-03",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 3,
+      "prompt": "If price elasticity of demand is greater than one, demand is described as what?",
+      "options": [
+        "Perfectly inelastic",
+        "Unit-free",
+        "Elastic",
+        "Inelastic"
+      ],
+      "answer": 2,
+      "explanation": "Elastic demand changes proportionately more than the price change.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-04",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 1,
+      "prompt": "A maximum price fixed below equilibrium is likely to create what?",
+      "options": [
+        "Unlimited supply",
+        "A shortage",
+        "A surplus",
+        "Automatic equilibrium"
+      ],
+      "answer": 1,
+      "explanation": "At the lower controlled price, quantity demanded exceeds quantity supplied.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-05",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 2,
+      "prompt": "Which feature distinguishes an oligopoly?",
+      "options": [
+        "A few interdependent large firms",
+        "One buyer only",
+        "Many tiny price-taking firms",
+        "No barriers or strategy"
+      ],
+      "answer": 0,
+      "explanation": "In an oligopoly, a small number of firms must consider rivals' reactions.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-06",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 3,
+      "prompt": "What is price discrimination?",
+      "options": [
+        "Charging one price everywhere",
+        "Removing every price",
+        "Paying equal wages",
+        "Charging different prices not explained by cost differences"
+      ],
+      "answer": 3,
+      "explanation": "Price discrimination charges different customers different prices for comparable products.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-07",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 1,
+      "prompt": "In perfect competition, an individual firm is what?",
+      "options": [
+        "A government ministry",
+        "The only employer",
+        "A price taker",
+        "The sole price maker"
+      ],
+      "answer": 2,
+      "explanation": "Many sellers and homogeneous output prevent one firm from controlling market price.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-08",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 2,
+      "prompt": "Which market has many sellers offering differentiated products?",
+      "options": [
+        "Bilateral monopoly",
+        "Monopolistic competition",
+        "Pure monopoly",
+        "Perfect monopsony"
+      ],
+      "answer": 1,
+      "explanation": "Monopolistic competition combines many firms with product differentiation.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-09",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 3,
+      "prompt": "What does inflation mean?",
+      "options": [
+        "A sustained rise in the general price level",
+        "A fall in every wage",
+        "An increase in one product's quality",
+        "A fixed exchange rate"
+      ],
+      "answer": 0,
+      "explanation": "Inflation is a continuing broad increase in prices that reduces money's purchasing power.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-10",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 1,
+      "prompt": "Which commercial-bank service allows customers to store money and make payments?",
+      "options": [
+        "Deposit accounts",
+        "Weather forecasting",
+        "Road construction",
+        "Population census"
+      ],
+      "answer": 0,
+      "explanation": "Banks accept deposits and provide payment services through customer accounts.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-11",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 2,
+      "prompt": "What is the opportunity cost of holding cash during high inflation?",
+      "options": [
+        "A guaranteed capital gain",
+        "Free insurance",
+        "Higher physical weight only",
+        "The purchasing power and returns forgone"
+      ],
+      "answer": 3,
+      "explanation": "Cash loses real value and earns less than alternative interest-bearing assets.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-12",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 3,
+      "prompt": "When a central bank buys government securities, what usually happens to bank reserves?",
+      "options": [
+        "They become exports",
+        "They turn into taxes",
+        "They increase",
+        "They disappear"
+      ],
+      "answer": 2,
+      "explanation": "Payment for securities injects funds into the banking system and raises reserves.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-13",
+      "subject": "Economics",
+      "unit": "Development",
+      "difficulty": 1,
+      "prompt": "What is unemployment?",
+      "options": [
+        "Only unpaid household activity",
+        "People able and willing to work cannot find jobs",
+        "Every student attending school",
+        "All retired people"
+      ],
+      "answer": 1,
+      "explanation": "Unemployment concerns job seekers who are available for work but lack employment.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-14",
+      "subject": "Economics",
+      "unit": "Development",
+      "difficulty": 2,
+      "prompt": "Which investment directly builds human capital?",
+      "options": [
+        "Education and health",
+        "Unused machinery",
+        "Luxury imports only",
+        "Destroying infrastructure"
+      ],
+      "answer": 0,
+      "explanation": "Education and health improve workers' knowledge, skills and productive capacity.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-economics-15",
+      "subject": "Economics",
+      "unit": "Development",
+      "difficulty": 3,
+      "prompt": "What is a progressive tax?",
+      "options": [
+        "Everyone pays the same cash amount",
+        "The rate falls as income rises",
+        "Only imports are taxed",
+        "The tax rate rises as income rises"
+      ],
+      "answer": 3,
+      "explanation": "Under progressive taxation, higher income bands face higher tax rates.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-01",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 1,
+      "prompt": "What does a map scale of 1:100,000 mean?",
+      "options": [
+        "100 cm represents 1 m",
+        "1 km represents 1 cm on the ground",
+        "1 cm represents 1 km",
+        "1 cm represents 100 km"
+      ],
+      "answer": 2,
+      "explanation": "One centimetre on the map equals 100,000 cm, or one kilometre, on the ground.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-02",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 2,
+      "prompt": "Which compass bearing represents due east?",
+      "options": [
+        "270°",
+        "090°",
+        "000°",
+        "180°"
+      ],
+      "answer": 1,
+      "explanation": "Whole-circle bearings measure clockwise from north, placing east at 090°.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-03",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 3,
+      "prompt": "A contour line marked 250 represents what?",
+      "options": [
+        "Points 250 units above datum",
+        "A road 250 km long",
+        "250 households",
+        "A rainfall total only"
+      ],
+      "answer": 0,
+      "explanation": "A labelled contour gives the elevation of all points along that line.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-04",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 1,
+      "prompt": "What is a six-figure grid reference used to identify?",
+      "options": [
+        "A whole continent",
+        "Only map scale",
+        "The publication date",
+        "A precise location within a grid square"
+      ],
+      "answer": 3,
+      "explanation": "Six figures narrow a position to tenths across and up a grid square.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-05",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 2,
+      "prompt": "Which instrument measures atmospheric pressure?",
+      "options": [
+        "Wind vane",
+        "Rain gauge",
+        "Barometer",
+        "Thermometer"
+      ],
+      "answer": 2,
+      "explanation": "A barometer measures atmospheric pressure.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-06",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 3,
+      "prompt": "What causes convectional rainfall?",
+      "options": [
+        "Earth stops rotating",
+        "Strong surface heating makes moist air rise",
+        "Cold air sinks beneath every mountain",
+        "Tides move inland"
+      ],
+      "answer": 1,
+      "explanation": "Heated moist air expands, rises, cools and condenses into rain clouds.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-07",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 1,
+      "prompt": "Which climate has high temperatures and heavy rainfall throughout the year?",
+      "options": [
+        "Equatorial",
+        "Tundra",
+        "Mediterranean",
+        "Cold desert"
+      ],
+      "answer": 0,
+      "explanation": "Equatorial regions receive intense year-round heating and frequent convectional rainfall.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-08",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 2,
+      "prompt": "How does altitude generally affect temperature?",
+      "options": [
+        "Temperature always rises",
+        "Altitude has no effect",
+        "Temperature becomes exactly zero",
+        "Temperature falls as altitude rises"
+      ],
+      "answer": 3,
+      "explanation": "Air pressure and temperature generally decrease with increasing elevation.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-09",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 3,
+      "prompt": "What is natural population increase?",
+      "options": [
+        "Total land area",
+        "Workers minus dependants",
+        "Birth rate minus death rate",
+        "Immigration minus emigration only"
+      ],
+      "answer": 2,
+      "explanation": "Natural increase excludes migration and compares births with deaths.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-10",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 1,
+      "prompt": "Which condition often produces a low population density?",
+      "options": [
+        "Many jobs and roads",
+        "A major port",
+        "Arid climate and scarce water",
+        "Reliable rainfall and fertile soil"
+      ],
+      "answer": 2,
+      "explanation": "Water scarcity and harsh aridity limit settlement and economic activity.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-11",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 2,
+      "prompt": "What is urbanisation?",
+      "options": [
+        "Conversion of cities to farms",
+        "Growth in the proportion living in towns and cities",
+        "Movement from city to village only",
+        "A fall in all settlement"
+      ],
+      "answer": 1,
+      "explanation": "Urbanisation is the increasing share of a population living in urban places.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-12",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 3,
+      "prompt": "A high dependency ratio means what?",
+      "options": [
+        "Many dependants relative to working-age people",
+        "Every adult is employed",
+        "Births equal deaths",
+        "Migration has stopped"
+      ],
+      "answer": 0,
+      "explanation": "A high ratio places more support responsibility on the working-age population.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-13",
+      "subject": "Geography",
+      "unit": "Resources",
+      "difficulty": 1,
+      "prompt": "Which farming method reduces soil erosion on steep slopes?",
+      "options": [
+        "Overgrazing",
+        "Bush burning",
+        "Removing all vegetation",
+        "Terracing"
+      ],
+      "answer": 3,
+      "explanation": "Terraces shorten slopes and slow surface runoff, limiting soil loss.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-14",
+      "subject": "Geography",
+      "unit": "Resources",
+      "difficulty": 2,
+      "prompt": "Why is crude oil classified as non-renewable?",
+      "options": [
+        "It cannot release energy",
+        "It consists only of water",
+        "It forms far more slowly than it is used",
+        "It is produced every season"
+      ],
+      "answer": 2,
+      "explanation": "Petroleum takes geological time to form and is depleted by current extraction.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-geography-15",
+      "subject": "Geography",
+      "unit": "Resources",
+      "difficulty": 3,
+      "prompt": "What is conservation?",
+      "options": [
+        "Replacing forests with bare soil",
+        "Careful management of resources for continued use",
+        "Immediate exhaustion of resources",
+        "Banning every human activity"
+      ],
+      "answer": 1,
+      "explanation": "Conservation protects resources while allowing responsible use over time.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-01",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 1,
+      "prompt": "Which constitution concentrates legal authority in a central government?",
+      "options": [
+        "Federal",
+        "Confederal",
+        "Presidential only",
+        "Unitary"
+      ],
+      "answer": 3,
+      "explanation": "A unitary system places ultimate constitutional authority at the centre.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-02",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 2,
+      "prompt": "What is the rule of law?",
+      "options": [
+        "Courts obey parties",
+        "Only citizens face legal duties",
+        "Everyone, including officials, is subject to law",
+        "Rulers are above every law"
+      ],
+      "answer": 2,
+      "explanation": "The rule of law rejects arbitrary power and applies law to governors and governed.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-03",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 3,
+      "prompt": "Which feature is typical of a federal constitution?",
+      "options": [
+        "Courts cannot interpret powers",
+        "Powers are divided between central and regional governments",
+        "All powers belong to one village",
+        "Regional governments have no authority"
+      ],
+      "answer": 1,
+      "explanation": "Federalism constitutionally distributes responsibilities across levels of government.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-04",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 1,
+      "prompt": "What is judicial review?",
+      "options": [
+        "Court examination of whether official acts comply with law",
+        "Parliament appointing every voter",
+        "A party rewriting election results",
+        "Ministers conducting criminal trials"
+      ],
+      "answer": 0,
+      "explanation": "Judicial review enables courts to test government action against superior legal rules.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-05",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 2,
+      "prompt": "Which arm implements laws and public policy?",
+      "options": [
+        "Judiciary",
+        "Legislature",
+        "Electorate only",
+        "Executive"
+      ],
+      "answer": 3,
+      "explanation": "The executive administers the state and carries enacted laws into effect.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-06",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 3,
+      "prompt": "Why is judicial independence important?",
+      "options": [
+        "Courts can cancel all elections",
+        "Only ministers may appeal",
+        "Judges can decide cases without improper pressure",
+        "Judges can make arbitrary laws"
+      ],
+      "answer": 2,
+      "explanation": "Independent judges can apply law impartially and protect fair process.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-07",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 1,
+      "prompt": "What is collective ministerial responsibility?",
+      "options": [
+        "Civil servants contest every election",
+        "Cabinet publicly supports agreed government decisions",
+        "Each minister ignores cabinet",
+        "Judges join political parties"
+      ],
+      "answer": 1,
+      "explanation": "Cabinet government requires ministers to support collective decisions or resign.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-08",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 2,
+      "prompt": "A bicameral legislature has how many chambers?",
+      "options": [
+        "Two",
+        "One",
+        "Three",
+        "None"
+      ],
+      "answer": 0,
+      "explanation": "Bicameral means that legislative work is divided between two houses.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-09",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 3,
+      "prompt": "What is a party manifesto?",
+      "options": [
+        "A court sentence",
+        "A census form",
+        "A secret ballot paper",
+        "A public statement of proposed policies"
+      ],
+      "answer": 3,
+      "explanation": "A manifesto tells voters what a party promises to pursue if elected.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-10",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 1,
+      "prompt": "Which function is performed by an electoral commission?",
+      "options": [
+        "Writing party manifestos",
+        "Choosing all candidates",
+        "Passing the national budget",
+        "Organising and supervising elections"
+      ],
+      "answer": 3,
+      "explanation": "An electoral commission administers voter registration, polling and related procedures.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-11",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 2,
+      "prompt": "What is political socialisation?",
+      "options": [
+        "Closing civic organisations",
+        "Replacing constitutions yearly",
+        "Learning political values and behaviour",
+        "Counting only election winners"
+      ],
+      "answer": 2,
+      "explanation": "Families, schools, media and groups transmit political attitudes and expectations.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-12",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 3,
+      "prompt": "Why is a secret ballot used?",
+      "options": [
+        "To let one person vote repeatedly",
+        "To protect voters from intimidation",
+        "To reveal every choice publicly",
+        "To prevent vote counting"
+      ],
+      "answer": 1,
+      "explanation": "Privacy lets citizens choose without coercion or retaliation.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-13",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "difficulty": 1,
+      "prompt": "What is bilateral cooperation?",
+      "options": [
+        "Cooperation between two states",
+        "A treaty among every state",
+        "Domestic policy only",
+        "Conflict within one party"
+      ],
+      "answer": 0,
+      "explanation": "Bilateral relations involve two countries dealing directly with each other.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-14",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "difficulty": 2,
+      "prompt": "What is a trade embargo?",
+      "options": [
+        "A promise of free goods",
+        "A domestic election",
+        "A cultural festival",
+        "A restriction on trade with a target"
+      ],
+      "answer": 3,
+      "explanation": "An embargo limits or prohibits trade to apply diplomatic or economic pressure.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-government-15",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "difficulty": 3,
+      "prompt": "Which principle supports a state's right to control its internal affairs?",
+      "options": [
+        "Censorship",
+        "Partisanship",
+        "Sovereignty",
+        "Colonialism"
+      ],
+      "answer": 2,
+      "explanation": "Sovereignty gives a state supreme authority within its territory, subject to international obligations.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-01",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 1,
+      "prompt": "What is the setting of a narrative?",
+      "options": [
+        "Only its final sentence",
+        "The author's income",
+        "Its printing cost",
+        "The time and place of its events"
+      ],
+      "answer": 3,
+      "explanation": "Setting establishes the physical, social and historical environment of a story.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-02",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 2,
+      "prompt": "What is a round character?",
+      "options": [
+        "An unnamed crowd member",
+        "A character who never changes pages",
+        "A complex character with several developed traits",
+        "A character shaped like a circle"
+      ],
+      "answer": 2,
+      "explanation": "Round characters are developed with complexity, motives and sometimes contradictions.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-03",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 3,
+      "prompt": "What does foreshadowing do?",
+      "options": [
+        "Changes prose into verse",
+        "Hints at events that may occur later",
+        "Retells only past events",
+        "Removes all suspense"
+      ],
+      "answer": 1,
+      "explanation": "Foreshadowing plants clues that prepare readers for later developments.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-04",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 1,
+      "prompt": "An unreliable narrator mainly creates what effect?",
+      "options": [
+        "Readers must question the account",
+        "Every fact becomes certain",
+        "The plot has no viewpoint",
+        "All characters become narrators"
+      ],
+      "answer": 0,
+      "explanation": "Bias, limited knowledge or deception makes the narrator's version uncertain.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-05",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 2,
+      "prompt": "What is dialogue?",
+      "options": [
+        "Instructions printed for lighting only",
+        "A private silent thought",
+        "A list of costumes",
+        "Speech exchanged by characters"
+      ],
+      "answer": 3,
+      "explanation": "Dialogue is spoken interaction that reveals character and advances dramatic action.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-06",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 3,
+      "prompt": "What is the climax of a play?",
+      "options": [
+        "The opening greeting only",
+        "The interval",
+        "Its point of greatest tension or decisive conflict",
+        "The cast list"
+      ],
+      "answer": 2,
+      "explanation": "The climax is the turning point where the central conflict reaches greatest intensity.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-07",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 1,
+      "prompt": "A short remark intended for the audience but unheard by other characters is what?",
+      "options": [
+        "A scene change",
+        "An aside",
+        "A chorus",
+        "An epilogue"
+      ],
+      "answer": 1,
+      "explanation": "An aside briefly shares a character's thought directly with the audience.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-08",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 2,
+      "prompt": "What is a tragic flaw?",
+      "options": [
+        "A weakness contributing to a tragic hero's fall",
+        "A broken stage board",
+        "A comedy's final joke",
+        "A missing costume"
+      ],
+      "answer": 0,
+      "explanation": "The tragic flaw helps cause the protagonist's error, suffering or downfall.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-09",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 3,
+      "prompt": "Who is the persona in a poem?",
+      "options": [
+        "Always the real poet",
+        "The book seller",
+        "Every named reader",
+        "The voice speaking in the poem"
+      ],
+      "answer": 3,
+      "explanation": "The persona is the constructed speaker and should not automatically be equated with the poet.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-10",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 1,
+      "prompt": "What is a rhyme scheme?",
+      "options": [
+        "The number of characters",
+        "The prose summary",
+        "The historical setting only",
+        "The pattern of end rhymes in a poem"
+      ],
+      "answer": 3,
+      "explanation": "Letters such as ABAB describe the recurring pattern of line-ending sounds.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-11",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 2,
+      "prompt": "What is a caesura?",
+      "options": [
+        "A fourteen-line form",
+        "A character's entrance",
+        "A strong pause within a poetic line",
+        "A repeated first consonant"
+      ],
+      "answer": 2,
+      "explanation": "Punctuation or rhythm can create a deliberate pause within a line called a caesura.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-12",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 3,
+      "prompt": "A sonnet traditionally contains how many lines?",
+      "options": [
+        "Twenty",
+        "Fourteen",
+        "Eight",
+        "Ten"
+      ],
+      "answer": 1,
+      "explanation": "The traditional sonnet is a fixed fourteen-line poetic form.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-13",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 1,
+      "prompt": "'Time is a thief' is an example of what?",
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Onomatopoeia",
+        "Litotes"
+      ],
+      "answer": 0,
+      "explanation": "The expression directly identifies time with a thief without using like or as.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-14",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 2,
+      "prompt": "What is alliteration?",
+      "options": [
+        "A contradiction in terms",
+        "An exaggerated claim",
+        "A direct address to the absent",
+        "Repetition of initial consonant sounds"
+      ],
+      "answer": 3,
+      "explanation": "Alliteration repeats nearby initial consonant sounds for emphasis or musical effect.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-literature-15",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 3,
+      "prompt": "'The bag weighs a ton' uses which device?",
+      "options": [
+        "Metonymy",
+        "Pun",
+        "Hyperbole",
+        "Euphemism"
+      ],
+      "answer": 2,
+      "explanation": "The deliberately impossible weight exaggerates how heavy the bag feels.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-01",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 1,
+      "prompt": "Which device converts paper documents into digital images?",
+      "options": [
+        "Projector",
+        "Plotter",
+        "Scanner",
+        "Speaker"
+      ],
+      "answer": 2,
+      "explanation": "A scanner captures printed text or images and converts them into digital data.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-02",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 2,
+      "prompt": "What is the purpose of RAM?",
+      "options": [
+        "Supplying internet domain names",
+        "Temporary storage for active programs and data",
+        "Permanent paper output",
+        "Long-term optical archiving only"
+      ],
+      "answer": 1,
+      "explanation": "RAM provides fast volatile working storage while programs run.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-03",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 3,
+      "prompt": "Which number system is used directly by digital computer circuits?",
+      "options": [
+        "Binary",
+        "Roman numerals",
+        "Base ten only",
+        "Fractions only"
+      ],
+      "answer": 0,
+      "explanation": "Digital circuits represent states with binary digits 0 and 1.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-04",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 1,
+      "prompt": "One byte normally contains how many bits?",
+      "options": [
+        "Two",
+        "Four",
+        "Sixteen",
+        "Eight"
+      ],
+      "answer": 3,
+      "explanation": "A byte is conventionally defined as a group of eight bits.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-05",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 2,
+      "prompt": "Which flowchart symbol normally represents a decision?",
+      "options": [
+        "Oval",
+        "Arrow only",
+        "Diamond",
+        "Rectangle"
+      ],
+      "answer": 2,
+      "explanation": "A diamond contains a condition whose outcomes lead along different paths.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-06",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 3,
+      "prompt": "What does pseudocode provide?",
+      "options": [
+        "A database backup",
+        "A language-independent description of an algorithm",
+        "Executable machine code only",
+        "A hardware wiring plan"
+      ],
+      "answer": 1,
+      "explanation": "Pseudocode expresses logic clearly without requiring one programming language's syntax.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-07",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 1,
+      "prompt": "Which sorting method repeatedly swaps adjacent out-of-order values?",
+      "options": [
+        "Bubble sort",
+        "Binary search",
+        "Hashing",
+        "Recursion only"
+      ],
+      "answer": 0,
+      "explanation": "Bubble sort compares neighbouring elements and swaps them when they are in the wrong order.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-08",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 2,
+      "prompt": "Why must an algorithm terminate?",
+      "options": [
+        "It must use every possible input",
+        "It must avoid all decisions",
+        "It must contain no output",
+        "It must finish after a finite number of steps"
+      ],
+      "answer": 3,
+      "explanation": "Finiteness requires a valid algorithm to complete rather than continue indefinitely.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-09",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 3,
+      "prompt": "What is a variable?",
+      "options": [
+        "A printed manual",
+        "An operating-system logo",
+        "A named storage location whose value can change",
+        "A fixed physical cable"
+      ],
+      "answer": 2,
+      "explanation": "Programs use variable names to store and update values during execution.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-10",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 1,
+      "prompt": "Which operator commonly tests equality in languages such as JavaScript?",
+      "options": [
+        "+",
+        "% only",
+        "===",
+        "="
+      ],
+      "answer": 2,
+      "explanation": "Strict equality uses ===, whereas a single equals sign performs assignment.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-11",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 2,
+      "prompt": "What does debugging mean?",
+      "options": [
+        "Connecting a printer",
+        "Finding and correcting program faults",
+        "Deleting all source code",
+        "Adding physical memory"
+      ],
+      "answer": 1,
+      "explanation": "Debugging locates the causes of incorrect behaviour and fixes them.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-12",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 3,
+      "prompt": "What is an array used for?",
+      "options": [
+        "Storing an ordered collection of values",
+        "Supplying electrical power",
+        "Drawing network cables",
+        "Encrypting every file automatically"
+      ],
+      "answer": 0,
+      "explanation": "An array groups values under one name and accesses them by position or index.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-13",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 1,
+      "prompt": "Which protocol is primarily used to retrieve web pages securely?",
+      "options": [
+        "FTP",
+        "SMTP",
+        "Bluetooth",
+        "HTTPS"
+      ],
+      "answer": 3,
+      "explanation": "HTTPS carries web traffic over an encrypted and authenticated connection.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-14",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 2,
+      "prompt": "What is an IP address used for?",
+      "options": [
+        "Measuring processor speed",
+        "Compressing every photograph",
+        "Identifying and routing to a network interface",
+        "Naming a keyboard key"
+      ],
+      "answer": 2,
+      "explanation": "IP addresses identify interfaces so packets can be routed across networks.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    },
+    {
+      "id": "milestone-350-computer-science-15",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 3,
+      "prompt": "What does a firewall do?",
+      "options": [
+        "Translates source code",
+        "Filters network traffic according to security rules",
+        "Cools the processor",
+        "Prints backup copies"
+      ],
+      "answer": 1,
+      "explanation": "A firewall permits or blocks traffic based on configured security policies.",
+      "curricula": [
+        "WAEC",
+        "JAMB"
+      ]
+    }
+  ]
+}

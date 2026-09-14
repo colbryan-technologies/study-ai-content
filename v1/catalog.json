@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T20:00:00.000Z",
+  "generatedAt": "2026-09-14T22:00:00.000Z",
   "packs": [
     {
       "id": "core-questions",
@@ -34,6 +34,17 @@
       "source": "COLBRYAN Technologies",
       "reviewStatus": "reviewed",
       "downloadUrl": "packs/west-africa-syllabus-expansion.json"
+    },
+    {
+      "id": "west-africa-milestone-350",
+      "version": 1,
+      "curriculum": "Core",
+      "subject": "All",
+      "questionCount": 150,
+      "publishedAt": "2026-09-14T22:00:00.000Z",
+      "source": "COLBRYAN Technologies",
+      "reviewStatus": "reviewed",
+      "downloadUrl": "packs/west-africa-milestone-350.json"
     }
   ]
 }
