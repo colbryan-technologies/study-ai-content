@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-14T00:00:00.000Z",
+  "packs": [
+    {
+      "id": "core-questions",
+      "version": 1,
+      "curriculum": "Core",
+      "subject": "All",
+      "questionCount": 59,
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "source": "COLBRYAN Technologies",
+      "reviewStatus": "reviewed",
+      "downloadUrl": "packs/core-questions.json"
+    }
+  ]
+}

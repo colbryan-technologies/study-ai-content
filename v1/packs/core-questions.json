@@ -1,0 +1,923 @@
+{
+  "manifest": {
+    "id": "core-questions",
+    "version": 1,
+    "curriculum": "Core",
+    "subject": "All",
+    "questionCount": 59,
+    "publishedAt": "2026-09-14T00:00:00.000Z",
+    "source": "COLBRYAN Technologies",
+    "reviewStatus": "reviewed"
+  },
+  "questions": [
+    {
+      "id": "math-alg-1",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 1,
+      "prompt": "Solve for x: 2x + 6 = 18",
+      "options": [
+        "4",
+        "6",
+        "9",
+        "12"
+      ],
+      "answer": 1,
+      "explanation": "Subtract 6 from both sides to get 2x = 12, then divide by 2 so x = 6."
+    },
+    {
+      "id": "math-alg-2",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 2,
+      "prompt": "Factorise x² − 9",
+      "options": [
+        "(x−3)(x+3)",
+        "(x−9)(x+1)",
+        "(x−3)²",
+        "x(x−9)"
+      ],
+      "answer": 0,
+      "explanation": "This is a difference of two squares: a² − b² = (a − b)(a + b)."
+    },
+    {
+      "id": "math-stat-1",
+      "subject": "Mathematics",
+      "unit": "Statistics",
+      "difficulty": 1,
+      "prompt": "What is the mean of 4, 8, 6, 10?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "explanation": "The four values total 28, and 28 ÷ 4 = 7."
+    },
+    {
+      "id": "phy-force-1",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 1,
+      "prompt": "What is the SI unit of force?",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "answer": 2,
+      "explanation": "Force is measured in newtons (N), where 1 N = 1 kg·m/s²."
+    },
+    {
+      "id": "phy-motion-1",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 2,
+      "prompt": "A car travels 150 m in 10 s. What is its average speed?",
+      "options": [
+        "10 m/s",
+        "15 m/s",
+        "20 m/s",
+        "25 m/s"
+      ],
+      "answer": 1,
+      "explanation": "Average speed = distance ÷ time = 150 ÷ 10 = 15 m/s."
+    },
+    {
+      "id": "bio-cell-1",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 1,
+      "prompt": "Where does photosynthesis mainly occur?",
+      "options": [
+        "Mitochondria",
+        "Chloroplast",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "answer": 1,
+      "explanation": "Chloroplasts contain chlorophyll, which captures the light energy used to make glucose."
+    },
+    {
+      "id": "bio-gen-1",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 2,
+      "prompt": "How many chromosomes are in a normal human body cell?",
+      "options": [
+        "23",
+        "42",
+        "46",
+        "48"
+      ],
+      "answer": 2,
+      "explanation": "Body cells are diploid: 23 pairs, so 46 chromosomes in total."
+    },
+    {
+      "id": "chem-acid-1",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 1,
+      "prompt": "What is the pH of a neutral solution at 25°C?",
+      "options": [
+        "0",
+        "5",
+        "7",
+        "14"
+      ],
+      "answer": 2,
+      "explanation": "At 25°C, pure water has equal H⁺ and OH⁻ concentrations, giving pH 7."
+    },
+    {
+      "id": "chem-atom-1",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 2,
+      "prompt": "Which particle has a negative charge?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Nucleus"
+      ],
+      "answer": 2,
+      "explanation": "Electrons carry a negative charge and orbit the positively charged nucleus."
+    },
+    {
+      "id": "eng-gram-1",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 1,
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "She don't like mangoes.",
+        "She doesn't likes mangoes.",
+        "She doesn't like mangoes.",
+        "She not like mangoes."
+      ],
+      "answer": 2,
+      "explanation": "With a third-person singular subject, use 'doesn't' followed by the base verb."
+    },
+    {
+      "id": "econ-ds-1",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 1,
+      "prompt": "If the price of a normal good rises, quantity demanded usually…",
+      "options": [
+        "Rises",
+        "Falls",
+        "Stays the same",
+        "Doubles"
+      ],
+      "answer": 1,
+      "explanation": "The law of demand: price and quantity demanded move in opposite directions."
+    },
+    {
+      "id": "cs-algo-1",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 2,
+      "prompt": "Which structure works last-in, first-out?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Array",
+        "Tree"
+      ],
+      "answer": 1,
+      "explanation": "A stack pushes and pops from the same end, so the last item added leaves first."
+    },
+    {
+      "id": "math-trig-3",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "difficulty": 3,
+      "prompt": "In a right-angled triangle, sin θ = 3/5. What is cos θ for an acute θ?",
+      "options": [
+        "2/5",
+        "3/4",
+        "4/5",
+        "5/3"
+      ],
+      "answer": 2,
+      "explanation": "A 3-4-5 triangle has opposite 3 and hypotenuse 5, so the adjacent side is 4 and cos θ = 4/5."
+    },
+    {
+      "id": "phy-electricity-3",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 3,
+      "prompt": "A 12 V supply is connected across a 4 Ω resistor. What current flows?",
+      "options": [
+        "0.33 A",
+        "3 A",
+        "8 A",
+        "48 A"
+      ],
+      "answer": 1,
+      "explanation": "Ohm's law gives I = V/R, so I = 12/4 = 3 A."
+    },
+    {
+      "id": "chem-bonding-3",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 3,
+      "prompt": "Which substance conducts electricity when molten but not when solid?",
+      "options": [
+        "Sodium chloride",
+        "Diamond",
+        "Graphite",
+        "Copper"
+      ],
+      "answer": 0,
+      "explanation": "Molten sodium chloride has mobile ions. In the solid, its ions are fixed in a lattice."
+    },
+    {
+      "id": "bio-genetics-3",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 3,
+      "prompt": "Two heterozygous parents (Bb × Bb) have a child. What is the chance of genotype bb?",
+      "options": [
+        "0%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 1,
+      "explanation": "The possible genotypes are BB, Bb, Bb and bb, so one of four is bb."
+    },
+    {
+      "id": "eng-comprehension-3",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 3,
+      "prompt": "Which statement best describes an inference?",
+      "options": [
+        "A fact copied directly from a text",
+        "A conclusion supported by clues in a text",
+        "The title of a passage",
+        "A summary containing every detail"
+      ],
+      "answer": 1,
+      "explanation": "An inference combines textual clues with reasoning to reach a supported conclusion."
+    },
+    {
+      "id": "econ-market-3",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 3,
+      "prompt": "Which feature most clearly distinguishes perfect competition?",
+      "options": [
+        "One seller",
+        "Product differentiation",
+        "Many price-taking firms",
+        "High barriers to entry"
+      ],
+      "answer": 2,
+      "explanation": "Perfectly competitive markets have many firms that cannot individually influence the market price."
+    },
+    {
+      "id": "geo-map-1",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 1,
+      "prompt": "What do contour lines on a map join?",
+      "options": [
+        "Places of equal height",
+        "Places of equal rainfall",
+        "National borders",
+        "Road junctions"
+      ],
+      "answer": 0,
+      "explanation": "A contour line connects points that have the same elevation above sea level."
+    },
+    {
+      "id": "geo-climate-3",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 3,
+      "prompt": "Why does rising moist air often produce rainfall?",
+      "options": [
+        "It expands, cools and condenses",
+        "It contracts and becomes warmer",
+        "Its pressure always increases",
+        "It absorbs all nearby clouds"
+      ],
+      "answer": 0,
+      "explanation": "As moist air rises, lower pressure makes it expand and cool until water vapour condenses into droplets."
+    },
+    {
+      "id": "gov-constitution-1",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 1,
+      "prompt": "What is a constitution?",
+      "options": [
+        "A country's fundamental rules of government",
+        "A list of election candidates",
+        "A court judgment only",
+        "A political party manifesto"
+      ],
+      "answer": 0,
+      "explanation": "A constitution sets the fundamental principles, powers and limits of a system of government."
+    },
+    {
+      "id": "gov-arms-3",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 3,
+      "prompt": "Which principle allows each arm of government to limit the powers of the others?",
+      "options": [
+        "Federalism",
+        "Checks and balances",
+        "Sovereignty",
+        "Franchise"
+      ],
+      "answer": 1,
+      "explanation": "Checks and balances distribute oversight so no single arm can exercise power without restraint."
+    },
+    {
+      "id": "lit-devices-1",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 1,
+      "prompt": "Which device compares two things using 'like' or 'as'?",
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Irony",
+        "Alliteration"
+      ],
+      "answer": 1,
+      "explanation": "A simile makes an explicit comparison using words such as 'like' or 'as'."
+    },
+    {
+      "id": "lit-drama-3",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 3,
+      "prompt": "What is dramatic irony?",
+      "options": [
+        "The audience knows something a character does not",
+        "Every character speaks in rhyme",
+        "The plot has no conflict",
+        "A narrator describes the scenery"
+      ],
+      "answer": 0,
+      "explanation": "Dramatic irony occurs when the audience understands information that one or more characters lack."
+    },
+    {
+      "id": "cs-networks-3",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 3,
+      "prompt": "What is the main purpose of DNS?",
+      "options": [
+        "Encrypt files",
+        "Translate domain names to IP addresses",
+        "Compile programs",
+        "Compress images"
+      ],
+      "answer": 1,
+      "explanation": "The Domain Name System resolves human-readable domain names to network IP addresses."
+    },
+    {
+      "id": "waec-math-algebra-2",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 2,
+      "curricula": [
+        "WAEC"
+      ],
+      "prompt": "If 2^(x + 1) = 16, find x.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "Write 16 as 2⁴. Equal bases have equal powers, so x + 1 = 4 and x = 3."
+    },
+    {
+      "id": "jamb-english-grammar-2",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Choose the option nearest in meaning to: The witness gave a candid reply.",
+      "options": [
+        "Careless",
+        "Frank",
+        "Lengthy",
+        "Confusing"
+      ],
+      "answer": 1,
+      "explanation": "Candid means truthful and straightforward, so 'frank' is the closest option."
+    },
+    {
+      "id": "gcse-biology-cells-2",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 2,
+      "curricula": [
+        "GCSE"
+      ],
+      "prompt": "An image of a cell is 40 mm wide at ×200 magnification. What is its real width?",
+      "options": [
+        "0.02 mm",
+        "0.2 mm",
+        "5 mm",
+        "8,000 mm"
+      ],
+      "answer": 1,
+      "explanation": "Real size = image size ÷ magnification, so 40 mm ÷ 200 = 0.2 mm."
+    },
+    {
+      "id": "alevel-physics-electricity-3",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 3,
+      "curricula": [
+        "A-Level"
+      ],
+      "prompt": "Two 6 Ω resistors are connected in parallel. What is their combined resistance?",
+      "options": [
+        "3 Ω",
+        "6 Ω",
+        "12 Ω",
+        "36 Ω"
+      ],
+      "answer": 0,
+      "explanation": "For equal resistors in parallel, the combined resistance is half one resistor: 3 Ω."
+    },
+    {
+      "id": "sat-math-algebra-2",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 2,
+      "curricula": [
+        "SAT"
+      ],
+      "prompt": "A taxi charges $4 plus $2 per mile. Which expression gives the cost for m miles?",
+      "options": [
+        "4m + 2",
+        "2m + 4",
+        "6m",
+        "2(m + 4)"
+      ],
+      "answer": 1,
+      "explanation": "The fixed charge is 4 and the mileage charge is 2m, giving 2m + 4."
+    },
+    {
+      "id": "ielts-english-comprehension-2",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 2,
+      "curricula": [
+        "IELTS"
+      ],
+      "prompt": "A passage says remote work reduces commuting, although some workers feel isolated. What is its main idea?",
+      "options": [
+        "Remote work has both benefits and drawbacks",
+        "Commuting should be compulsory",
+        "Every worker prefers an office",
+        "Isolation improves productivity"
+      ],
+      "answer": 0,
+      "explanation": "The sentence presents one benefit and one drawback, so the balanced summary is correct."
+    },
+    {
+      "id": "university-cs-algorithms-3",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 3,
+      "curricula": [
+        "University course"
+      ],
+      "prompt": "What is the average time complexity of binary search on a sorted array?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n²)"
+      ],
+      "answer": 1,
+      "explanation": "Binary search halves the remaining search interval at every step, requiring logarithmic time."
+    },
+    {
+      "id": "professional-economics-market-3",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 3,
+      "curricula": [
+        "Professional certification"
+      ],
+      "prompt": "A firm can raise price without immediately losing all customers. What does this most directly indicate?",
+      "options": [
+        "Some degree of market power",
+        "Perfectly elastic demand",
+        "Zero barriers to entry",
+        "No product differentiation"
+      ],
+      "answer": 0,
+      "explanation": "The ability to influence price while retaining demand indicates that the firm has market power."
+    },
+    {
+      "id": "math-geometry-1",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 1,
+      "prompt": "What is the sum of the interior angles of a triangle?",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "answer": 1,
+      "explanation": "The three interior angles of every triangle add up to 180 degrees."
+    },
+    {
+      "id": "eng-comprehension-1",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 1,
+      "prompt": "Which detail best supports a passage's main idea?",
+      "options": [
+        "A detail directly connected to the central claim",
+        "An unrelated fact",
+        "The page number",
+        "A repeated punctuation mark"
+      ],
+      "answer": 0,
+      "explanation": "Strong supporting details provide evidence or explanation directly related to the main idea."
+    },
+    {
+      "id": "eng-grammar-2",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "prompt": "Choose the sentence with correct punctuation.",
+      "options": [
+        "After the lesson we revised.",
+        "After the lesson, we revised.",
+        "After, the lesson we revised.",
+        "After the lesson we, revised."
+      ],
+      "answer": 1,
+      "explanation": "A comma separates the introductory phrase 'After the lesson' from the main clause."
+    },
+    {
+      "id": "eng-comprehension-2",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 2,
+      "prompt": "A writer presents evidence from both sides before giving a conclusion. What is the structure?",
+      "options": [
+        "Balanced argument",
+        "Chronological narrative",
+        "Instruction list",
+        "Personal diary"
+      ],
+      "answer": 0,
+      "explanation": "A balanced argument considers opposing evidence before reaching a supported conclusion."
+    },
+    {
+      "id": "eng-essay-1",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 1,
+      "prompt": "Which sentence is the clearest thesis statement for an essay about school uniforms?",
+      "options": [
+        "Uniforms are clothes.",
+        "Schools exist in many places.",
+        "School uniforms can reduce distraction and strengthen a shared identity.",
+        "Some clothes have buttons."
+      ],
+      "answer": 2,
+      "explanation": "A thesis states a specific, arguable main claim that the essay can develop."
+    },
+    {
+      "id": "phy-waves-1",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 1,
+      "prompt": "Which quantity is measured in hertz?",
+      "options": [
+        "Amplitude",
+        "Frequency",
+        "Wavelength",
+        "Wave speed"
+      ],
+      "answer": 1,
+      "explanation": "Frequency is the number of cycles per second, and its SI unit is the hertz."
+    },
+    {
+      "id": "phy-motion-1b",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 1,
+      "prompt": "What does the gradient of a distance-time graph represent?",
+      "options": [
+        "Speed",
+        "Acceleration",
+        "Force",
+        "Energy"
+      ],
+      "answer": 0,
+      "explanation": "Gradient is change in distance divided by change in time, which is speed."
+    },
+    {
+      "id": "chem-organic-1",
+      "subject": "Chemistry",
+      "unit": "Organic chemistry",
+      "difficulty": 1,
+      "prompt": "Which element is present in every organic compound?",
+      "options": [
+        "Carbon",
+        "Calcium",
+        "Chlorine",
+        "Copper"
+      ],
+      "answer": 0,
+      "explanation": "Organic chemistry is the study of carbon compounds, so every organic compound contains carbon."
+    },
+    {
+      "id": "chem-bonding-2",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 2,
+      "prompt": "What type of bond forms when atoms share pairs of electrons?",
+      "options": [
+        "Covalent",
+        "Ionic",
+        "Metallic",
+        "Hydrogen"
+      ],
+      "answer": 0,
+      "explanation": "A covalent bond is the electrostatic attraction involving a shared pair of electrons."
+    },
+    {
+      "id": "bio-ecology-1",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 1,
+      "prompt": "What is a population in ecology?",
+      "options": [
+        "All organisms on Earth",
+        "Members of one species living in an area",
+        "Only the plants in a habitat",
+        "The non-living parts of an ecosystem"
+      ],
+      "answer": 1,
+      "explanation": "A population contains organisms of the same species living in the same area at a given time."
+    },
+    {
+      "id": "bio-human-2",
+      "subject": "Biology",
+      "unit": "Human systems",
+      "difficulty": 2,
+      "prompt": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+      "options": [
+        "Aorta",
+        "Pulmonary artery",
+        "Pulmonary vein",
+        "Vena cava"
+      ],
+      "answer": 2,
+      "explanation": "The pulmonary vein returns oxygenated blood from the lungs to the left atrium."
+    },
+    {
+      "id": "econ-money-1",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 1,
+      "prompt": "Which function of money allows prices to be compared?",
+      "options": [
+        "Medium of exchange",
+        "Unit of account",
+        "Store of value",
+        "Deferred payment"
+      ],
+      "answer": 1,
+      "explanation": "As a unit of account, money provides a common measure for expressing and comparing value."
+    },
+    {
+      "id": "econ-demand-2",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 2,
+      "prompt": "What normally happens to supply when production costs fall, other things being equal?",
+      "options": [
+        "Supply increases",
+        "Supply decreases",
+        "Demand decreases",
+        "Price controls appear"
+      ],
+      "answer": 0,
+      "explanation": "Lower production costs make output more profitable at each price, shifting supply to the right."
+    },
+    {
+      "id": "econ-development-2",
+      "subject": "Economics",
+      "unit": "Development",
+      "difficulty": 2,
+      "prompt": "Which measure combines income, education and life expectancy?",
+      "options": [
+        "GDP deflator",
+        "Human Development Index",
+        "Consumer Price Index",
+        "Exchange rate"
+      ],
+      "answer": 1,
+      "explanation": "The Human Development Index combines health, education and income indicators."
+    },
+    {
+      "id": "geo-population-1",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 1,
+      "prompt": "What does population density measure?",
+      "options": [
+        "Births per year",
+        "People per unit area",
+        "Average age",
+        "Migration distance"
+      ],
+      "answer": 1,
+      "explanation": "Population density is the number of people living in a specified unit of land area."
+    },
+    {
+      "id": "geo-resources-2",
+      "subject": "Geography",
+      "unit": "Resources",
+      "difficulty": 2,
+      "prompt": "Which resource is renewable?",
+      "options": [
+        "Coal",
+        "Crude oil",
+        "Solar energy",
+        "Natural gas"
+      ],
+      "answer": 2,
+      "explanation": "Sunlight is naturally replenished, while fossil fuels take millions of years to form."
+    },
+    {
+      "id": "geo-climate-2",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 2,
+      "prompt": "Why are coastal places often cooler in summer than inland places?",
+      "options": [
+        "Water heats more slowly than land",
+        "The coast receives no sunlight",
+        "Air pressure is always zero",
+        "Coastal soil absorbs all heat"
+      ],
+      "answer": 0,
+      "explanation": "The sea changes temperature more slowly than land and moderates nearby air temperatures."
+    },
+    {
+      "id": "gov-parties-1",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 1,
+      "prompt": "What is a central purpose of a political party?",
+      "options": [
+        "To contest elections",
+        "To replace every court",
+        "To abolish laws",
+        "To print currency"
+      ],
+      "answer": 0,
+      "explanation": "Political parties organise candidates and policies in order to contest elections and form government."
+    },
+    {
+      "id": "gov-foreign-2",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "difficulty": 2,
+      "prompt": "What is diplomacy?",
+      "options": [
+        "Managing relations through negotiation",
+        "Using force in every dispute",
+        "Holding only local elections",
+        "Writing a national budget"
+      ],
+      "answer": 0,
+      "explanation": "Diplomacy manages relations between states through representation, communication and negotiation."
+    },
+    {
+      "id": "gov-constitution-2",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 2,
+      "prompt": "What does constitutional supremacy mean?",
+      "options": [
+        "The constitution is the highest law",
+        "Judges may ignore every law",
+        "One party controls all institutions",
+        "Elections are unnecessary"
+      ],
+      "answer": 0,
+      "explanation": "Constitutional supremacy means other laws and government actions must conform to the constitution."
+    },
+    {
+      "id": "lit-poetry-1",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 1,
+      "prompt": "What is a stanza?",
+      "options": [
+        "A group of lines in a poem",
+        "The title of a novel",
+        "A drama costume",
+        "A prose narrator"
+      ],
+      "answer": 0,
+      "explanation": "A stanza is a grouped set of lines that forms a structural unit in a poem."
+    },
+    {
+      "id": "lit-prose-2",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 2,
+      "prompt": "A narrator who uses 'I' and participates in the story uses which point of view?",
+      "options": [
+        "First person",
+        "Second person",
+        "Third-person omniscient",
+        "Objective dramatic"
+      ],
+      "answer": 0,
+      "explanation": "A participating narrator who refers to themself as 'I' tells the story in the first person."
+    },
+    {
+      "id": "lit-drama-2",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 2,
+      "prompt": "What is a stage direction?",
+      "options": [
+        "An instruction for performance",
+        "A review written after the play",
+        "The price of admission",
+        "A chapter heading"
+      ],
+      "answer": 0,
+      "explanation": "Stage directions guide actions, movement, delivery or setting in a dramatic script."
+    },
+    {
+      "id": "cs-hardware-1",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 1,
+      "prompt": "Which component performs most arithmetic and logic operations?",
+      "options": [
+        "CPU",
+        "Keyboard",
+        "Monitor",
+        "Printer"
+      ],
+      "answer": 0,
+      "explanation": "The CPU executes instructions, including arithmetic and logical operations."
+    },
+    {
+      "id": "cs-networks-1",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 1,
+      "prompt": "Which device forwards data between different networks?",
+      "options": [
+        "Router",
+        "Keyboard",
+        "Scanner",
+        "Speaker"
+      ],
+      "answer": 0,
+      "explanation": "A router examines network addresses and forwards packets between separate networks."
+    },
+    {
+      "id": "cs-programming-2",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 2,
+      "prompt": "What is the purpose of a loop in a program?",
+      "options": [
+        "Repeat instructions",
+        "Encrypt every file",
+        "Draw only images",
+        "Turn off the processor"
+      ],
+      "answer": 0,
+      "explanation": "A loop repeats a block of instructions while a condition holds or for a set number of times."
+    }
+  ]
+}
