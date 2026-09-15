@@ -1,0 +1,1670 @@
+{
+  "manifest": {
+    "id": "jamb-expansion-batch-7",
+    "version": 1,
+    "curriculum": "JAMB",
+    "subject": "All",
+    "questionCount": 92,
+    "publishedAt": "2026-09-16T04:00:00.000Z",
+    "source": "COLBRYAN Technologies; aligned to the official JAMB IBASS subject syllabuses",
+    "reviewStatus": "reviewed"
+  },
+  "questions": [
+    {
+      "id": "jamb-b7-phy-motion-01",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 1,
+      "prompt": "A runner covers 200 m in 25 s. What is the runner's average speed?",
+      "options": [
+        "225 m/s",
+        "8 m/s",
+        "5 m/s",
+        "25 m/s"
+      ],
+      "answer": 1,
+      "explanation": "Average speed is distance divided by time, giving 200/25 = 8 m/s.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-phy-motion-02",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 2,
+      "prompt": "A car travelling at 18 m/s brakes uniformly to rest in 6 s. What is its acceleration?",
+      "options": [
+        "-3 m/s²",
+        "3 m/s²",
+        "-12 m/s²",
+        "108 m/s²"
+      ],
+      "answer": 0,
+      "explanation": "Acceleration is the change in velocity divided by time: (0-18)/6 = -3 m/s².",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-phy-motion-03",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 3,
+      "prompt": "A stone is dropped from rest for 3 s where g = 10 m/s². How far does it fall?",
+      "options": [
+        "30 m",
+        "90 m",
+        "15 m",
+        "45 m"
+      ],
+      "answer": 3,
+      "explanation": "For motion from rest, distance is one-half gt squared, giving 45 m.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-phy-forces-01",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 1,
+      "prompt": "A passenger moves forward when a bus stops suddenly. Which property explains this motion?",
+      "options": [
+        "Elasticity",
+        "Inertia",
+        "Upthrust",
+        "Refraction"
+      ],
+      "answer": 1,
+      "explanation": "Inertia makes the passenger's body tend to continue its previous forward motion.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-phy-forces-02",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 2,
+      "prompt": "A 12 N horizontal force moves a box 5 m in its direction. How much work is done?",
+      "options": [
+        "60 J",
+        "17 J",
+        "2.4 J",
+        "120 J"
+      ],
+      "answer": 0,
+      "explanation": "Work equals force multiplied by displacement in the force direction, so 12 × 5 = 60 J.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-phy-forces-03",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 3,
+      "prompt": "A machine receives 500 J and delivers 350 J of useful work. What is its efficiency?",
+      "options": [
+        "150%",
+        "30%",
+        "85%",
+        "70%"
+      ],
+      "answer": 3,
+      "explanation": "Efficiency is useful output divided by input times 100, so 350/500 gives 70%.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-phy-electricity-01",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 1,
+      "prompt": "Which circuit arrangement gives each household appliance the full supply voltage?",
+      "options": [
+        "Open circuit",
+        "Short circuit",
+        "Parallel connection",
+        "Series connection"
+      ],
+      "answer": 2,
+      "explanation": "Parallel branches place every appliance directly across the same supply voltage.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-phy-electricity-02",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 2,
+      "prompt": "Two resistors of 4 Ω and 6 Ω are connected in series. What is their total resistance?",
+      "options": [
+        "1.5 Ω",
+        "10 Ω",
+        "2.4 Ω",
+        "24 Ω"
+      ],
+      "answer": 1,
+      "explanation": "Resistances connected in series add directly, giving 4 + 6 = 10 Ω.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-phy-electricity-03",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 3,
+      "prompt": "A 100 W lamp operates for 5 hours. How much electrical energy does it use?",
+      "options": [
+        "0.5 kWh",
+        "20 kWh",
+        "500 kWh",
+        "0.02 kWh"
+      ],
+      "answer": 0,
+      "explanation": "Energy in kilowatt-hours is 0.1 kW multiplied by 5 hours, which equals 0.5 kWh.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-phy-waves-01",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 2,
+      "prompt": "An echo returns 0.4 s after a shout. If sound travels at 340 m/s, how far away is the wall?",
+      "options": [
+        "170 m",
+        "68 m",
+        "136 m",
+        "85 m"
+      ],
+      "answer": 1,
+      "explanation": "The sound makes a return journey, so distance is 340 × 0.4 divided by 2 = 68 m.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-phy-waves-02",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 3,
+      "prompt": "Light passes from air into glass and bends toward the normal. What happens to its speed?",
+      "options": [
+        "It decreases",
+        "It increases",
+        "It becomes zero",
+        "It remains unchanged"
+      ],
+      "answer": 0,
+      "explanation": "Glass has a higher refractive index than air, so light travels more slowly in it.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-chem-atomic-01",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 1,
+      "prompt": "An element has atomic number 13. How many protons are in each neutral atom?",
+      "options": [
+        "10",
+        "3",
+        "13",
+        "26"
+      ],
+      "answer": 2,
+      "explanation": "Atomic number is defined as the number of protons in an atom's nucleus.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-chem-atomic-02",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 2,
+      "prompt": "Two atoms have the same proton number but different neutron numbers. How are they related?",
+      "options": [
+        "They are compounds",
+        "They are isotopes",
+        "They are ions",
+        "They are allotropes"
+      ],
+      "answer": 1,
+      "explanation": "Isotopes share an atomic number but have different numbers of neutrons.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-chem-atomic-03",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 3,
+      "prompt": "An ion contains 17 protons and 18 electrons. Which symbol correctly represents its charge?",
+      "options": [
+        "X⁻",
+        "X⁺",
+        "X²⁻",
+        "X²⁺"
+      ],
+      "answer": 0,
+      "explanation": "One more electron than protons produces a single negative charge.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-chem-bonding-01",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 1,
+      "prompt": "In a chlorine molecule, what holds the two chlorine atoms together?",
+      "options": [
+        "Free-moving ions",
+        "Gravitational attraction",
+        "A shared pair of electrons",
+        "Transferred protons"
+      ],
+      "answer": 2,
+      "explanation": "Each chlorine atom contributes one electron to form a single covalent bond.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-chem-bonding-02",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 2,
+      "prompt": "Why does solid sodium chloride fail to conduct electricity?",
+      "options": [
+        "It dissolves immediately",
+        "Its ions cannot move freely",
+        "It contains no charged particles",
+        "Its electrons have no mass"
+      ],
+      "answer": 1,
+      "explanation": "The charged ions are fixed in the solid lattice and cannot carry current through it.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-chem-bonding-03",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 3,
+      "prompt": "Diamond and graphite are both carbon, yet graphite conducts electricity. What enables this?",
+      "options": [
+        "Graphite has delocalised electrons",
+        "Diamond contains metal ions",
+        "Graphite is an ionic liquid",
+        "Diamond has mobile protons"
+      ],
+      "answer": 0,
+      "explanation": "Each graphite carbon leaves one electron delocalised and able to carry charge.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-chem-acid-01",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 1,
+      "prompt": "Blue litmus paper is placed in an acidic solution. What colour does it become?",
+      "options": [
+        "Green",
+        "White",
+        "Red",
+        "Blue"
+      ],
+      "answer": 2,
+      "explanation": "Acids turn blue litmus red under ordinary indicator conditions.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-chem-acid-02",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 2,
+      "prompt": "Hydrochloric acid reacts completely with sodium hydroxide. Which salt is produced?",
+      "options": [
+        "Ammonium nitrate",
+        "Sodium chloride",
+        "Sodium carbonate",
+        "Calcium chloride"
+      ],
+      "answer": 1,
+      "explanation": "The sodium ion combines with the chloride ion to form sodium chloride.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-chem-acid-03",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 3,
+      "prompt": "A solution changes from pH 3 to pH 5. By what factor does its hydrogen-ion concentration decrease?",
+      "options": [
+        "100",
+        "2",
+        "10",
+        "1,000"
+      ],
+      "answer": 0,
+      "explanation": "Each pH unit represents a factor of ten, so two units represent a hundredfold decrease.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-chem-organic-01",
+      "subject": "Chemistry",
+      "unit": "Organic chemistry",
+      "difficulty": 2,
+      "prompt": "Which reagent can distinguish ethene from ethane at room temperature?",
+      "options": [
+        "Bromine water",
+        "Limewater",
+        "Aqueous sodium chloride",
+        "Dilute sulfuric acid"
+      ],
+      "answer": 0,
+      "explanation": "Ethene rapidly decolourises bromine water by addition across its double bond.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-chem-organic-02",
+      "subject": "Chemistry",
+      "unit": "Organic chemistry",
+      "difficulty": 3,
+      "prompt": "Ethanol is heated with acidified potassium dichromate under reflux. What organic product forms?",
+      "options": [
+        "Ethene",
+        "Ethane",
+        "Ethyl ethanoate only",
+        "Ethanoic acid"
+      ],
+      "answer": 3,
+      "explanation": "Strong oxidation under reflux converts the primary alcohol fully to ethanoic acid.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-bio-cells-01",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 1,
+      "prompt": "Which organelle contains chlorophyll and traps light energy in a leaf cell?",
+      "options": [
+        "Mitochondrion",
+        "Nucleus",
+        "Golgi body",
+        "Chloroplast"
+      ],
+      "answer": 3,
+      "explanation": "Chlorophyll pigments within chloroplasts absorb light for photosynthesis.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-bio-cells-02",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 2,
+      "prompt": "A plant cell becomes firm after immersion in pure water. What pressure develops inside it?",
+      "options": [
+        "Atmospheric pressure",
+        "Vapour pressure",
+        "Turgor pressure",
+        "Blood pressure"
+      ],
+      "answer": 2,
+      "explanation": "Water entering by osmosis makes the contents press against the cell wall as turgor pressure.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-bio-cells-03",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 3,
+      "prompt": "A secretory cell makes many protein enzymes. Which two organelles should be especially abundant?",
+      "options": [
+        "Lysosomes and cilia only",
+        "Ribosomes and rough endoplasmic reticulum",
+        "Chloroplasts and cell walls",
+        "Centrioles and vacuoles"
+      ],
+      "answer": 1,
+      "explanation": "Ribosomes build proteins and rough endoplasmic reticulum processes and transports them.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-bio-genetics-01",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 1,
+      "prompt": "Which molecule carries inherited instructions in chromosomes?",
+      "options": [
+        "DNA",
+        "Starch",
+        "Cellulose",
+        "Glycogen"
+      ],
+      "answer": 0,
+      "explanation": "DNA stores genetic information in the sequence of its nucleotide bases.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-bio-genetics-02",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 2,
+      "prompt": "A homozygous red flower RR is crossed with a white flower rr, with red dominant. What colour are all F1 flowers?",
+      "options": [
+        "White",
+        "Pink",
+        "Half red and half white",
+        "Red"
+      ],
+      "answer": 3,
+      "explanation": "Every offspring receives R from one parent and r from the other, producing red Rr plants.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-bio-genetics-03",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 3,
+      "prompt": "A mother is a carrier of an X-linked recessive trait and the father is unaffected. What fraction of their sons is expected to be affected?",
+      "options": [
+        "One quarter",
+        "None",
+        "One half",
+        "All"
+      ],
+      "answer": 2,
+      "explanation": "Each son receives his single X chromosome from the mother, with a one-half chance of the recessive allele.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-bio-ecology-01",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 1,
+      "prompt": "In a food chain, which organisms convert sunlight into stored chemical energy?",
+      "options": [
+        "Producers",
+        "Decomposers",
+        "Carnivores",
+        "Parasites"
+      ],
+      "answer": 0,
+      "explanation": "Photosynthetic producers capture light energy and store it in organic molecules.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-bio-ecology-02",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 2,
+      "prompt": "Lichens begin growing on bare rock after a volcanic eruption. What type of succession is starting?",
+      "options": [
+        "Secondary succession",
+        "Seasonal migration",
+        "Artificial selection",
+        "Primary succession"
+      ],
+      "answer": 3,
+      "explanation": "Primary succession begins where no developed soil or previous community remains.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-bio-ecology-03",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 3,
+      "prompt": "Nitrogen-fixing bacteria in legume root nodules benefit the plant by supplying what?",
+      "options": [
+        "Sunlight energy",
+        "Animal protein",
+        "Usable nitrogen compounds",
+        "Carbon dioxide only"
+      ],
+      "answer": 2,
+      "explanation": "The bacteria convert atmospheric nitrogen into compounds the plant can use to build proteins.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-bio-human-01",
+      "subject": "Biology",
+      "unit": "Human systems",
+      "difficulty": 2,
+      "prompt": "Which hormone lowers blood glucose after a carbohydrate-rich meal?",
+      "options": [
+        "Testosterone",
+        "Insulin",
+        "Adrenaline",
+        "Thyroxine"
+      ],
+      "answer": 1,
+      "explanation": "Insulin promotes glucose uptake and storage, lowering its concentration in blood.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-bio-human-02",
+      "subject": "Biology",
+      "unit": "Human systems",
+      "difficulty": 3,
+      "prompt": "Why are alveoli efficient surfaces for gas exchange?",
+      "options": [
+        "They provide a large, thin, well-supplied surface",
+        "They have thick dry walls",
+        "They actively pump air into blood",
+        "They contain digestive enzymes"
+      ],
+      "answer": 0,
+      "explanation": "Numerous alveoli, thin moist walls and dense capillaries support rapid diffusion.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-econ-demand-01",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 1,
+      "prompt": "The price of tea stays constant while coffee becomes more expensive. What is likely to happen to demand for tea?",
+      "options": [
+        "Its supply curve disappears",
+        "It becomes perfectly inelastic",
+        "It increases",
+        "It decreases to zero"
+      ],
+      "answer": 2,
+      "explanation": "Consumers may substitute tea for the now more expensive coffee, increasing tea demand.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-econ-demand-02",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 2,
+      "prompt": "A good has price elasticity of demand greater than one. How is its demand described?",
+      "options": [
+        "Jointly supplied",
+        "Elastic",
+        "Inelastic",
+        "Perfectly fixed"
+      ],
+      "answer": 1,
+      "explanation": "Demand is elastic when quantity responds proportionately more than price.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-econ-demand-03",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 3,
+      "prompt": "A farmer's improved technology lowers production costs. What happens to the crop's supply curve?",
+      "options": [
+        "It shifts to the right",
+        "It shifts to the left",
+        "It becomes a demand curve",
+        "It remains fixed necessarily"
+      ],
+      "answer": 0,
+      "explanation": "Lower costs make producers willing to supply more at each price, shifting supply right.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-econ-market-01",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 1,
+      "prompt": "A town has only one legal electricity distributor. Which market structure best describes it?",
+      "options": [
+        "Perfect competition",
+        "Monopolistic competition",
+        "Duopoly",
+        "Monopoly"
+      ],
+      "answer": 3,
+      "explanation": "A monopoly exists where a single supplier serves the market.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-econ-market-02",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 2,
+      "prompt": "Restaurants sell differentiated meals while many firms can enter. Which structure fits this market?",
+      "options": [
+        "Perfect monopsony",
+        "Command allocation",
+        "Monopolistic competition",
+        "Pure monopoly"
+      ],
+      "answer": 2,
+      "explanation": "Many sellers with differentiated products and relatively free entry characterise monopolistic competition.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-econ-market-03",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 3,
+      "prompt": "Why can a price-discriminating firm charge different customers different prices?",
+      "options": [
+        "Production has no fixed cost",
+        "It can separate markets and limit resale",
+        "Every customer has identical demand",
+        "The product is always free"
+      ],
+      "answer": 1,
+      "explanation": "Market separation and restricted resale let the firm exploit different demand elasticities.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-econ-money-01",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 1,
+      "prompt": "A trader accepts mobile money today for goods sold. Which function of money is illustrated?",
+      "options": [
+        "Measure of rainfall",
+        "Factor of production",
+        "Population census",
+        "Medium of exchange"
+      ],
+      "answer": 3,
+      "explanation": "Money acts as a medium of exchange when it settles a purchase directly.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-econ-money-02",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 2,
+      "prompt": "A commercial bank keeps part of deposits and lends the rest. What process can this support?",
+      "options": [
+        "Price control",
+        "Currency demonetisation only",
+        "Credit creation",
+        "Barter exchange"
+      ],
+      "answer": 2,
+      "explanation": "Repeated lending and redepositing allows the banking system to expand deposit money.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-econ-money-03",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 3,
+      "prompt": "The central bank sells government securities to commercial banks. What is the likely effect on liquidity?",
+      "options": [
+        "It becomes foreign aid",
+        "It decreases",
+        "It increases without limit",
+        "It is unaffected in all cases"
+      ],
+      "answer": 1,
+      "explanation": "Payment for the securities withdraws reserves from banks and reduces their lending capacity.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-econ-development-01",
+      "subject": "Economics",
+      "unit": "Development",
+      "difficulty": 2,
+      "prompt": "A country's output grows by 4% while its population grows by 6%. What likely happens to output per person?",
+      "options": [
+        "It falls",
+        "It rises by 10%",
+        "It remains exactly unchanged",
+        "It doubles"
+      ],
+      "answer": 0,
+      "explanation": "Population is growing faster than total output, so average output per person declines.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-econ-development-02",
+      "subject": "Economics",
+      "unit": "Development",
+      "difficulty": 3,
+      "prompt": "Why can investment in primary education promote long-term economic development?",
+      "options": [
+        "It eliminates all scarcity",
+        "It fixes every market price",
+        "It prevents technological change",
+        "It builds human capital and productivity"
+      ],
+      "answer": 3,
+      "explanation": "Education raises skills, adaptability and productive capacity across the workforce.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-geo-map-01",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 1,
+      "prompt": "A map arrow points to the top and is labelled N. Which direction lies to the right?",
+      "options": [
+        "West",
+        "South",
+        "Northwest",
+        "East"
+      ],
+      "answer": 3,
+      "explanation": "With north at the top of a standard map, east lies to the right.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-geo-map-02",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 2,
+      "prompt": "A river crosses contour lines whose V shapes point uphill. In which direction does the river flow?",
+      "options": [
+        "Along one contour only",
+        "Directly north in every case",
+        "Opposite the point of each V",
+        "Toward the point of each V"
+      ],
+      "answer": 2,
+      "explanation": "Contour V shapes point upstream, so water flows in the opposite direction.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-geo-map-03",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 3,
+      "prompt": "A map uses a scale of 1:25,000. What ground distance is represented by 8 cm?",
+      "options": [
+        "3.2 km",
+        "2 km",
+        "20 km",
+        "200 m"
+      ],
+      "answer": 1,
+      "explanation": "Eight centimetres represents 200,000 cm, which converts to 2 km.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-geo-climate-01",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 1,
+      "prompt": "Which weather element is measured with a wet-and-dry bulb hygrometer?",
+      "options": [
+        "Rainfall amount",
+        "Sunshine duration",
+        "Relative humidity",
+        "Wind direction"
+      ],
+      "answer": 2,
+      "explanation": "The temperature difference between the bulbs is used to determine relative humidity.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-geo-climate-02",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 2,
+      "prompt": "Why does equatorial rainfall commonly peak in the afternoon?",
+      "options": [
+        "Mountain snow evaporates",
+        "Strong daytime heating drives convection",
+        "Night frost melts suddenly",
+        "Ocean tides lift clouds"
+      ],
+      "answer": 1,
+      "explanation": "Intense surface heating makes moist air rise, cool and condense into convectional storms.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-geo-climate-03",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 3,
+      "prompt": "A dry descending wind warms as it moves down a mountain's leeward side. Which condition results there?",
+      "options": [
+        "A rain-shadow area",
+        "A permanent ice cap",
+        "A tidal floodplain",
+        "A delta distributary"
+      ],
+      "answer": 0,
+      "explanation": "Descending air warms and dries, leaving the leeward side with reduced rainfall.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-geo-pop-01",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 1,
+      "prompt": "Which census value is found by subtracting deaths from births, excluding migration?",
+      "options": [
+        "Dependency ratio",
+        "Life expectancy",
+        "Natural increase",
+        "Net migration"
+      ],
+      "answer": 2,
+      "explanation": "Natural increase is the excess of births over deaths in a population.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-geo-pop-02",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 2,
+      "prompt": "A population pyramid has a very broad base and narrow top. What does this usually indicate?",
+      "options": [
+        "No infant mortality",
+        "High birth rate and youthful population",
+        "Low birth rate and ageing population",
+        "Equal numbers at every age"
+      ],
+      "answer": 1,
+      "explanation": "Many young people relative to older groups create a broad-based pyramid.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-geo-pop-03",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 3,
+      "prompt": "A city grows outward and absorbs nearby villages. Which urban process is occurring?",
+      "options": [
+        "Suburban expansion",
+        "Desertification",
+        "Glaciation",
+        "Rural depopulation only"
+      ],
+      "answer": 0,
+      "explanation": "Outward urban growth converts and incorporates surrounding rural settlements.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-geo-resources-01",
+      "subject": "Geography",
+      "unit": "Resources",
+      "difficulty": 1,
+      "prompt": "Which resource is non-renewable on a human timescale?",
+      "options": [
+        "Wind",
+        "Managed timber",
+        "Crude oil",
+        "Sunlight"
+      ],
+      "answer": 2,
+      "explanation": "Crude oil forms over geological time and is depleted far faster than it is replaced.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-geo-resources-02",
+      "subject": "Geography",
+      "unit": "Resources",
+      "difficulty": 2,
+      "prompt": "How does crop rotation with legumes help maintain soil fertility?",
+      "options": [
+        "It increases soil salinity",
+        "It adds biologically fixed nitrogen",
+        "It removes all soil organisms",
+        "It permanently stops erosion"
+      ],
+      "answer": 1,
+      "explanation": "Legume-associated bacteria add usable nitrogen compounds to the soil system.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-geo-resources-03",
+      "subject": "Geography",
+      "unit": "Resources",
+      "difficulty": 3,
+      "prompt": "A government limits fishing during breeding seasons. Which resource-management principle is applied?",
+      "options": [
+        "Sustainable yield",
+        "Open-access depletion",
+        "Maximum immediate harvest",
+        "Permanent habitat removal"
+      ],
+      "answer": 0,
+      "explanation": "Seasonal limits allow fish stocks to reproduce so future harvests can continue.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-gov-constitution-01",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 1,
+      "prompt": "Citizens can find all major constitutional rules in one authoritative document. How is this constitution classified?",
+      "options": [
+        "Federal by definition",
+        "Written",
+        "Unwritten",
+        "Flexible only"
+      ],
+      "answer": 1,
+      "explanation": "A written constitution codifies its fundamental provisions in an authoritative text.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-gov-constitution-02",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 2,
+      "prompt": "Which constitutional feature divides powers between central and regional governments?",
+      "options": [
+        "Federalism",
+        "Unitarism",
+        "Judicial precedent",
+        "Cabinet secrecy"
+      ],
+      "answer": 0,
+      "explanation": "Federalism constitutionally allocates authority to two levels of government.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-gov-constitution-03",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 3,
+      "prompt": "A bill of rights protects speech but allows narrow public-safety limits. What must courts chiefly assess?",
+      "options": [
+        "Whether ministers dislike the speech",
+        "Whether elections can be cancelled",
+        "Whether all rights are absolute",
+        "Whether the restriction is lawful and proportionate"
+      ],
+      "answer": 3,
+      "explanation": "Courts assess whether a rights limitation has legal authority and is justified proportionately.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-gov-arms-01",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 1,
+      "prompt": "Which institution normally debates and passes national bills?",
+      "options": [
+        "Foreign embassy",
+        "Legislature",
+        "Police service",
+        "Electoral commission"
+      ],
+      "answer": 1,
+      "explanation": "The legislature considers proposed laws and enacts approved bills.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-gov-arms-02",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 2,
+      "prompt": "A president refuses assent to a bill and parliament may reconsider it. What does this illustrate?",
+      "options": [
+        "Checks and balances",
+        "One-party rule",
+        "Judicial review only",
+        "Military command"
+      ],
+      "answer": 0,
+      "explanation": "Each branch has a power that checks the action of another branch.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-gov-arms-03",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 3,
+      "prompt": "Why is security of tenure important for judges?",
+      "options": [
+        "It lets judges write party manifestos",
+        "It removes the need for evidence",
+        "It makes courts control elections",
+        "It supports decisions free from political dismissal"
+      ],
+      "answer": 3,
+      "explanation": "Protected tenure reduces pressure from officials who might dislike judicial decisions.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-gov-party-01",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 1,
+      "prompt": "A document lists a party's promised policies before an election. What is it called?",
+      "options": [
+        "Manifesto",
+        "Constitutional amendment",
+        "Judgment",
+        "Diplomatic note"
+      ],
+      "answer": 0,
+      "explanation": "A party manifesto presents its programme and promises to voters.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-gov-party-02",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 2,
+      "prompt": "Why do parties hold primary elections?",
+      "options": [
+        "To appoint all civil servants",
+        "To interpret statutes",
+        "To count the national census",
+        "To choose their candidates"
+      ],
+      "answer": 3,
+      "explanation": "Primaries allow a party to select candidates for the general election.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-gov-party-03",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 3,
+      "prompt": "Several small parties form an alliance to command a legislative majority. What have they created?",
+      "options": [
+        "A pressure group only",
+        "A unitary constitution",
+        "A coalition",
+        "A judicial panel"
+      ],
+      "answer": 2,
+      "explanation": "A coalition combines parties so they can cooperate in forming or supporting government.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-gov-foreign-01",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "difficulty": 1,
+      "prompt": "A state officially accepts another new state as a member of the international community. What act is this?",
+      "options": [
+        "Nationalisation",
+        "Impeachment",
+        "Recognition",
+        "Extradition"
+      ],
+      "answer": 2,
+      "explanation": "Recognition is formal acceptance of another state or government in international relations.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-gov-foreign-02",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "difficulty": 2,
+      "prompt": "A country recalls its ambassador to protest another state's action. Which tool is being used?",
+      "options": [
+        "Judicial sentencing",
+        "Diplomatic pressure",
+        "Constitutional amendment",
+        "Local referendum"
+      ],
+      "answer": 1,
+      "explanation": "Recalling an ambassador signals official displeasure through diplomatic channels.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-gov-foreign-03",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "difficulty": 3,
+      "prompt": "Two countries submit a territorial dispute to an international court. What peaceful method is this?",
+      "options": [
+        "Judicial settlement",
+        "Economic autarky",
+        "Armed intervention",
+        "Colonial annexation"
+      ],
+      "answer": 0,
+      "explanation": "Judicial settlement asks an agreed international tribunal to decide the legal dispute.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-lit-device-01",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 1,
+      "prompt": "The words 'buzz', 'hiss' and 'clang' imitate sounds. Which device do they exemplify?",
+      "options": [
+        "Metonymy",
+        "Paradox",
+        "Euphemism",
+        "Onomatopoeia"
+      ],
+      "answer": 3,
+      "explanation": "Onomatopoeic words imitate or suggest the sounds they describe.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-lit-device-02",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 2,
+      "prompt": "In 'the crown announced a new policy', what does 'the crown' represent?",
+      "options": [
+        "An unnamed village",
+        "The listening audience",
+        "The monarch or state authority",
+        "A piece of jewellery only"
+      ],
+      "answer": 2,
+      "explanation": "The associated object stands for the institution, making this an example of metonymy.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-lit-device-03",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 3,
+      "prompt": "A speaker says 'freedom is a cage' to express a troubling contradiction. Which device is central?",
+      "options": [
+        "Apostrophe",
+        "Paradox",
+        "Repetition",
+        "Onomatopoeia"
+      ],
+      "answer": 1,
+      "explanation": "The apparently self-contradictory statement invites a deeper interpretation, forming a paradox.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-lit-drama-01",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 1,
+      "prompt": "What is the written conversation between characters in a play called?",
+      "options": [
+        "Costume",
+        "Prologue only",
+        "Dialogue",
+        "Setting"
+      ],
+      "answer": 2,
+      "explanation": "Dialogue is the spoken exchange written for characters in a dramatic work.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-lit-drama-02",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 2,
+      "prompt": "A brief remark is spoken so the audience hears it but other characters supposedly do not. What is it?",
+      "options": [
+        "A denouement",
+        "An aside",
+        "A chorus",
+        "A flashback"
+      ],
+      "answer": 1,
+      "explanation": "An aside gives the audience information while remaining unheard by other characters.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-lit-drama-03",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 3,
+      "prompt": "A comic scene appears immediately after a tense death scene. What effect can this contrast create?",
+      "options": [
+        "Comic relief that releases tension",
+        "A permanent change of genre",
+        "Removal of the central conflict",
+        "Proof that the death was historical"
+      ],
+      "answer": 0,
+      "explanation": "Comic relief briefly eases tension and can sharpen the surrounding tragic mood.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-lit-poetry-01",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 1,
+      "prompt": "What term describes the recurring pattern of stressed and unstressed syllables in verse?",
+      "options": [
+        "Meter",
+        "Plot",
+        "Casting",
+        "Footnote"
+      ],
+      "answer": 0,
+      "explanation": "Meter organises rhythmic stresses into a recurring poetic pattern.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-lit-poetry-02",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 2,
+      "prompt": "A fourteen-line poem follows a recognised argument and rhyme pattern. What form is it likely to be?",
+      "options": [
+        "Epic",
+        "Ballad refrain",
+        "Dramatic monologue only",
+        "Sonnet"
+      ],
+      "answer": 3,
+      "explanation": "A sonnet is conventionally a fourteen-line poem with an organised structure.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-lit-poetry-03",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 3,
+      "prompt": "The speaker directly addresses the absent moon as if it could listen. Which device is used?",
+      "options": [
+        "Pun",
+        "Synecdoche",
+        "Apostrophe",
+        "Understatement"
+      ],
+      "answer": 2,
+      "explanation": "Apostrophe addresses an absent person, abstract idea or non-human thing directly.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-lit-prose-01",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 1,
+      "prompt": "Which element identifies when and where the events of a story occur?",
+      "options": [
+        "Tone",
+        "Characterisation",
+        "Setting",
+        "Conflict"
+      ],
+      "answer": 2,
+      "explanation": "Setting establishes the story's place, time and surrounding social conditions.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-lit-prose-02",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 2,
+      "prompt": "A novel interrupts present action to narrate the hero's childhood. Which technique is used?",
+      "options": [
+        "Satire",
+        "Flashback",
+        "Foreshadowing",
+        "Climax"
+      ],
+      "answer": 1,
+      "explanation": "A flashback moves the narrative to events that happened before the present action.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-lit-prose-03",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 3,
+      "prompt": "Readers know only what one third-person character observes and thinks. Which viewpoint is this?",
+      "options": [
+        "Third-person limited",
+        "First-person plural",
+        "Third-person omniscient",
+        "Objective dramatic chorus"
+      ],
+      "answer": 0,
+      "explanation": "Third-person limited narration confines knowledge to the perspective of one focal character.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-cs-algo-01",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 1,
+      "prompt": "A flowchart diamond normally represents which kind of operation?",
+      "options": [
+        "Input storage",
+        "Program termination only",
+        "Printed output",
+        "A decision"
+      ],
+      "answer": 3,
+      "explanation": "A diamond contains a condition whose outcomes send execution along different paths.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-cs-algo-02",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 2,
+      "prompt": "A loop executes five times and adds 2 on each pass, starting from zero. What final value is produced?",
+      "options": [
+        "5",
+        "25",
+        "10",
+        "7"
+      ],
+      "answer": 2,
+      "explanation": "Five additions of two produce a total of 10.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-cs-algo-03",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 3,
+      "prompt": "Which sorting method repeatedly compares neighbouring items and swaps them when out of order?",
+      "options": [
+        "Recursion only",
+        "Bubble sort",
+        "Binary search",
+        "Hashing"
+      ],
+      "answer": 1,
+      "explanation": "Bubble sort uses repeated adjacent comparisons and swaps until the list is ordered.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-cs-network-01",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 1,
+      "prompt": "Which device connects computers within a local network and forwards frames by hardware address?",
+      "options": [
+        "Switch",
+        "Modem",
+        "Scanner",
+        "Projector"
+      ],
+      "answer": 0,
+      "explanation": "An Ethernet switch learns hardware addresses and forwards frames within a LAN.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-cs-network-02",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 2,
+      "prompt": "What service converts a domain name such as example.com into an IP address?",
+      "options": [
+        "Bluetooth",
+        "HTML",
+        "USB",
+        "DNS"
+      ],
+      "answer": 3,
+      "explanation": "The Domain Name System resolves human-readable host names to network addresses.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-cs-network-03",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 3,
+      "prompt": "Why does breaking a large message into packets improve network communication?",
+      "options": [
+        "No addresses are then required",
+        "It prevents all congestion",
+        "Packets can be routed and retransmitted independently",
+        "Every packet becomes permanently private"
+      ],
+      "answer": 2,
+      "explanation": "Independent packets share routes efficiently and only missing pieces need retransmission.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-cs-hardware-01",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 1,
+      "prompt": "A laptop needs fast internal storage that uses flash memory and has no spinning parts. Which device fits?",
+      "options": [
+        "Solid-state drive",
+        "Magnetic tape reel",
+        "Optical disc drive",
+        "Hard disk drive"
+      ],
+      "answer": 0,
+      "explanation": "A solid-state drive stores data in electronic flash memory without moving components.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-cs-hardware-02",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 2,
+      "prompt": "Why is cache memory placed close to the processor?",
+      "options": [
+        "To replace all permanent storage",
+        "To display graphics without processing",
+        "To connect the computer to mains power",
+        "To provide frequently used data with very low delay"
+      ],
+      "answer": 3,
+      "explanation": "Fast nearby cache reduces the time the processor waits for commonly needed instructions and data.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-cs-hardware-03",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 3,
+      "prompt": "A processor has four cores. What main advantage can this provide?",
+      "options": [
+        "Storage becomes non-volatile",
+        "Network addresses are unnecessary",
+        "Several instruction streams can run in parallel",
+        "Every program becomes four times smaller"
+      ],
+      "answer": 2,
+      "explanation": "Multiple cores can execute separate tasks or threads concurrently when software supports it.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-cs-program-01",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 1,
+      "prompt": "Which data type is most appropriate for storing whether a user is logged in?",
+      "options": [
+        "Floating-point array",
+        "Audio stream",
+        "Boolean",
+        "Image"
+      ],
+      "answer": 2,
+      "explanation": "A Boolean stores one of two logical states, such as true or false.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-cs-program-02",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 2,
+      "prompt": "A function receives a value through a named variable in its definition. What is that variable called?",
+      "options": [
+        "Database table",
+        "Parameter",
+        "Compiler",
+        "Loop body"
+      ],
+      "answer": 1,
+      "explanation": "A parameter is the named input through which a function receives an argument.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b7-cs-program-03",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 3,
+      "prompt": "A program catches a file-not-found error and shows a helpful message. Which practice is demonstrated?",
+      "options": [
+        "Exception handling",
+        "Infinite iteration",
+        "Data duplication",
+        "Syntax highlighting"
+      ],
+      "answer": 0,
+      "explanation": "Exception handling lets software respond safely to runtime errors instead of crashing abruptly.",
+      "curricula": [
+        "JAMB"
+      ]
+    }
+  ]
+}
