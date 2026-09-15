@@ -1,0 +1,2174 @@
+{
+  "manifest": {
+    "id": "jamb-expansion-batch-3",
+    "version": 1,
+    "curriculum": "JAMB",
+    "subject": "All",
+    "questionCount": 120,
+    "publishedAt": "2026-09-15T20:00:00.000Z",
+    "source": "COLBRYAN Technologies; aligned to the official JAMB IBASS subject syllabuses",
+    "reviewStatus": "reviewed"
+  },
+  "questions": [
+    {
+      "id": "jamb-b3-eng-comp-01",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 1,
+      "prompt": "The clinic extended its hours so workers could visit after work. Who benefits directly from the change?",
+      "options": [
+        "Only clinic builders",
+        "People avoiding treatment",
+        "Road contractors",
+        "Workers needing evening appointments"
+      ],
+      "answer": 3,
+      "explanation": "Extended hours directly help workers attend after work.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-comp-02",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 2,
+      "prompt": "Although rain ruined the field, the teams agreed to replay the match. What does this show?",
+      "options": [
+        "Fear of spectators",
+        "Disrespect for rules",
+        "Cooperation after a setback",
+        "Refusal to compete"
+      ],
+      "answer": 2,
+      "explanation": "Both teams cooperated to resolve a weather-related setback.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-comp-03",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 2,
+      "prompt": "A paragraph explains vaccination, clean water and handwashing. Which theme unites the details?",
+      "options": [
+        "Crop harvesting",
+        "Disease prevention",
+        "Transport planning",
+        "Election management"
+      ],
+      "answer": 1,
+      "explanation": "Each measure helps prevent infectious disease.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-comp-04",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 3,
+      "prompt": "When the chairperson said the issue was 'not black and white', what was meant?",
+      "options": [
+        "It was complex rather than simple",
+        "It concerned printing colours",
+        "It had already been solved",
+        "It required no discussion"
+      ],
+      "answer": 0,
+      "explanation": "Not black and white means lacking a simple clear-cut answer.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-comp-05",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 3,
+      "prompt": "A reviewer admires a book's research but criticises its confusing organisation. Which description fits the review?",
+      "options": [
+        "Unqualified praise",
+        "Complete rejection",
+        "Plot summary only",
+        "Balanced evaluation"
+      ],
+      "answer": 3,
+      "explanation": "The reviewer identifies both a strength and a weakness.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-comp-06",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 2,
+      "prompt": "Which connector best introduces a contrast to the previous sentence?",
+      "options": [
+        "For example",
+        "Likewise",
+        "Nevertheless",
+        "Therefore"
+      ],
+      "answer": 2,
+      "explanation": "Nevertheless signals contrast despite what came before.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-grammar-01",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 1,
+      "prompt": "Choose the correct option: One of the girls ___ absent.",
+      "options": [
+        "were",
+        "are",
+        "have",
+        "was"
+      ],
+      "answer": 3,
+      "explanation": "The head subject one is singular.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-grammar-02",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "prompt": "Choose the correct option: We have been waiting ___ two hours.",
+      "options": [
+        "at",
+        "by",
+        "for",
+        "since"
+      ],
+      "answer": 2,
+      "explanation": "For introduces a duration.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-grammar-03",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "prompt": "Choose the correct option: If it rains, the match ___ postponed.",
+      "options": [
+        "has",
+        "will be",
+        "would have",
+        "was being yesterday"
+      ],
+      "answer": 1,
+      "explanation": "The first conditional uses present tense plus will.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-grammar-04",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 3,
+      "prompt": "Choose the correct option: Scarcely had she sat down ___ the bell rang.",
+      "options": [
+        "when",
+        "than",
+        "because",
+        "unless"
+      ],
+      "answer": 0,
+      "explanation": "The standard pattern is scarcely ... when.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-grammar-05",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "prompt": "Choose the correct option: The principal asked whether I ___ the form.",
+      "options": [
+        "complete tomorrow",
+        "am completing yesterday",
+        "has completed",
+        "had completed"
+      ],
+      "answer": 3,
+      "explanation": "Reported speech referring to an earlier action uses past perfect.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-essay-01",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 1,
+      "prompt": "Which sentence is most suitable for a meeting's minutes?",
+      "options": [
+        "Meetings are always wonderful!",
+        "The chairperson opened the meeting at 10 a.m.",
+        "It was, like, a really cool meeting.",
+        "Once upon a time everyone arrived."
+      ],
+      "answer": 1,
+      "explanation": "Minutes use factual, concise and formal language.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-essay-02",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 2,
+      "prompt": "What is the strongest source for a claim about school attendance?",
+      "options": [
+        "Official attendance records",
+        "An unrelated advertisement",
+        "A fictional story",
+        "An anonymous rumour"
+      ],
+      "answer": 0,
+      "explanation": "Official records directly document attendance.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-essay-03",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 2,
+      "prompt": "Which topic sentence clearly controls a paragraph?",
+      "options": [
+        "Exercise.",
+        "There are many words.",
+        "The next paragraph is here.",
+        "Regular exercise improves health in several ways."
+      ],
+      "answer": 3,
+      "explanation": "It states a focused claim that supporting details can develop.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-essay-04",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 3,
+      "prompt": "Which revision is most concise?",
+      "options": [
+        "Weekly, each week, the committee had meetings.",
+        "The committee's meetings occurred weekly every week.",
+        "The committee met weekly.",
+        "The committee met on a weekly basis every week."
+      ],
+      "answer": 2,
+      "explanation": "The sentence expresses the full meaning without repetition.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-essay-05",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 2,
+      "prompt": "Why are transitions useful between paragraphs?",
+      "options": [
+        "They remove the main argument",
+        "They show relationships between ideas",
+        "They replace all evidence",
+        "They make every paragraph identical"
+      ],
+      "answer": 1,
+      "explanation": "Transitions guide readers from one related idea to another.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-oral-01",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 1,
+      "prompt": "Which word begins with the same consonant sound as 'chair'?",
+      "options": [
+        "church",
+        "school",
+        "chorus",
+        "machine"
+      ],
+      "answer": 0,
+      "explanation": "Chair and church begin with /tʃ/.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-oral-02",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 2,
+      "prompt": "Which word contains the vowel sound /ɜː/?",
+      "options": [
+        "bed",
+        "bad",
+        "board",
+        "bird"
+      ],
+      "answer": 3,
+      "explanation": "Bird contains the central long vowel /ɜː/.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-oral-03",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 2,
+      "prompt": "Which word is normally stressed on the final syllable?",
+      "options": [
+        "MARket",
+        "TAble",
+        "engiNEER",
+        "DOCtor"
+      ],
+      "answer": 2,
+      "explanation": "Engineer normally carries primary stress on its final syllable.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-oral-04",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 3,
+      "prompt": "Which pair forms a minimal pair distinguished by /t/ and /d/?",
+      "options": [
+        "cap and cup",
+        "ten and den",
+        "ship and sheep",
+        "pool and pull"
+      ],
+      "answer": 1,
+      "explanation": "Only the initial consonant voicing differs in ten and den.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-eng-oral-05",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 2,
+      "prompt": "Which word contains the consonant sound /ŋ/?",
+      "options": [
+        "sing",
+        "sin",
+        "seen",
+        "sign"
+      ],
+      "answer": 0,
+      "explanation": "Sing ends with the velar nasal /ŋ/.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-math-algebra-01",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 1,
+      "prompt": "Evaluate 3² + 4².",
+      "options": [
+        "25",
+        "49",
+        "12",
+        "7"
+      ],
+      "answer": 0,
+      "explanation": "Nine plus sixteen equals 25.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-math-algebra-02",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 2,
+      "prompt": "Expand and simplify (x + 4)(x - 3).",
+      "options": [
+        "x² - x - 12",
+        "x² + 7x + 12",
+        "x² + x + 12",
+        "x² + x - 12"
+      ],
+      "answer": 3,
+      "explanation": "Multiplication gives x² - 3x + 4x - 12.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-math-algebra-03",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 3,
+      "prompt": "Solve 2/x = 1/3 for nonzero x.",
+      "options": [
+        "3/2",
+        "5",
+        "6",
+        "2/3"
+      ],
+      "answer": 2,
+      "explanation": "Cross-multiplication gives x = 6.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-math-geometry-01",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 1,
+      "prompt": "A circle has radius 5 cm. Find its diameter.",
+      "options": [
+        "15 cm",
+        "25 cm",
+        "10 cm",
+        "5 cm"
+      ],
+      "answer": 2,
+      "explanation": "Diameter is twice the radius.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-math-geometry-02",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 2,
+      "prompt": "Find the sum of interior angles of a pentagon.",
+      "options": [
+        "900°",
+        "540°",
+        "360°",
+        "720°"
+      ],
+      "answer": 1,
+      "explanation": "The sum is (5 - 2) × 180° = 540°.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-math-geometry-03",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 3,
+      "prompt": "A sphere has radius 3 cm. Find its volume.",
+      "options": [
+        "36π cm³",
+        "12π cm³",
+        "27π cm³",
+        "108π cm³"
+      ],
+      "answer": 0,
+      "explanation": "Volume is 4πr³/3 = 36π cm³.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-math-trig-01",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "difficulty": 1,
+      "prompt": "In a right triangle, which ratio equals cosine?",
+      "options": [
+        "Adjacent over hypotenuse",
+        "Opposite over hypotenuse",
+        "Opposite over adjacent",
+        "Hypotenuse over opposite"
+      ],
+      "answer": 0,
+      "explanation": "Cosine is adjacent divided by hypotenuse.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-math-trig-02",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "difficulty": 2,
+      "prompt": "A 13 m cable runs from the ground to a point 12 m up a vertical mast. How far is its ground anchor from the mast?",
+      "options": [
+        "1 m",
+        "12.5 m",
+        "25 m",
+        "5 m"
+      ],
+      "answer": 3,
+      "explanation": "Pythagoras gives √(169 - 144) = 5 m.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-math-trig-03",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "difficulty": 3,
+      "prompt": "If tan θ = 1 and θ is acute, find θ.",
+      "options": [
+        "60°",
+        "90°",
+        "45°",
+        "30°"
+      ],
+      "answer": 2,
+      "explanation": "The acute angle with tangent 1 is 45°.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-math-stats-01",
+      "subject": "Mathematics",
+      "unit": "Statistics",
+      "difficulty": 1,
+      "prompt": "Find the median of 2, 5, 7, 9 and 12.",
+      "options": [
+        "5",
+        "9",
+        "35",
+        "7"
+      ],
+      "answer": 3,
+      "explanation": "Seven is the middle ordered value.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-math-stats-02",
+      "subject": "Mathematics",
+      "unit": "Statistics",
+      "difficulty": 2,
+      "prompt": "A card numbered 1 to 10 is chosen. What is the probability of an even number?",
+      "options": [
+        "2/5",
+        "3/5",
+        "1/2",
+        "1/5"
+      ],
+      "answer": 2,
+      "explanation": "Five of ten numbers are even.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-phy-motion-01",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 1,
+      "prompt": "A straight distance-time graph rises by 40 m over 8 s. Which quantity is found from its gradient?",
+      "options": [
+        "Momentum",
+        "Speed",
+        "Acceleration",
+        "Force"
+      ],
+      "answer": 1,
+      "explanation": "Distance change per unit time is speed, here 5 m/s.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-phy-motion-02",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 2,
+      "prompt": "A vehicle accelerates from 5 m/s to 25 m/s in 10 s. Find its acceleration.",
+      "options": [
+        "2 m/s²",
+        "3 m/s²",
+        "20 m/s²",
+        "200 m/s²"
+      ],
+      "answer": 0,
+      "explanation": "Acceleration is (25 - 5)/10 = 2 m/s².",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-phy-motion-03",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 3,
+      "prompt": "A ball falls freely from rest for 3 s with g = 10 m/s². Find its speed.",
+      "options": [
+        "10 m/s",
+        "15 m/s",
+        "90 m/s",
+        "30 m/s"
+      ],
+      "answer": 3,
+      "explanation": "v = gt = 10 × 3 = 30 m/s.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-phy-forces-01",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 1,
+      "prompt": "What is the SI unit of work?",
+      "options": [
+        "Pascal",
+        "Joule",
+        "Newton",
+        "Watt"
+      ],
+      "answer": 1,
+      "explanation": "Work and energy are measured in joules.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-phy-forces-02",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 2,
+      "prompt": "A 20 N force moves an object 3 m in its direction. Find the work done.",
+      "options": [
+        "60 J",
+        "23 J",
+        "17 J",
+        "6.7 J"
+      ],
+      "answer": 0,
+      "explanation": "Work = force × distance = 60 J.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-phy-forces-03",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 3,
+      "prompt": "A 2 kg body moving at 4 m/s has what momentum?",
+      "options": [
+        "2 kg m/s",
+        "6 kg m/s",
+        "16 kg m/s",
+        "8 kg m/s"
+      ],
+      "answer": 3,
+      "explanation": "Momentum = mass × velocity = 8 kg m/s.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-phy-electricity-01",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 1,
+      "prompt": "Which instrument measures potential difference?",
+      "options": [
+        "Thermometer",
+        "Barometer",
+        "Voltmeter",
+        "Ammeter"
+      ],
+      "answer": 2,
+      "explanation": "A voltmeter measures potential difference.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-phy-electricity-02",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 2,
+      "prompt": "A charge of 12 C flows in 4 s. Find the current.",
+      "options": [
+        "0.33 A",
+        "3 A",
+        "48 A",
+        "8 A"
+      ],
+      "answer": 1,
+      "explanation": "Current = charge/time = 3 A.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-phy-electricity-03",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 3,
+      "prompt": "A 2 kW heater operates for 30 minutes. How much energy does it use in kWh?",
+      "options": [
+        "1 kWh",
+        "60 kWh",
+        "0.067 kWh",
+        "6 kWh"
+      ],
+      "answer": 0,
+      "explanation": "Energy = 2 kW × 0.5 h = 1 kWh.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-phy-waves-01",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 1,
+      "prompt": "What type of wave is sound in air?",
+      "options": [
+        "Stationary only",
+        "Longitudinal",
+        "Transverse",
+        "Electromagnetic"
+      ],
+      "answer": 1,
+      "explanation": "Air particles vibrate parallel to sound propagation.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-phy-waves-02",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 2,
+      "prompt": "An echo returns 2 s after a shout. If sound speed is 340 m/s, how far away is the wall?",
+      "options": [
+        "340 m",
+        "680 m",
+        "170 m",
+        "85 m"
+      ],
+      "answer": 0,
+      "explanation": "The sound travels out and back, so distance = 340 × 2/2.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-chem-atomic-01",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 1,
+      "prompt": "Which particle contributes negligibly to an atom's mass?",
+      "options": [
+        "Neutron",
+        "Nucleus",
+        "Electron",
+        "Proton"
+      ],
+      "answer": 2,
+      "explanation": "An electron is far lighter than a proton or neutron.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-chem-atomic-02",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 2,
+      "prompt": "An atom has mass number 31 and 16 neutrons. Find its proton number.",
+      "options": [
+        "47",
+        "15",
+        "16",
+        "31"
+      ],
+      "answer": 1,
+      "explanation": "Protons = mass number - neutrons = 15.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-chem-atomic-03",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 3,
+      "prompt": "Why do isotopes of an element have similar chemical properties?",
+      "options": [
+        "They have the same electron arrangement",
+        "They have equal neutron numbers",
+        "They have different proton numbers",
+        "They have equal masses"
+      ],
+      "answer": 0,
+      "explanation": "Chemical behaviour depends mainly on electron arrangement.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-chem-bonding-01",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 1,
+      "prompt": "Which bonding occurs in magnesium oxide?",
+      "options": [
+        "Metallic",
+        "Hydrogen",
+        "Ionic",
+        "Covalent"
+      ],
+      "answer": 2,
+      "explanation": "Magnesium transfers electrons to oxygen, forming oppositely charged ions.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-chem-bonding-02",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 2,
+      "prompt": "Why does diamond have a high melting point?",
+      "options": [
+        "It is a metal",
+        "Many strong covalent bonds must be broken",
+        "Its molecules are very small",
+        "It contains mobile ions"
+      ],
+      "answer": 1,
+      "explanation": "Diamond is a giant covalent network.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-chem-bonding-03",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 3,
+      "prompt": "Which shape does methane have?",
+      "options": [
+        "Tetrahedral",
+        "Linear",
+        "Bent",
+        "Trigonal planar"
+      ],
+      "answer": 0,
+      "explanation": "Four bonding pairs arrange tetrahedrally around carbon.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-chem-acid-01",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 1,
+      "prompt": "Which indicator is red in acid and blue in alkali?",
+      "options": [
+        "Phenolphthalein",
+        "Starch solution",
+        "Litmus",
+        "Methyl orange only"
+      ],
+      "answer": 2,
+      "explanation": "Litmus shows red in acid and blue in alkali.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-chem-acid-02",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 2,
+      "prompt": "Which products form when an acid reacts with a carbonate?",
+      "options": [
+        "Metal and water",
+        "Salt, water and carbon dioxide",
+        "Salt and hydrogen only",
+        "Water and oxygen only"
+      ],
+      "answer": 1,
+      "explanation": "Acid-carbonate reactions release carbon dioxide and form salt and water.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-chem-acid-03",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 3,
+      "prompt": "What volume of 0.5 mol/dm³ NaOH contains 0.10 mol?",
+      "options": [
+        "0.20 dm³",
+        "0.05 dm³",
+        "0.50 dm³",
+        "5.0 dm³"
+      ],
+      "answer": 0,
+      "explanation": "Volume = moles/concentration = 0.10/0.5 = 0.20 dm³.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-chem-organic-01",
+      "subject": "Chemistry",
+      "unit": "Organic chemistry",
+      "difficulty": 1,
+      "prompt": "What is the general formula of alkanes?",
+      "options": [
+        "CₙH₂ₙ₊₂",
+        "CₙH₂ₙ",
+        "CₙH₂ₙ₋₂",
+        "CₙHₙ"
+      ],
+      "answer": 0,
+      "explanation": "Saturated open-chain alkanes follow CₙH₂ₙ₊₂.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-chem-organic-02",
+      "subject": "Chemistry",
+      "unit": "Organic chemistry",
+      "difficulty": 2,
+      "prompt": "Ethanol reacting with ethanoic acid produces which organic product?",
+      "options": [
+        "Ethene",
+        "Methane",
+        "Ethanal only",
+        "Ethyl ethanoate"
+      ],
+      "answer": 3,
+      "explanation": "Alcohol plus carboxylic acid produces an ester and water.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-bio-cells-01",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 1,
+      "prompt": "Which structure is present in plant cells but absent from animal cells?",
+      "options": [
+        "Cell membrane",
+        "Cytoplasm",
+        "Ribosome",
+        "Cellulose cell wall"
+      ],
+      "answer": 3,
+      "explanation": "Plant cells have a cellulose wall outside the membrane.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-bio-cells-02",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 2,
+      "prompt": "What movement carries particles from high to low concentration?",
+      "options": [
+        "Endocytosis only",
+        "Translocation",
+        "Diffusion",
+        "Active transport"
+      ],
+      "answer": 2,
+      "explanation": "Diffusion is net movement down a concentration gradient.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-bio-cells-03",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 3,
+      "prompt": "Why does active transport require respiration?",
+      "options": [
+        "It produces no proteins",
+        "It needs ATP energy",
+        "It always moves down a gradient",
+        "It occurs only in dead cells"
+      ],
+      "answer": 1,
+      "explanation": "Carrier proteins use ATP to move substances against gradients.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-bio-genetics-01",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 1,
+      "prompt": "What is the observable expression of a genotype?",
+      "options": [
+        "Phenotype",
+        "Allele",
+        "Chromosome",
+        "Mutation"
+      ],
+      "answer": 0,
+      "explanation": "Phenotype is the observable trait produced by genotype and environment.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-bio-genetics-02",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 2,
+      "prompt": "How many chromosomes are in a normal human gamete?",
+      "options": [
+        "46",
+        "22",
+        "92",
+        "23"
+      ],
+      "answer": 3,
+      "explanation": "Meiosis halves the diploid number from 46 to 23.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-bio-genetics-03",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 3,
+      "prompt": "A homozygous dominant plant AA crosses with aa. What are all F₁ genotypes?",
+      "options": [
+        "aa",
+        "Half AA and half aa",
+        "Aa",
+        "AA"
+      ],
+      "answer": 2,
+      "explanation": "Every offspring receives A from one parent and a from the other.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-bio-ecology-01",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 1,
+      "prompt": "What is an organism's habitat?",
+      "options": [
+        "The place where it lives",
+        "Its role in feeding only",
+        "Its genetic code",
+        "Its population size"
+      ],
+      "answer": 0,
+      "explanation": "A habitat is an organism's physical living place.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-bio-ecology-02",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 2,
+      "prompt": "Which process returns carbon dioxide to the atmosphere from living cells?",
+      "options": [
+        "Photosynthesis",
+        "Nitrification",
+        "Osmosis",
+        "Respiration"
+      ],
+      "answer": 3,
+      "explanation": "Respiration releases carbon dioxide during organic-molecule breakdown.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-bio-ecology-03",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 3,
+      "prompt": "Why is a sixth trophic level uncommon in an ecosystem?",
+      "options": [
+        "Top predators do not respire",
+        "Producers contain no chemical energy",
+        "Too little energy remains after successive transfers",
+        "Energy doubles at every level"
+      ],
+      "answer": 2,
+      "explanation": "Only a fraction of energy passes onward at each trophic transfer.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-bio-human-01",
+      "subject": "Biology",
+      "unit": "Human systems",
+      "difficulty": 1,
+      "prompt": "Which chamber pumps oxygenated blood to the body?",
+      "options": [
+        "Left atrium",
+        "Left ventricle",
+        "Right ventricle",
+        "Right atrium"
+      ],
+      "answer": 1,
+      "explanation": "The left ventricle drives systemic circulation.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-bio-human-02",
+      "subject": "Biology",
+      "unit": "Human systems",
+      "difficulty": 2,
+      "prompt": "What prevents food entering the trachea during swallowing?",
+      "options": [
+        "Epiglottis",
+        "Alveolus",
+        "Ureter",
+        "Villus"
+      ],
+      "answer": 0,
+      "explanation": "The epiglottis closes over the airway.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-econ-demand-01",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 1,
+      "prompt": "What is demand?",
+      "options": [
+        "Goods offered for sale",
+        "Total production cost",
+        "Willingness and ability to buy at given prices",
+        "Desire without purchasing power"
+      ],
+      "answer": 2,
+      "explanation": "Economic demand combines willingness with ability to purchase.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-econ-demand-02",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 2,
+      "prompt": "A subsidy lowers production costs. What normally happens to supply?",
+      "options": [
+        "It remains fixed by definition",
+        "It increases",
+        "It decreases",
+        "It becomes demand"
+      ],
+      "answer": 1,
+      "explanation": "Lower costs make more output profitable at each price.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-econ-demand-03",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 3,
+      "prompt": "If demand is perfectly inelastic, its curve is what shape?",
+      "options": [
+        "Vertical",
+        "Horizontal",
+        "Upward sloping",
+        "Circular"
+      ],
+      "answer": 0,
+      "explanation": "Quantity demanded does not respond to price on a vertical curve.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-econ-market-01",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 1,
+      "prompt": "Which market structure has free entry and identical products?",
+      "options": [
+        "Monopoly",
+        "Oligopoly",
+        "Monopsony",
+        "Perfect competition"
+      ],
+      "answer": 3,
+      "explanation": "Those are core assumptions of perfect competition.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-econ-market-02",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 2,
+      "prompt": "A patent creates what for potential competitors?",
+      "options": [
+        "Homogeneous output",
+        "Guaranteed losses",
+        "Barrier to entry",
+        "Perfect information"
+      ],
+      "answer": 2,
+      "explanation": "Exclusive legal rights restrict entry.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-econ-market-03",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 3,
+      "prompt": "Why is a competitive firm a price taker?",
+      "options": [
+        "Its product has no buyers",
+        "Its output is too small to influence market price",
+        "It is the sole seller",
+        "Government sets every price"
+      ],
+      "answer": 1,
+      "explanation": "Each firm supplies a tiny fraction of total homogeneous output.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-econ-money-01",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 1,
+      "prompt": "Which financial institution accepts deposits and makes loans?",
+      "options": [
+        "Stock exchange",
+        "Trade union",
+        "Customs service",
+        "Commercial bank"
+      ],
+      "answer": 3,
+      "explanation": "Deposit taking and lending are primary commercial-bank functions.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-econ-money-02",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 2,
+      "prompt": "What does an open-market sale of securities by a central bank tend to do?",
+      "options": [
+        "Abolish interest",
+        "Create unlimited credit",
+        "Reduce money supply",
+        "Increase bank reserves"
+      ],
+      "answer": 2,
+      "explanation": "Buyers pay funds that leave commercial-bank reserves.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-econ-money-03",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 3,
+      "prompt": "If nominal interest is 12% and inflation is 7%, approximate real interest is what?",
+      "options": [
+        "7%",
+        "5%",
+        "19%",
+        "12%"
+      ],
+      "answer": 1,
+      "explanation": "Approximate real interest equals nominal minus inflation.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-econ-dev-01",
+      "subject": "Economics",
+      "unit": "Development",
+      "difficulty": 1,
+      "prompt": "What is per-capita income?",
+      "options": [
+        "National income divided by population",
+        "Total tax divided by firms",
+        "Exports minus imports",
+        "Government spending only"
+      ],
+      "answer": 0,
+      "explanation": "Per-capita income is average income per person.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-econ-dev-02",
+      "subject": "Economics",
+      "unit": "Development",
+      "difficulty": 2,
+      "prompt": "Which change most directly reduces structural unemployment?",
+      "options": [
+        "Shortening all holidays",
+        "Increasing seasonal rainfall",
+        "Reducing job information",
+        "Retraining workers for new industries"
+      ],
+      "answer": 3,
+      "explanation": "Retraining addresses mismatch between worker skills and available jobs.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-geo-map-01",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 1,
+      "prompt": "Which map feature explains symbols and colours?",
+      "options": [
+        "Scale",
+        "Grid north",
+        "Contour interval",
+        "Key"
+      ],
+      "answer": 3,
+      "explanation": "The key or legend defines map symbols.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-geo-map-02",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 2,
+      "prompt": "What settlement pattern follows a road or river in a narrow line?",
+      "options": [
+        "Dispersed",
+        "Circular only",
+        "Linear",
+        "Nucleated"
+      ],
+      "answer": 2,
+      "explanation": "Linear settlements extend along a transport route or valley.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-geo-map-03",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 3,
+      "prompt": "Contours crossing a valley usually form a V pointing in which direction?",
+      "options": [
+        "Toward lower land only",
+        "Upstream",
+        "Downstream",
+        "Due east"
+      ],
+      "answer": 1,
+      "explanation": "Contour Vs point toward higher ground and the stream source.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-geo-climate-01",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 1,
+      "prompt": "Which instrument records wind direction?",
+      "options": [
+        "Barometer",
+        "Thermometer",
+        "Wind vane",
+        "Anemometer"
+      ],
+      "answer": 2,
+      "explanation": "A wind vane points toward the direction from which wind blows.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-geo-climate-02",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 2,
+      "prompt": "What is relative humidity?",
+      "options": [
+        "Air pressure at sea level",
+        "Actual water vapour as a percentage of the maximum possible",
+        "Annual rainfall total",
+        "Wind speed per hour"
+      ],
+      "answer": 1,
+      "explanation": "It compares present vapour content with saturation capacity.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-geo-climate-03",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 3,
+      "prompt": "Why does temperature generally fall with altitude in the troposphere?",
+      "options": [
+        "Rising air expands under lower pressure and cools",
+        "Mountains are farther from Earth's core",
+        "High air contains no molecules",
+        "Solar radiation stops above sea level"
+      ],
+      "answer": 0,
+      "explanation": "Lower pressure permits expansion and adiabatic cooling.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-geo-pop-01",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 1,
+      "prompt": "People entering a country to live are called what?",
+      "options": [
+        "Tourists only",
+        "Dependants",
+        "Immigrants",
+        "Emigrants"
+      ],
+      "answer": 2,
+      "explanation": "Immigration means movement into a country for residence.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-geo-pop-02",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 2,
+      "prompt": "Which condition commonly produces a sparsely populated area?",
+      "options": [
+        "Dense transport network",
+        "Extreme aridity",
+        "Reliable water supply",
+        "Fertile flat land"
+      ],
+      "answer": 1,
+      "explanation": "Severe water scarcity limits settlement and livelihoods.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-geo-pop-03",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 3,
+      "prompt": "A country has 30 births and 12 deaths per thousand people. Find natural increase per thousand.",
+      "options": [
+        "18",
+        "42",
+        "2.5",
+        "360"
+      ],
+      "answer": 0,
+      "explanation": "Natural increase is 30 - 12 = 18 per thousand.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-geo-res-01",
+      "subject": "Geography",
+      "unit": "Resources",
+      "difficulty": 1,
+      "prompt": "Which mineral is the main raw material for aluminium?",
+      "options": [
+        "Limestone",
+        "Coal",
+        "Gypsum",
+        "Bauxite"
+      ],
+      "answer": 3,
+      "explanation": "Aluminium is extracted principally from bauxite.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-geo-res-02",
+      "subject": "Geography",
+      "unit": "Resources",
+      "difficulty": 2,
+      "prompt": "A forest is selectively harvested and replanted so future generations can use it. Which principle is being applied?",
+      "options": [
+        "Complete removal of management",
+        "Deforestation",
+        "Conservation",
+        "Immediate resource exhaustion"
+      ],
+      "answer": 2,
+      "explanation": "Conservation manages resources carefully for continued use.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-gov-const-01",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 1,
+      "prompt": "What is rule of law?",
+      "options": [
+        "Elections replace courts",
+        "Government and citizens are subject to law",
+        "Officials act without legal limits",
+        "Only judges obey laws"
+      ],
+      "answer": 1,
+      "explanation": "Rule of law rejects arbitrary power and binds everyone.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-gov-const-02",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 2,
+      "prompt": "Why are fundamental rights included in a constitution?",
+      "options": [
+        "To protect individuals from abuse",
+        "To eliminate all duties",
+        "To prevent judicial remedies",
+        "To create one-party rule"
+      ],
+      "answer": 0,
+      "explanation": "Entrenched rights limit state power and protect liberty.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-gov-const-03",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 3,
+      "prompt": "What does bicameralism mean?",
+      "options": [
+        "An executive with two presidents",
+        "Two constitutions at once",
+        "Courts without appeals",
+        "A legislature with two chambers"
+      ],
+      "answer": 3,
+      "explanation": "A bicameral legislature has upper and lower chambers.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-gov-arms-01",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 1,
+      "prompt": "Which body passes a national budget into law?",
+      "options": [
+        "Electoral commission",
+        "Legislature",
+        "Police",
+        "Civil service"
+      ],
+      "answer": 1,
+      "explanation": "The legislature authorises revenue and expenditure.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-gov-arms-02",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 2,
+      "prompt": "Parliament authorises a ministry to issue detailed safety regulations under an Act. Those regulations are what?",
+      "options": [
+        "Delegated legislation",
+        "A criminal judgment",
+        "A party manifesto",
+        "A diplomatic treaty"
+      ],
+      "answer": 0,
+      "explanation": "The enabling Act delegates limited rule-making authority to the ministry.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-gov-arms-03",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 3,
+      "prompt": "A presidential veto is a check on which arm?",
+      "options": [
+        "Judiciary only",
+        "Civil service",
+        "Electorate",
+        "Legislature"
+      ],
+      "answer": 3,
+      "explanation": "A veto can prevent a bill passed by the legislature becoming law.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-gov-party-01",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 1,
+      "prompt": "What is an electorate?",
+      "options": [
+        "People entitled to vote",
+        "Only elected ministers",
+        "All civil servants",
+        "Foreign diplomats"
+      ],
+      "answer": 0,
+      "explanation": "The electorate comprises qualified voters.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-gov-party-02",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 2,
+      "prompt": "What is a secret ballot designed to protect?",
+      "options": [
+        "Public identification of every vote",
+        "Party control of courts",
+        "Appointment of candidates",
+        "Freedom of voter choice"
+      ],
+      "answer": 3,
+      "explanation": "Privacy reduces intimidation and retaliation.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-gov-party-03",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 3,
+      "prompt": "Why can proportional representation encourage coalition governments?",
+      "options": [
+        "Votes are not counted",
+        "Candidates inherit office",
+        "Seats are spread among several parties",
+        "One party automatically wins every seat"
+      ],
+      "answer": 2,
+      "explanation": "Proportional allocation often prevents one party gaining a majority.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-gov-foreign-01",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "difficulty": 1,
+      "prompt": "What is national interest?",
+      "options": [
+        "A court's private opinion",
+        "A local tax schedule",
+        "Goals a state seeks in external affairs",
+        "Only a party's campaign slogan"
+      ],
+      "answer": 2,
+      "explanation": "National interest guides foreign-policy priorities.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-gov-foreign-02",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "difficulty": 2,
+      "prompt": "Nigeria and Ghana alone sign an agreement to share customs information. What type of cooperation is this?",
+      "options": [
+        "Local council merger",
+        "Bilateral cooperation",
+        "Universal multilateralism",
+        "Domestic party rivalry"
+      ],
+      "answer": 1,
+      "explanation": "An agreement involving two states is bilateral.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-lit-device-01",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 1,
+      "prompt": "'Her smile was like sunshine' uses which device?",
+      "options": [
+        "Metaphor",
+        "Irony",
+        "Pun",
+        "Simile"
+      ],
+      "answer": 3,
+      "explanation": "Like makes the comparison explicit.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-lit-device-02",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 2,
+      "prompt": "A mild expression replacing a harsh one is called what?",
+      "options": [
+        "Alliteration",
+        "Paradox",
+        "Euphemism",
+        "Hyperbole"
+      ],
+      "answer": 2,
+      "explanation": "A euphemism softens an unpleasant idea.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-lit-device-03",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 3,
+      "prompt": "What device repeats a word or phrase at the beginnings of successive clauses?",
+      "options": [
+        "Understatement",
+        "Anaphora",
+        "Onomatopoeia",
+        "Metonymy"
+      ],
+      "answer": 1,
+      "explanation": "Anaphora is initial repetition across clauses or lines.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-lit-drama-01",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 1,
+      "prompt": "Two characters exchange spoken lines on stage. What element of drama is this?",
+      "options": [
+        "A poetic foot",
+        "A stage building",
+        "Dialogue",
+        "A chapter heading"
+      ],
+      "answer": 2,
+      "explanation": "Dialogue is spoken exchange among characters.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-lit-drama-02",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 2,
+      "prompt": "A speech revealing a character's thoughts while alone is what?",
+      "options": [
+        "Epilogue",
+        "Soliloquy",
+        "Chorus",
+        "Aside only"
+      ],
+      "answer": 1,
+      "explanation": "A soliloquy voices private thoughts, conventionally while alone.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-lit-drama-03",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 3,
+      "prompt": "What is catharsis in tragedy?",
+      "options": [
+        "Emotional release experienced by the audience",
+        "The hero's costume",
+        "A comic interruption only",
+        "The opening stage direction"
+      ],
+      "answer": 0,
+      "explanation": "Tragedy evokes and releases pity and fear.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-lit-poetry-01",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 1,
+      "prompt": "A fourteen-line poem is commonly called what?",
+      "options": [
+        "Sonnet",
+        "Ballad",
+        "Ode",
+        "Epic"
+      ],
+      "answer": 0,
+      "explanation": "A sonnet conventionally has fourteen lines.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-lit-poetry-02",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 2,
+      "prompt": "What is a refrain?",
+      "options": [
+        "An unrepeated title",
+        "A prose footnote",
+        "A stage prop",
+        "A repeated line or group of lines"
+      ],
+      "answer": 3,
+      "explanation": "A refrain recurs at intervals in a poem or song.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-lit-poetry-03",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 3,
+      "prompt": "What is blank verse?",
+      "options": [
+        "A poem with no words",
+        "Rhymed free verse only",
+        "Unrhymed verse with regular metre",
+        "Prose without punctuation"
+      ],
+      "answer": 2,
+      "explanation": "Blank verse has metre, commonly iambic pentameter, but no end rhyme.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-lit-prose-01",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 1,
+      "prompt": "What is plot?",
+      "options": [
+        "Only the location",
+        "The author's photograph",
+        "The organised sequence of story events",
+        "The book's paper quality"
+      ],
+      "answer": 2,
+      "explanation": "Plot arranges events and their causal development.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-lit-prose-02",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 2,
+      "prompt": "A narrator who knows every character's thoughts is what?",
+      "options": [
+        "Objective observer only",
+        "Third-person omniscient",
+        "First-person limited",
+        "Second-person only"
+      ],
+      "answer": 1,
+      "explanation": "An omniscient narrator has unrestricted knowledge.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-cs-algo-01",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 1,
+      "prompt": "An algorithm processes each name in a class list using the same three steps. Which control concept is demonstrated?",
+      "options": [
+        "Immediate termination",
+        "Permanent storage",
+        "Hardware design",
+        "Iteration"
+      ],
+      "answer": 3,
+      "explanation": "Iteration repeats instructions for successive items.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-cs-algo-02",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 2,
+      "prompt": "Which data structure follows first-in, first-out order?",
+      "options": [
+        "Tree",
+        "Graph",
+        "Queue",
+        "Stack"
+      ],
+      "answer": 2,
+      "explanation": "A queue removes items in their arrival order.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-cs-algo-03",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 3,
+      "prompt": "Which traversal can explore a graph level by level?",
+      "options": [
+        "Binary insertion",
+        "Breadth-first search",
+        "Depth-first search only",
+        "Bubble sort"
+      ],
+      "answer": 1,
+      "explanation": "Breadth-first search visits neighbours by successive levels.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-cs-net-01",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 1,
+      "prompt": "What does an IP address identify?",
+      "options": [
+        "A file's font",
+        "A monitor's size",
+        "A user's full biography",
+        "A network interface's logical location"
+      ],
+      "answer": 3,
+      "explanation": "IP addresses identify interfaces for network routing.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-cs-net-02",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 2,
+      "prompt": "Which device connects computers within a LAN and forwards frames?",
+      "options": [
+        "Modem only",
+        "Projector",
+        "Switch",
+        "Printer"
+      ],
+      "answer": 2,
+      "explanation": "A network switch forwards Ethernet frames between LAN devices.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-cs-net-03",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 3,
+      "prompt": "What is phishing?",
+      "options": [
+        "Compressing images",
+        "Deception used to steal sensitive information",
+        "Encrypting legitimate backups",
+        "Repairing a network cable"
+      ],
+      "answer": 1,
+      "explanation": "Phishing impersonates a trusted source to obtain secrets.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-cs-hardware-01",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 1,
+      "prompt": "Which unit performs calculations inside the CPU?",
+      "options": [
+        "Arithmetic logic unit",
+        "Power supply",
+        "Monitor",
+        "Cooling fan"
+      ],
+      "answer": 0,
+      "explanation": "The ALU performs arithmetic and logical operations.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-cs-hardware-02",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 2,
+      "prompt": "What is one byte?",
+      "options": [
+        "Two bits",
+        "Four bits",
+        "Sixteen bytes",
+        "Eight bits"
+      ],
+      "answer": 3,
+      "explanation": "A byte conventionally contains eight bits.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-cs-hardware-03",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 3,
+      "prompt": "Why is cache memory placed close to the CPU?",
+      "options": [
+        "To store paper documents",
+        "To provide mains electricity",
+        "To reduce access time for frequent data",
+        "To replace the keyboard"
+      ],
+      "answer": 2,
+      "explanation": "Fast nearby cache reduces CPU waiting time.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-cs-prog-01",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 1,
+      "prompt": "A compiler rejects code because a closing bracket is missing. What kind of error is this?",
+      "options": [
+        "Network delay",
+        "Authentication error",
+        "Syntax error",
+        "Hardware fault"
+      ],
+      "answer": 2,
+      "explanation": "The missing bracket violates the programming language's grammar.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b3-cs-prog-02",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 2,
+      "prompt": "Why are comments used in source code?",
+      "options": [
+        "To execute hidden instructions",
+        "To explain code to human readers",
+        "To increase every numeric result",
+        "To replace the compiler"
+      ],
+      "answer": 1,
+      "explanation": "Comments document intent and are ignored during execution.",
+      "curricula": [
+        "JAMB"
+      ]
+    }
+  ]
+}
