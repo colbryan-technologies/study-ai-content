@@ -1,0 +1,642 @@
+{
+  "manifest": {
+    "id": "complete-unit-lessons",
+    "version": 1,
+    "lessonCount": 30,
+    "publishedAt": "2026-09-16T06:00:00.000Z",
+    "source": "COLBRYAN Technologies",
+    "reviewStatus": "reviewed"
+  },
+  "lessons": [
+    {
+      "id": "math-statistics-data",
+      "subject": "Mathematics",
+      "unit": "Statistics",
+      "title": "Summarising data",
+      "overview": "Statistics turns raw data into useful measures and displays so that patterns can be compared.",
+      "keyPoints": [
+        "Mean is total divided by count.",
+        "Median is the middle ordered value.",
+        "Range is highest minus lowest."
+      ],
+      "example": {
+        "question": "Find the mean of 4, 6, 6 and 8.",
+        "steps": [
+          "Add the values: 24.",
+          "Divide by four values."
+        ],
+        "answer": "6"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "math-trigonometry-ratios",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "title": "Right-triangle ratios",
+      "overview": "Sine, cosine and tangent connect an acute angle to the sides of a right-angled triangle.",
+      "keyPoints": [
+        "SOH gives sine = opposite/hypotenuse.",
+        "CAH gives cosine = adjacent/hypotenuse.",
+        "TOA gives tangent = opposite/adjacent."
+      ],
+      "example": {
+        "question": "A right triangle has opposite side 6 cm and hypotenuse 10 cm. Find sin θ.",
+        "steps": [
+          "Use sine = opposite ÷ hypotenuse.",
+          "Calculate 6 ÷ 10."
+        ],
+        "answer": "0.6"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "math-geometry-angles",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "title": "Angles in polygons",
+      "overview": "Angle rules let you find unknown angles from the structure of lines, triangles and polygons.",
+      "keyPoints": [
+        "Angles in a triangle total 180°.",
+        "Angles on a straight line total 180°.",
+        "Interior angles of an n-sided polygon total (n − 2) × 180°."
+      ],
+      "example": {
+        "question": "Find the third angle of a triangle with angles 50° and 65°.",
+        "steps": [
+          "Add the known angles: 115°.",
+          "Subtract from 180°."
+        ],
+        "answer": "65°"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "physics-forces-newton",
+      "subject": "Physics",
+      "unit": "Forces",
+      "title": "Forces and acceleration",
+      "overview": "A resultant force changes an object's motion; Newton's second law connects force, mass and acceleration.",
+      "keyPoints": [
+        "Resultant force is the vector sum of forces.",
+        "F = ma.",
+        "Balanced forces produce no acceleration."
+      ],
+      "example": {
+        "question": "Find the acceleration of a 5 kg mass under a 20 N resultant force.",
+        "steps": [
+          "Use a = F ÷ m.",
+          "Calculate 20 ÷ 5."
+        ],
+        "answer": "4 m/s²"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "physics-electricity-circuits",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "title": "Current, voltage and resistance",
+      "overview": "Electric current is charge flow, voltage transfers energy, and resistance opposes the current.",
+      "keyPoints": [
+        "V = IR.",
+        "Current is the same through series components.",
+        "Voltage is the same across parallel branches."
+      ],
+      "example": {
+        "question": "A 6 Ω resistor carries 2 A. Find the voltage.",
+        "steps": [
+          "Use V = IR.",
+          "Multiply 2 by 6."
+        ],
+        "answer": "12 V"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "physics-waves-basics",
+      "subject": "Physics",
+      "unit": "Waves",
+      "title": "Wave speed and behaviour",
+      "overview": "Waves transfer energy through oscillations and are described by frequency, wavelength and speed.",
+      "keyPoints": [
+        "Wave speed = frequency × wavelength.",
+        "Frequency is measured in hertz.",
+        "Reflection changes direction but not frequency."
+      ],
+      "example": {
+        "question": "A 5 Hz wave has wavelength 3 m. Find its speed.",
+        "steps": [
+          "Use v = fλ.",
+          "Multiply 5 by 3."
+        ],
+        "answer": "15 m/s"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "biology-genetics-inheritance",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "title": "Genes and inheritance",
+      "overview": "Genes are DNA sections whose alleles help determine inherited characteristics.",
+      "keyPoints": [
+        "Genotype is the allele combination.",
+        "Phenotype is the observed characteristic.",
+        "A dominant allele is expressed in a heterozygote."
+      ],
+      "example": {
+        "question": "Cross two heterozygous Tt parents. What fraction is tt?",
+        "steps": [
+          "List each parent's gametes: T and t.",
+          "A Punnett square gives TT, Tt, Tt, tt."
+        ],
+        "answer": "1/4"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "biology-ecology-food-webs",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "title": "Energy in ecosystems",
+      "overview": "Food chains and webs show feeding relationships and the direction of energy transfer.",
+      "keyPoints": [
+        "Producers capture energy to make food.",
+        "Arrows point from food to consumer.",
+        "Energy is lost between trophic levels."
+      ],
+      "example": {
+        "question": "In grass → grasshopper → frog, identify the primary consumer.",
+        "steps": [
+          "The producer is grass.",
+          "The organism that eats the producer is the primary consumer."
+        ],
+        "answer": "Grasshopper"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "biology-human-systems-circulation",
+      "subject": "Biology",
+      "unit": "Human systems",
+      "title": "The circulatory system",
+      "overview": "The heart and blood vessels form a double circulation that supplies cells and removes wastes.",
+      "keyPoints": [
+        "Arteries carry blood away from the heart.",
+        "Veins carry blood toward the heart.",
+        "Capillaries have thin walls for exchange."
+      ],
+      "example": {
+        "question": "Why are capillary walls one cell thick?",
+        "steps": [
+          "Materials must diffuse between blood and tissues.",
+          "A thin wall shortens the diffusion distance."
+        ],
+        "answer": "It allows rapid exchange of substances."
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "chemistry-acids-bases-ph",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "title": "Acids, bases and neutralisation",
+      "overview": "Acids donate hydrogen ions in water, while bases accept them or supply hydroxide ions.",
+      "keyPoints": [
+        "pH below 7 is acidic.",
+        "Acid + base forms salt + water.",
+        "Indicators change colour across pH ranges."
+      ],
+      "example": {
+        "question": "Name the salt from hydrochloric acid and sodium hydroxide.",
+        "steps": [
+          "Hydrochloric acid forms chloride salts.",
+          "The base supplies sodium ions."
+        ],
+        "answer": "Sodium chloride"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "chemistry-bonding-structure",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "title": "How atoms bond",
+      "overview": "Atoms form ionic, covalent or metallic bonds, and the bonding explains material properties.",
+      "keyPoints": [
+        "Ionic bonding transfers electrons.",
+        "Covalent bonding shares electron pairs.",
+        "Metallic bonding has positive ions in delocalised electrons."
+      ],
+      "example": {
+        "question": "Why does solid sodium chloride not conduct electricity?",
+        "steps": [
+          "Conduction needs mobile charged particles.",
+          "Its ions are fixed in a crystal lattice when solid."
+        ],
+        "answer": "The charged ions cannot move."
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "chemistry-organic-hydrocarbons",
+      "subject": "Chemistry",
+      "unit": "Organic chemistry",
+      "title": "Hydrocarbons and homologous series",
+      "overview": "Organic chemistry studies carbon compounds; homologous series share a functional group and general formula.",
+      "keyPoints": [
+        "Alkanes have only single carbon bonds.",
+        "Alkenes contain a C=C bond.",
+        "Members of a series have similar chemical properties."
+      ],
+      "example": {
+        "question": "Is C₂H₄ an alkane or alkene?",
+        "steps": [
+          "Alkanes follow CnH2n+2; for n=2 that is C₂H₆.",
+          "C₂H₄ follows the alkene formula CnH2n."
+        ],
+        "answer": "Alkene"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "english-comprehension-evidence",
+      "subject": "English",
+      "unit": "Comprehension",
+      "title": "Reading for evidence",
+      "overview": "Strong comprehension answers combine the passage's explicit facts with careful inference.",
+      "keyPoints": [
+        "Read the question before locating evidence.",
+        "Use context to infer unfamiliar words.",
+        "Support an inference with details from the passage."
+      ],
+      "example": {
+        "question": "A character shuts every window as clouds gather. What can you infer?",
+        "steps": [
+          "Connect the clouds with likely rain.",
+          "Closing windows prevents rain entering."
+        ],
+        "answer": "The character expects rain."
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "english-essay-structure",
+      "subject": "English",
+      "unit": "Essay writing",
+      "title": "Building a clear essay",
+      "overview": "A clear essay develops one central response through organised paragraphs and relevant evidence.",
+      "keyPoints": [
+        "Plan a precise thesis before writing.",
+        "Give each paragraph one controlling idea.",
+        "Link evidence back to the question."
+      ],
+      "example": {
+        "question": "What should follow a paragraph's topic sentence?",
+        "steps": [
+          "The topic sentence states the claim.",
+          "The claim needs support and explanation."
+        ],
+        "answer": "Relevant evidence followed by analysis."
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "english-oral-stress",
+      "subject": "English",
+      "unit": "Oral",
+      "title": "Speech sounds and stress",
+      "overview": "Oral English depends on accurate sound contrasts, syllable stress and intonation.",
+      "keyPoints": [
+        "A syllable contains one vowel sound.",
+        "Stress makes one syllable more prominent.",
+        "Intonation is the rise and fall of pitch."
+      ],
+      "example": {
+        "question": "Which syllable is stressed in REcord when it is a noun?",
+        "steps": [
+          "Say the noun naturally.",
+          "The first syllable is stronger."
+        ],
+        "answer": "The first syllable: RE-cord."
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "economics-market-structures",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "title": "Competition and market power",
+      "overview": "Market structure depends on the number of firms, entry barriers, product differences and control over price.",
+      "keyPoints": [
+        "Perfect competition has many price-taking firms.",
+        "A monopoly has one dominant supplier.",
+        "Oligopoly has a few interdependent firms."
+      ],
+      "example": {
+        "question": "Why can a monopolist influence price?",
+        "steps": [
+          "It is the sole or dominant supplier.",
+          "Consumers have few close substitutes."
+        ],
+        "answer": "It has substantial market power."
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "economics-money-banking",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "title": "Functions of money and banks",
+      "overview": "Money enables exchange and valuation, while financial institutions move savings toward borrowing and investment.",
+      "keyPoints": [
+        "Money is a medium of exchange.",
+        "Commercial banks accept deposits and make loans.",
+        "Central banks manage currency and monetary policy."
+      ],
+      "example": {
+        "question": "Which function lets prices be compared?",
+        "steps": [
+          "Prices express each product's value in the same measure.",
+          "That function is called a unit of account."
+        ],
+        "answer": "Unit of account"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "economics-development-indicators",
+      "subject": "Economics",
+      "unit": "Development",
+      "title": "Measuring development",
+      "overview": "Development combines rising material living standards with wider improvements in health, education and opportunity.",
+      "keyPoints": [
+        "Real GDP per person measures average output.",
+        "HDI combines income, health and education.",
+        "Growth can occur without equal development."
+      ],
+      "example": {
+        "question": "Why is GDP per person alone incomplete?",
+        "steps": [
+          "It is an average and may hide inequality.",
+          "It omits health, education and environmental quality."
+        ],
+        "answer": "It misses distribution and non-income wellbeing."
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "computer-networks-basics",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "title": "How networks communicate",
+      "overview": "Networks connect devices so they can exchange data and share resources through agreed protocols.",
+      "keyPoints": [
+        "A LAN covers a limited area.",
+        "Routers forward packets between networks.",
+        "Protocols define communication rules."
+      ],
+      "example": {
+        "question": "What device forwards data between a home LAN and the internet?",
+        "steps": [
+          "The data must cross between different networks.",
+          "A router selects the route for packets."
+        ],
+        "answer": "Router"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "computer-hardware-components",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "title": "Processor, memory and storage",
+      "overview": "A computer combines processing, temporary working memory and persistent storage.",
+      "keyPoints": [
+        "The CPU executes instructions.",
+        "RAM holds active programs and data.",
+        "Storage retains data without power."
+      ],
+      "example": {
+        "question": "Why does adding RAM often improve multitasking?",
+        "steps": [
+          "Running programs need working memory.",
+          "More RAM reduces slow transfers to storage."
+        ],
+        "answer": "More active data can remain in fast memory."
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "computer-programming-control",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "title": "Variables and control flow",
+      "overview": "Programs store values and use sequence, selection and iteration to transform input into output.",
+      "keyPoints": [
+        "Variables name stored values.",
+        "Selection branches on a condition.",
+        "Loops repeat a block of instructions."
+      ],
+      "example": {
+        "question": "Which structure repeats an instruction ten times?",
+        "steps": [
+          "The same step must run a known number of times.",
+          "Use a count-controlled loop."
+        ],
+        "answer": "A for loop"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "geography-climate-factors",
+      "subject": "Geography",
+      "unit": "Climate",
+      "title": "Controls of climate",
+      "overview": "Latitude, altitude, winds, ocean currents and distance from the sea shape long-term weather patterns.",
+      "keyPoints": [
+        "Higher latitudes receive less direct sunlight.",
+        "Temperature usually falls with altitude.",
+        "The sea moderates coastal temperatures."
+      ],
+      "example": {
+        "question": "Why do coastal places often have a smaller temperature range?",
+        "steps": [
+          "Water heats and cools more slowly than land.",
+          "Sea air moderates nearby land temperatures."
+        ],
+        "answer": "The ocean reduces seasonal temperature extremes."
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "geography-population-change",
+      "subject": "Geography",
+      "unit": "Population",
+      "title": "Population change and structure",
+      "overview": "Births, deaths and migration change population size and age structure.",
+      "keyPoints": [
+        "Natural increase is births minus deaths.",
+        "Net migration is immigration minus emigration.",
+        "A population pyramid shows age and sex structure."
+      ],
+      "example": {
+        "question": "A country has 20 births and 8 deaths per thousand. Find natural increase.",
+        "steps": [
+          "Subtract the death rate from the birth rate.",
+          "Calculate 20 − 8."
+        ],
+        "answer": "12 per thousand"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "geography-resources-sustainability",
+      "subject": "Geography",
+      "unit": "Resources",
+      "title": "Using resources sustainably",
+      "overview": "Sustainable resource use meets present needs while protecting future supply and environmental systems.",
+      "keyPoints": [
+        "Renewable resources can replenish naturally.",
+        "Conservation reduces waste and damage.",
+        "Management balances social, economic and environmental needs."
+      ],
+      "example": {
+        "question": "Why is solar energy renewable?",
+        "steps": [
+          "Its source is sunlight.",
+          "Sunlight is continually replenished on human timescales."
+        ],
+        "answer": "Its energy source is naturally renewed."
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "government-arms-separation",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "title": "Legislature, executive and judiciary",
+      "overview": "Government functions are divided among institutions that make, carry out and interpret laws.",
+      "keyPoints": [
+        "The legislature makes laws.",
+        "The executive implements policy.",
+        "The judiciary interprets law and resolves disputes."
+      ],
+      "example": {
+        "question": "Which arm reviews whether an action follows the constitution?",
+        "steps": [
+          "The issue requires legal interpretation.",
+          "Courts form the judiciary."
+        ],
+        "answer": "The judiciary"
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "government-parties-elections",
+      "subject": "Government",
+      "unit": "Political parties",
+      "title": "Political parties and representation",
+      "overview": "Political parties organise citizens around policies, contest elections and help form governments.",
+      "keyPoints": [
+        "Parties aggregate public interests.",
+        "A manifesto presents proposed policies.",
+        "Opposition parties scrutinise government."
+      ],
+      "example": {
+        "question": "What is the purpose of a party manifesto?",
+        "steps": [
+          "Voters need to know what a party proposes.",
+          "It states policies and election commitments."
+        ],
+        "answer": "To present the party's programme to voters."
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "government-foreign-policy",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "title": "National interests abroad",
+      "overview": "Foreign policy guides how a state relates to other states and international organisations.",
+      "keyPoints": [
+        "Security and prosperity are common interests.",
+        "Diplomacy manages relations peacefully.",
+        "Treaties create agreed international obligations."
+      ],
+      "example": {
+        "question": "Why do states maintain embassies?",
+        "steps": [
+          "States need continuous official communication abroad.",
+          "Embassies support diplomacy and citizens."
+        ],
+        "answer": "To conduct diplomatic relations and represent national interests."
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "literature-drama-elements",
+      "subject": "Literature",
+      "unit": "Drama",
+      "title": "How drama creates meaning",
+      "overview": "Drama develops conflict through dialogue, action, stage directions and performance before an audience.",
+      "keyPoints": [
+        "Dialogue reveals character and advances action.",
+        "Stage directions guide performance.",
+        "Dramatic irony occurs when the audience knows more than a character."
+      ],
+      "example": {
+        "question": "Why can dramatic irony create tension?",
+        "steps": [
+          "The audience anticipates a danger or consequence.",
+          "The character acts without that knowledge."
+        ],
+        "answer": "The audience foresees what the character cannot."
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "literature-poetry-analysis",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "title": "Voice, imagery and rhythm",
+      "overview": "Poetry compresses meaning through deliberate sound, image, line and speaker choices.",
+      "keyPoints": [
+        "The speaker is the voice within the poem.",
+        "Imagery appeals to the senses.",
+        "Rhythm and line breaks shape pace and emphasis."
+      ],
+      "example": {
+        "question": "What does repeated harsh consonant sound often affect?",
+        "steps": [
+          "Notice how the sound feels when spoken.",
+          "Connect that sound to mood or emphasis."
+        ],
+        "answer": "It can create a forceful or tense effect."
+      },
+      "estimatedMinutes": 7
+    },
+    {
+      "id": "literature-prose-narrative",
+      "subject": "Literature",
+      "unit": "Prose",
+      "title": "Narrator and point of view",
+      "overview": "A prose narrator controls what readers know and influences how events and characters are interpreted.",
+      "keyPoints": [
+        "First-person narration uses I or we.",
+        "Third-person limited follows one character's perspective.",
+        "An unreliable narrator may distort events."
+      ],
+      "example": {
+        "question": "What is one effect of first-person narration?",
+        "steps": [
+          "Events are filtered through one participant.",
+          "Readers gain close access to that person's thoughts."
+        ],
+        "answer": "It creates intimacy but limits knowledge to the narrator."
+      },
+      "estimatedMinutes": 7
+    }
+  ]
+}

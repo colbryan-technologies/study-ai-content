@@ -1,0 +1,231 @@
+{
+  "manifest": {
+    "id": "core-lessons",
+    "version": 1,
+    "lessonCount": 10,
+    "publishedAt": "2026-09-16T06:00:00.000Z",
+    "source": "COLBRYAN Technologies",
+    "reviewStatus": "reviewed"
+  },
+  "lessons": [
+    {
+      "id": "math-algebra-equations",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "title": "Solving linear equations",
+      "estimatedMinutes": 8,
+      "overview": "An equation is balanced: whatever you do to one side must also be done to the other. Work backwards through the operations around the unknown.",
+      "keyPoints": [
+        "Simplify each side first.",
+        "Undo addition or subtraction before multiplication or division.",
+        "Substitute your answer into the original equation to check it."
+      ],
+      "example": {
+        "question": "Solve 3x + 5 = 20.",
+        "steps": [
+          "Subtract 5 from both sides: 3x = 15.",
+          "Divide both sides by 3: x = 5.",
+          "Check: 3(5) + 5 = 20."
+        ],
+        "answer": "x = 5"
+      }
+    },
+    {
+      "id": "physics-motion-speed",
+      "subject": "Physics",
+      "unit": "Motion",
+      "title": "Speed, distance and time",
+      "estimatedMinutes": 7,
+      "overview": "Speed measures how quickly distance changes. Keep units consistent before using the relationship speed = distance ÷ time.",
+      "keyPoints": [
+        "Speed = distance ÷ time.",
+        "Distance = speed × time.",
+        "Average speed uses total distance and total time."
+      ],
+      "example": {
+        "question": "A cyclist covers 600 m in 40 s. Find the average speed.",
+        "steps": [
+          "Identify distance = 600 m and time = 40 s.",
+          "Divide distance by time: 600 ÷ 40.",
+          "State the unit in metres per second."
+        ],
+        "answer": "15 m/s"
+      }
+    },
+    {
+      "id": "chemistry-atomic-structure",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "title": "Inside the atom",
+      "estimatedMinutes": 8,
+      "overview": "Atoms contain protons and neutrons in a nucleus, with electrons arranged around it. Their numbers explain charge, mass and identity.",
+      "keyPoints": [
+        "Atomic number equals the number of protons.",
+        "Mass number equals protons plus neutrons.",
+        "A neutral atom has equal numbers of protons and electrons."
+      ],
+      "example": {
+        "question": "An atom has atomic number 11 and mass number 23. Find its particles.",
+        "steps": [
+          "Protons = atomic number = 11.",
+          "Electrons = protons for a neutral atom = 11.",
+          "Neutrons = 23 − 11."
+        ],
+        "answer": "11 protons, 11 electrons and 12 neutrons"
+      }
+    },
+    {
+      "id": "biology-cell-basics",
+      "subject": "Biology",
+      "unit": "Cells",
+      "title": "Cell structures and functions",
+      "estimatedMinutes": 8,
+      "overview": "Cells are the basic units of life. Their specialised structures carry out jobs such as controlling activity, releasing energy and making proteins.",
+      "keyPoints": [
+        "The nucleus contains genetic material and controls the cell.",
+        "Mitochondria release energy through respiration.",
+        "Plant cells also have a cell wall, chloroplasts and a large permanent vacuole."
+      ],
+      "example": {
+        "question": "Why do muscle cells contain many mitochondria?",
+        "steps": [
+          "Muscle contraction needs energy.",
+          "Mitochondria are where aerobic respiration releases energy.",
+          "More mitochondria support the cell's high energy demand."
+        ],
+        "answer": "They release the energy needed for repeated contraction."
+      }
+    },
+    {
+      "id": "english-grammar-agreement",
+      "subject": "English",
+      "unit": "Grammar",
+      "title": "Subject–verb agreement",
+      "estimatedMinutes": 6,
+      "overview": "A verb must agree with its subject in number and person. Identify the true subject before choosing the verb form.",
+      "keyPoints": [
+        "A singular subject normally takes a singular verb.",
+        "Words between subject and verb do not change the agreement.",
+        "After does or doesn't, use the base form of the main verb."
+      ],
+      "example": {
+        "question": "Choose: The box of books is/are heavy.",
+        "steps": [
+          "The complete subject is 'the box of books'.",
+          "The head noun is the singular word 'box'.",
+          "Choose the singular verb 'is'."
+        ],
+        "answer": "The box of books is heavy."
+      }
+    },
+    {
+      "id": "economics-demand-supply",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "title": "How price affects demand",
+      "estimatedMinutes": 7,
+      "overview": "Demand describes how much consumers are willing and able to buy at different prices. Price changes cause movement along a demand curve.",
+      "keyPoints": [
+        "For a normal good, a higher price usually lowers quantity demanded.",
+        "A price change causes movement along the curve.",
+        "Income, tastes and related-goods prices can shift the whole curve."
+      ],
+      "example": {
+        "question": "The price of cinema tickets falls while other factors stay constant. What happens?",
+        "steps": [
+          "Only the good's own price changed.",
+          "Apply the law of demand.",
+          "Show a movement along, rather than a shift of, the demand curve."
+        ],
+        "answer": "Quantity demanded increases."
+      }
+    },
+    {
+      "id": "geography-contour-lines",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "title": "Reading contour lines",
+      "estimatedMinutes": 7,
+      "overview": "Contour lines connect points of equal height. Their pattern lets you interpret elevation, slope and landforms on a flat map.",
+      "keyPoints": [
+        "Close contour lines show a steep slope.",
+        "Wide spacing shows a gentle slope.",
+        "The contour interval is the vertical difference between adjacent lines."
+      ],
+      "example": {
+        "question": "Contours rise from 100 m to 160 m in intervals of 20 m. How many height steps are there?",
+        "steps": [
+          "Find the height change: 160 − 100 = 60 m.",
+          "Divide by the contour interval: 60 ÷ 20."
+        ],
+        "answer": "3 contour intervals"
+      }
+    },
+    {
+      "id": "government-constitution",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "title": "Purpose of a constitution",
+      "estimatedMinutes": 7,
+      "overview": "A constitution sets the fundamental rules of government. It defines institutions, distributes power and protects agreed rights.",
+      "keyPoints": [
+        "It states the powers and limits of government.",
+        "It explains relationships among government institutions.",
+        "It may be written or unwritten, rigid or flexible."
+      ],
+      "example": {
+        "question": "Why can separation of powers protect citizens?",
+        "steps": [
+          "Power is distributed among institutions.",
+          "Each institution can restrain abuses by the others.",
+          "This reduces the chance that one body controls every state function."
+        ],
+        "answer": "It limits concentrated power through institutional checks."
+      }
+    },
+    {
+      "id": "literature-figurative-language",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "title": "Simile and metaphor",
+      "estimatedMinutes": 6,
+      "overview": "Figurative comparisons create meaning beyond literal description. A simile signals its comparison; a metaphor states one thing as another.",
+      "keyPoints": [
+        "A simile commonly uses 'like' or 'as'.",
+        "A metaphor makes a direct comparison.",
+        "Explain the effect of the comparison in its context."
+      ],
+      "example": {
+        "question": "What does 'Her voice was velvet' suggest?",
+        "steps": [
+          "It directly identifies the voice as velvet, so it is a metaphor.",
+          "Velvet feels smooth and soft.",
+          "Transfer those qualities to the sound of the voice."
+        ],
+        "answer": "The metaphor suggests a soft, smooth and pleasant voice."
+      }
+    },
+    {
+      "id": "computer-science-algorithms",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "title": "Thinking in algorithms",
+      "estimatedMinutes": 8,
+      "overview": "An algorithm is a finite, ordered set of unambiguous steps for solving a problem. Good algorithms are correct, clear and efficient.",
+      "keyPoints": [
+        "Sequence runs instructions in order.",
+        "Selection chooses a path based on a condition.",
+        "Iteration repeats instructions while or until a condition is met."
+      ],
+      "example": {
+        "question": "Describe an algorithm that finds the largest number in a list.",
+        "steps": [
+          "Store the first item as the current largest.",
+          "Compare each remaining item with it.",
+          "Replace the stored value whenever a larger item is found."
+        ],
+        "answer": "After the final comparison, the stored value is the largest."
+      }
+    }
+  ]
+}
