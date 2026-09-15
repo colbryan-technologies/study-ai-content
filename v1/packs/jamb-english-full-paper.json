@@ -1,0 +1,302 @@
+{
+  "manifest": {
+    "id": "jamb-english-full-paper",
+    "version": 1,
+    "curriculum": "JAMB",
+    "subject": "English",
+    "questionCount": 16,
+    "publishedAt": "2026-09-15T12:00:00.000Z",
+    "source": "COLBRYAN Technologies; aligned to the JAMB IBASS Use of English syllabus",
+    "reviewStatus": "reviewed"
+  },
+  "questions": [
+    {
+      "id": "jamb-english-completion-comprehension-01",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Tola arrived at the library before it opened, yet six students were already waiting. What can be inferred from the sentence?",
+      "options": [
+        "Several students were eager to use the library",
+        "The library opened late every day",
+        "Tola worked at the library",
+        "The six students arrived after Tola"
+      ],
+      "answer": 0,
+      "explanation": "Their presence before opening most directly suggests that several students were eager to use the library."
+    },
+    {
+      "id": "jamb-english-completion-comprehension-02",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "A paragraph explains that trees cool cities, reduce flooding and improve air quality. Which title best captures its main idea?",
+      "options": [
+        "How Floods Begin",
+        "The Cost of City Roads",
+        "Benefits of Urban Trees",
+        "Why Cities Are Crowded"
+      ],
+      "answer": 2,
+      "explanation": "All three details describe benefits that trees provide in urban areas, so the broad title covers the whole paragraph."
+    },
+    {
+      "id": "jamb-english-completion-comprehension-03",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 3,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "In the statement 'After the debate, the principal poured oil on troubled waters,' the principal did what?",
+      "options": [
+        "Made the disagreement worse",
+        "Ignored everyone involved",
+        "Changed the subject completely",
+        "Calmed a tense situation"
+      ],
+      "answer": 3,
+      "explanation": "To pour oil on troubled waters is to calm a disagreement or reduce tension between people."
+    },
+    {
+      "id": "jamb-english-completion-lexis-01",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Choose the option nearest in meaning to the underlined idea: The accountant was meticulous in checking the figures.",
+      "options": [
+        "Very careful",
+        "Careless",
+        "Quick",
+        "Uncertain"
+      ],
+      "answer": 0,
+      "explanation": "Meticulous means extremely careful and attentive to small details."
+    },
+    {
+      "id": "jamb-english-completion-lexis-02",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 1,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Choose the option opposite in meaning to the word in capitals: Clean water was SCARCE after the drought.",
+      "options": [
+        "Abundant",
+        "Dirty",
+        "Costly",
+        "Unsafe"
+      ],
+      "answer": 0,
+      "explanation": "Scarce means limited or difficult to find; abundant means available in large quantities."
+    },
+    {
+      "id": "jamb-english-completion-lexis-03",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "When Kemi 'spilled the beans', she did what?",
+      "options": [
+        "Cooked a meal",
+        "Wasted some food",
+        "Revealed a secret",
+        "Made a careless purchase"
+      ],
+      "answer": 2,
+      "explanation": "To spill the beans is an idiom meaning to reveal information that was meant to remain secret."
+    },
+    {
+      "id": "jamb-english-completion-lexis-04",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Choose the word most closely associated with a surgeon's work.",
+      "options": [
+        "Scalpel",
+        "Compass",
+        "Ledger",
+        "Trowel"
+      ],
+      "answer": 0,
+      "explanation": "A scalpel is a small, sharp instrument used by surgeons during operations."
+    },
+    {
+      "id": "jamb-english-completion-structure-01",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 3,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Choose the option that best completes the sentence: Hardly had the match begun ___ the rain started.",
+      "options": [
+        "than",
+        "while",
+        "since",
+        "when"
+      ],
+      "answer": 3,
+      "explanation": "The standard construction is 'hardly had ... when' to show that one event followed another immediately."
+    },
+    {
+      "id": "jamb-english-completion-structure-02",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Choose the correct verb: Each of the players ___ a locker.",
+      "options": [
+        "have",
+        "are having",
+        "has",
+        "were given"
+      ],
+      "answer": 2,
+      "explanation": "The subject 'each' is singular, so it takes the singular verb 'has'."
+    },
+    {
+      "id": "jamb-english-completion-structure-03",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 1,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Choose the correct preposition: We congratulated Ada ___ winning the scholarship.",
+      "options": [
+        "for",
+        "at",
+        "on",
+        "with"
+      ],
+      "answer": 2,
+      "explanation": "The verb 'congratulate' takes the preposition 'on' before an achievement."
+    },
+    {
+      "id": "jamb-english-completion-structure-04",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Choose the correct question tag: Let us begin the meeting, ___?",
+      "options": [
+        "will we",
+        "shall we",
+        "do we",
+        "aren't we"
+      ],
+      "answer": 1,
+      "explanation": "Suggestions beginning with 'let us' normally take the question tag 'shall we?'."
+    },
+    {
+      "id": "jamb-english-completion-structure-05",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 1,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "In the sentence 'The committee put off the inspection,' what does 'put off' mean?",
+      "options": [
+        "Cancelled permanently",
+        "Completed",
+        "Supervised",
+        "Postponed"
+      ],
+      "answer": 3,
+      "explanation": "In this context, the phrasal verb 'put off' means delayed or postponed to a later time."
+    },
+    {
+      "id": "jamb-english-completion-structure-06",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Choose the sentence that means Musa can enter only if he presents his card.",
+      "options": [
+        "Musa may enter unless he presents his card.",
+        "Unless Musa presents his card, he cannot enter.",
+        "Musa cannot enter because he presented his card.",
+        "Although Musa presents his card, he cannot enter."
+      ],
+      "answer": 1,
+      "explanation": "'Unless' means 'if not', so the sentence makes presenting the card a condition for entry."
+    },
+    {
+      "id": "jamb-english-completion-structure-07",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 1,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Choose the word that best completes the expression: The board will ___ a decision tomorrow.",
+      "options": [
+        "do",
+        "make",
+        "create",
+        "build"
+      ],
+      "answer": 1,
+      "explanation": "The standard English collocation is 'make a decision'."
+    },
+    {
+      "id": "jamb-english-completion-structure-08",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 3,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Choose the option that best completes the sentence: Neither the teachers nor the principal ___ available.",
+      "options": [
+        "were",
+        "are",
+        "have been",
+        "was"
+      ],
+      "answer": 3,
+      "explanation": "With 'neither ... nor', the verb agrees with the nearer subject; singular 'principal' takes 'was'."
+    },
+    {
+      "id": "jamb-english-completion-oral-01",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 2,
+      "curricula": [
+        "JAMB"
+      ],
+      "prompt": "Which word contains the same consonant sound represented by 'th' in 'thin'?",
+      "options": [
+        "Then",
+        "Thought",
+        "This",
+        "Breathe"
+      ],
+      "answer": 1,
+      "explanation": "'Thin' and 'thought' begin with the voiceless dental fricative /θ/; the other options use voiced /ð/."
+    }
+  ]
+}

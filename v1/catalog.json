@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T00:00:00.000Z",
+  "generatedAt": "2026-09-15T12:00:00.000Z",
   "packs": [
     {
       "id": "core-questions",
@@ -56,6 +56,17 @@
       "source": "COLBRYAN Technologies",
       "reviewStatus": "reviewed",
       "downloadUrl": "packs/west-africa-milestone-500.json"
+    },
+    {
+      "id": "jamb-english-full-paper",
+      "version": 1,
+      "curriculum": "JAMB",
+      "subject": "English",
+      "questionCount": 16,
+      "publishedAt": "2026-09-15T12:00:00.000Z",
+      "source": "COLBRYAN Technologies; aligned to the JAMB IBASS Use of English syllabus",
+      "reviewStatus": "reviewed",
+      "downloadUrl": "packs/jamb-english-full-paper.json"
     }
   ]
 }
