@@ -1,0 +1,2174 @@
+{
+  "manifest": {
+    "id": "jamb-expansion-batch-2",
+    "version": 1,
+    "curriculum": "JAMB",
+    "subject": "All",
+    "questionCount": 120,
+    "publishedAt": "2026-09-15T18:00:00.000Z",
+    "source": "COLBRYAN Technologies; aligned to the official JAMB IBASS subject syllabuses",
+    "reviewStatus": "reviewed"
+  },
+  "questions": [
+    {
+      "id": "jamb-b2-eng-comp-01",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 1,
+      "prompt": "A bus left early to avoid heavy traffic and arrived before noon. Why did it leave early?",
+      "options": [
+        "To avoid heavy traffic",
+        "To collect more passengers",
+        "To travel overnight",
+        "To repair the road"
+      ],
+      "answer": 0,
+      "explanation": "The sentence states traffic avoidance as the reason.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-comp-02",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 2,
+      "prompt": "Ngozi returned the wallet with all its contents despite needing money. Which quality is emphasized?",
+      "options": [
+        "Pride",
+        "Fear",
+        "Indecision",
+        "Integrity"
+      ],
+      "answer": 3,
+      "explanation": "Returning the intact wallet despite need demonstrates integrity.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-comp-03",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 2,
+      "prompt": "A paragraph describes tree planting, recycling and reduced fuel use. Which title fits best?",
+      "options": [
+        "Building Taller Houses",
+        "Increasing Factory Waste",
+        "Protecting the Environment",
+        "Buying New Vehicles"
+      ],
+      "answer": 2,
+      "explanation": "All three actions help protect the environment.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-comp-04",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 3,
+      "prompt": "If a manager 'turned a blind eye' to misconduct, what did the manager do?",
+      "options": [
+        "Misunderstood an instruction",
+        "Deliberately ignored it",
+        "Reported it immediately",
+        "Prevented it completely"
+      ],
+      "answer": 1,
+      "explanation": "To turn a blind eye is to deliberately ignore wrongdoing.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-comp-05",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 3,
+      "prompt": "A writer calls a proposal ambitious but questions its funding. What is the writer's position?",
+      "options": [
+        "Cautiously doubtful about feasibility",
+        "Entirely enthusiastic",
+        "Unaware of the proposal",
+        "Certain it has unlimited funds"
+      ],
+      "answer": 0,
+      "explanation": "The writer recognizes ambition while doubting how it will be financed.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-comp-06",
+      "subject": "English",
+      "unit": "Comprehension",
+      "difficulty": 2,
+      "prompt": "Which connector best introduces an example supporting a general claim?",
+      "options": [
+        "However",
+        "Therefore",
+        "Otherwise",
+        "For instance"
+      ],
+      "answer": 3,
+      "explanation": "For instance signals that an example follows.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-grammar-01",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 1,
+      "prompt": "Choose the correct option: Neither answer ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": 0,
+      "explanation": "Neither is singular here and takes is.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-grammar-02",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "prompt": "Choose the correct option: She has lived here ___ 2020.",
+      "options": [
+        "for",
+        "during",
+        "by",
+        "since"
+      ],
+      "answer": 3,
+      "explanation": "Since introduces the starting point of an action continuing to the present.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-grammar-03",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "prompt": "Which option uses the noun 'furniture' correctly?",
+      "options": [
+        "The furniture are expensive.",
+        "A furniture were expensive.",
+        "The furniture is expensive.",
+        "The furnitures are expensive."
+      ],
+      "answer": 2,
+      "explanation": "Furniture is an uncountable noun and takes a singular verb.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-grammar-04",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 3,
+      "prompt": "Choose the correct option: No sooner had we arrived ___ the lights went out.",
+      "options": [
+        "since",
+        "than",
+        "when",
+        "while"
+      ],
+      "answer": 1,
+      "explanation": "The standard construction is no sooner ... than.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-grammar-05",
+      "subject": "English",
+      "unit": "Grammar",
+      "difficulty": 2,
+      "prompt": "Choose the correct option: The woman ___ car was stolen reported to the police.",
+      "options": [
+        "whose",
+        "who's",
+        "whom",
+        "which"
+      ],
+      "answer": 0,
+      "explanation": "Whose is the possessive relative pronoun modifying car.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-essay-01",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 1,
+      "prompt": "Which opening best suits a formal report?",
+      "options": [
+        "Once upon a time in a magic land",
+        "Lateness, wow, what a thing!",
+        "This report examines the causes of lateness among students.",
+        "Hey everyone, guess what happened!"
+      ],
+      "answer": 2,
+      "explanation": "A report should open with a clear, objective statement of purpose.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-essay-02",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 2,
+      "prompt": "What makes evidence relevant in an argument?",
+      "options": [
+        "It disagrees with every source",
+        "It directly supports the claim",
+        "It uses the longest words",
+        "It appears in the final sentence"
+      ],
+      "answer": 1,
+      "explanation": "Relevant evidence bears directly on the claim being defended.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-essay-03",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 2,
+      "prompt": "Which order is most suitable for instructions?",
+      "options": [
+        "The sequence in which actions must occur",
+        "Alphabetical order of every word",
+        "Longest sentence first",
+        "Conclusion before the first step"
+      ],
+      "answer": 0,
+      "explanation": "Instructions are clearest when actions follow their required sequence.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-essay-04",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 3,
+      "prompt": "Which sentence uses parallel structure?",
+      "options": [
+        "The programme teaches reading, to write and speech.",
+        "Reading, to write and speaking are taught.",
+        "The programme taught to read, writing and spoke.",
+        "The programme teaches reading, writing and speaking."
+      ],
+      "answer": 3,
+      "explanation": "All three items are matching gerund forms.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-essay-05",
+      "subject": "English",
+      "unit": "Essay writing",
+      "difficulty": 2,
+      "prompt": "Why should a writer acknowledge a strong opposing view?",
+      "options": [
+        "To avoid giving any evidence",
+        "To replace the conclusion",
+        "To answer it and strengthen the argument",
+        "To abandon the topic"
+      ],
+      "answer": 2,
+      "explanation": "Addressing a counterargument shows balance and allows a reasoned response.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-oral-01",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 1,
+      "prompt": "Which word begins with the same sound as 'ship'?",
+      "options": [
+        "genre",
+        "sugar",
+        "vision",
+        "chair"
+      ],
+      "answer": 1,
+      "explanation": "Sugar and ship begin with /ʃ/.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-oral-02",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 2,
+      "prompt": "Which word does not share the vowel sound heard in 'seed'?",
+      "options": [
+        "said",
+        "need",
+        "feed",
+        "deed"
+      ],
+      "answer": 0,
+      "explanation": "Said contains /e/; seed, need, feed and deed contain /iː/.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-oral-03",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 2,
+      "prompt": "Which word normally carries stress on its first syllable?",
+      "options": [
+        "rePLY",
+        "beGIN",
+        "aRRIVE",
+        "TAxi"
+      ],
+      "answer": 3,
+      "explanation": "Taxi normally has primary stress on the first syllable.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-oral-04",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 3,
+      "prompt": "Which pair is distinguished mainly by the final consonant's voicing?",
+      "options": [
+        "hat and heart",
+        "full and fool",
+        "rice and rise",
+        "ship and sheep"
+      ],
+      "answer": 2,
+      "explanation": "Rice ends /s/, while rise ends its voiced counterpart /z/.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-eng-oral-05",
+      "subject": "English",
+      "unit": "Oral",
+      "difficulty": 2,
+      "prompt": "Which word contains the diphthong /aɪ/?",
+      "options": [
+        "tame",
+        "time",
+        "team",
+        "term"
+      ],
+      "answer": 1,
+      "explanation": "Time contains the /aɪ/ vowel glide.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-math-algebra-01",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 1,
+      "prompt": "Simplify 4a + 3a - 2a.",
+      "options": [
+        "a",
+        "5a",
+        "9a",
+        "7a"
+      ],
+      "answer": 1,
+      "explanation": "Combining like terms gives (4 + 3 - 2)a = 5a.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-math-algebra-02",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 2,
+      "prompt": "Solve 2x - 7 = 11.",
+      "options": [
+        "9",
+        "2",
+        "7",
+        "18"
+      ],
+      "answer": 0,
+      "explanation": "Adding 7 and dividing by 2 gives x = 9.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-math-algebra-03",
+      "subject": "Mathematics",
+      "unit": "Algebra",
+      "difficulty": 3,
+      "prompt": "If x + y = 9 and x - y = 3, find x.",
+      "options": [
+        "3",
+        "9",
+        "12",
+        "6"
+      ],
+      "answer": 3,
+      "explanation": "Adding the equations gives 2x = 12, so x = 6.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-math-geometry-01",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 1,
+      "prompt": "Find the area of a triangle with base 12 cm and height 5 cm.",
+      "options": [
+        "60 cm²",
+        "17 cm²",
+        "120 cm²",
+        "30 cm²"
+      ],
+      "answer": 3,
+      "explanation": "Area is ½ × 12 × 5 = 30 cm².",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-math-geometry-02",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 2,
+      "prompt": "Each interior angle of a regular hexagon is what?",
+      "options": [
+        "90°",
+        "135°",
+        "120°",
+        "60°"
+      ],
+      "answer": 2,
+      "explanation": "A regular hexagon's interior angle is (6-2)180°/6 = 120°.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-math-geometry-03",
+      "subject": "Mathematics",
+      "unit": "Geometry",
+      "difficulty": 3,
+      "prompt": "A cone has radius 3 cm and height 4 cm. Find its volume.",
+      "options": [
+        "4π cm³",
+        "12π cm³",
+        "36π cm³",
+        "9π cm³"
+      ],
+      "answer": 1,
+      "explanation": "Volume is ⅓πr²h = ⅓π × 9 × 4 = 12π cm³.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-math-trig-01",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "difficulty": 1,
+      "prompt": "A right isosceles triangle has equal opposite and adjacent sides. What is the tangent of either acute angle?",
+      "options": [
+        "√3",
+        "1",
+        "0",
+        "1/2"
+      ],
+      "answer": 1,
+      "explanation": "The acute angles are 45°, and opposite/adjacent = 1.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-math-trig-02",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "difficulty": 2,
+      "prompt": "A right triangle has opposite side 8 cm and adjacent side 6 cm. Find tan θ.",
+      "options": [
+        "4/3",
+        "3/4",
+        "7/4",
+        "14/8"
+      ],
+      "answer": 0,
+      "explanation": "Tangent is opposite/adjacent = 8/6 = 4/3.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-math-trig-03",
+      "subject": "Mathematics",
+      "unit": "Trigonometry",
+      "difficulty": 3,
+      "prompt": "If sin θ = 5/13 for an acute angle, find cos θ.",
+      "options": [
+        "5/12",
+        "13/12",
+        "8/13",
+        "12/13"
+      ],
+      "answer": 3,
+      "explanation": "The corresponding right triangle has sides 5, 12 and 13.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-math-stats-01",
+      "subject": "Mathematics",
+      "unit": "Statistics",
+      "difficulty": 1,
+      "prompt": "Find the range of 6, 9, 14, 8 and 11.",
+      "options": [
+        "8",
+        "14",
+        "6",
+        "20"
+      ],
+      "answer": 0,
+      "explanation": "Range is maximum minus minimum: 14 - 6 = 8.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-math-stats-02",
+      "subject": "Mathematics",
+      "unit": "Statistics",
+      "difficulty": 2,
+      "prompt": "Two fair coins are tossed. What is the probability of two heads?",
+      "options": [
+        "1/2",
+        "3/4",
+        "1/3",
+        "1/4"
+      ],
+      "answer": 3,
+      "explanation": "Only HH among four equally likely outcomes has two heads.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-phy-motion-01",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 1,
+      "prompt": "A runner covers 100 m in 20 s. What is the average speed?",
+      "options": [
+        "80 m/s",
+        "2000 m/s",
+        "5 m/s",
+        "20 m/s"
+      ],
+      "answer": 2,
+      "explanation": "Speed is distance/time = 100/20 = 5 m/s.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-phy-motion-02",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 2,
+      "prompt": "A car moving at 15 m/s stops uniformly in 5 s. Find its acceleration.",
+      "options": [
+        "75 m/s²",
+        "-3 m/s²",
+        "3 m/s²",
+        "-5 m/s²"
+      ],
+      "answer": 1,
+      "explanation": "Acceleration is (0 - 15)/5 = -3 m/s².",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-phy-motion-03",
+      "subject": "Physics",
+      "unit": "Motion",
+      "difficulty": 3,
+      "prompt": "A projectile is launched horizontally. Ignoring air resistance, its horizontal acceleration is what?",
+      "options": [
+        "0 m/s²",
+        "9.8 m/s²",
+        "Equal to its speed",
+        "Continuously increasing"
+      ],
+      "answer": 0,
+      "explanation": "Gravity acts vertically, so horizontal velocity remains constant.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-phy-forces-01",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 1,
+      "prompt": "What force opposes relative motion between touching surfaces?",
+      "options": [
+        "Weight",
+        "Tension only",
+        "Friction",
+        "Upthrust"
+      ],
+      "answer": 2,
+      "explanation": "Friction acts against sliding or attempted sliding.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-phy-forces-02",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 2,
+      "prompt": "A 10 kg object has weight 100 N. What gravitational field strength is used?",
+      "options": [
+        "1000 N/kg",
+        "10 N/kg",
+        "0.1 N/kg",
+        "90 N/kg"
+      ],
+      "answer": 1,
+      "explanation": "g = W/m = 100/10 = 10 N/kg.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-phy-forces-03",
+      "subject": "Physics",
+      "unit": "Forces",
+      "difficulty": 3,
+      "prompt": "A lever has effort arm 2 m and load arm 0.5 m. What is its ideal mechanical advantage?",
+      "options": [
+        "4",
+        "0.25",
+        "1.5",
+        "2.5"
+      ],
+      "answer": 0,
+      "explanation": "Ideal mechanical advantage is effort arm/load arm = 2/0.5 = 4.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-phy-electricity-01",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 1,
+      "prompt": "Which material is a good electrical insulator?",
+      "options": [
+        "Copper",
+        "Aluminium",
+        "Graphite",
+        "Rubber"
+      ],
+      "answer": 3,
+      "explanation": "Rubber has very few mobile charge carriers.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-phy-electricity-02",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 2,
+      "prompt": "A 75 W appliance runs for 8 s. How much electrical energy is transferred?",
+      "options": [
+        "83 J",
+        "6000 J",
+        "600 J",
+        "9.375 J"
+      ],
+      "answer": 2,
+      "explanation": "Energy = power × time = 75 × 8 = 600 J.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-phy-electricity-03",
+      "subject": "Physics",
+      "unit": "Electricity",
+      "difficulty": 3,
+      "prompt": "Three identical 6 Ω resistors are connected in parallel. Find the equivalent resistance.",
+      "options": [
+        "18 Ω",
+        "2 Ω",
+        "6 Ω",
+        "12 Ω"
+      ],
+      "answer": 1,
+      "explanation": "For three equal parallel resistors, R/3 = 6/3 = 2 Ω.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-phy-waves-01",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 1,
+      "prompt": "Which wave property is measured in hertz?",
+      "options": [
+        "Amplitude",
+        "Speed",
+        "Frequency",
+        "Wavelength"
+      ],
+      "answer": 2,
+      "explanation": "Hertz means cycles per second and measures frequency.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-phy-waves-02",
+      "subject": "Physics",
+      "unit": "Waves",
+      "difficulty": 2,
+      "prompt": "Why can astronauts not hear one another directly in space?",
+      "options": [
+        "Helmets block radio waves",
+        "Sound needs a material medium",
+        "Light absorbs all sound",
+        "Space has excessive gravity"
+      ],
+      "answer": 1,
+      "explanation": "A vacuum lacks particles needed to transmit sound waves.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-chem-atomic-01",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 1,
+      "prompt": "The atomic number equals the number of what particles?",
+      "options": [
+        "Neutrons",
+        "Nucleons",
+        "Electron shells",
+        "Protons"
+      ],
+      "answer": 3,
+      "explanation": "Atomic number is defined by the proton count.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-chem-atomic-02",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 2,
+      "prompt": "An ion has 12 protons and 10 electrons. What is its charge?",
+      "options": [
+        "1+",
+        "Neutral",
+        "2+",
+        "2-"
+      ],
+      "answer": 2,
+      "explanation": "Two more protons than electrons give a 2+ charge.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-chem-atomic-03",
+      "subject": "Chemistry",
+      "unit": "Atomic structure",
+      "difficulty": 3,
+      "prompt": "Which quantum shell can hold a maximum of eight electrons using the 2n² rule?",
+      "options": [
+        "Fourth shell only",
+        "Second shell",
+        "First shell",
+        "Third shell only"
+      ],
+      "answer": 1,
+      "explanation": "For n = 2, 2n² = 8.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-chem-bonding-01",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 1,
+      "prompt": "What bond joins the atoms within an oxygen molecule?",
+      "options": [
+        "Ionic bond",
+        "Metallic bond",
+        "Hydrogen bond",
+        "Covalent bond"
+      ],
+      "answer": 3,
+      "explanation": "Two oxygen atoms share electrons covalently.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-chem-bonding-02",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 2,
+      "prompt": "Why does molten sodium chloride conduct electricity?",
+      "options": [
+        "It becomes a metal",
+        "Its neutrons carry charge",
+        "Its ions are free to move",
+        "Its atoms lose all nuclei"
+      ],
+      "answer": 2,
+      "explanation": "Melting releases ions from fixed lattice positions.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-chem-bonding-03",
+      "subject": "Chemistry",
+      "unit": "Bonding",
+      "difficulty": 3,
+      "prompt": "Why does graphite conduct electricity while diamond does not?",
+      "options": [
+        "Diamond is a liquid",
+        "Graphite has mobile delocalised electrons",
+        "Diamond contains no carbon",
+        "Graphite is ionic"
+      ],
+      "answer": 1,
+      "explanation": "Each graphite carbon leaves one electron delocalised through its layers.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-chem-acid-01",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 1,
+      "prompt": "What pH value is neutral at room temperature?",
+      "options": [
+        "0",
+        "5",
+        "14",
+        "7"
+      ],
+      "answer": 3,
+      "explanation": "Pure water is neutral at about pH 7.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-chem-acid-02",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 2,
+      "prompt": "Which salt forms when sulfuric acid neutralises potassium hydroxide?",
+      "options": [
+        "Sodium sulfate",
+        "Potassium sulfide",
+        "Potassium sulfate",
+        "Potassium chloride"
+      ],
+      "answer": 2,
+      "explanation": "Sulfuric acid and potassium hydroxide form potassium sulfate and water.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-chem-acid-03",
+      "subject": "Chemistry",
+      "unit": "Acids and bases",
+      "difficulty": 3,
+      "prompt": "A solution changes from pH 2 to pH 4. Its hydrogen-ion concentration becomes what fraction?",
+      "options": [
+        "100",
+        "1/100",
+        "1/2",
+        "1/10"
+      ],
+      "answer": 1,
+      "explanation": "A two-unit pH rise means a hundredfold decrease in hydrogen ions.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-chem-organic-01",
+      "subject": "Chemistry",
+      "unit": "Organic chemistry",
+      "difficulty": 1,
+      "prompt": "Which compound is an alkene?",
+      "options": [
+        "Propanoic acid",
+        "Propene",
+        "Propane",
+        "Propanol"
+      ],
+      "answer": 1,
+      "explanation": "Propene has the carbon-carbon double bond characteristic of alkenes.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-chem-organic-02",
+      "subject": "Chemistry",
+      "unit": "Organic chemistry",
+      "difficulty": 2,
+      "prompt": "What reaction converts ethene molecules into poly(ethene)?",
+      "options": [
+        "Addition polymerisation",
+        "Neutralisation",
+        "Cracking",
+        "Esterification"
+      ],
+      "answer": 0,
+      "explanation": "Double bonds open and monomers join without eliminating a small molecule.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-bio-cells-01",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 1,
+      "prompt": "Which organelle contains chlorophyll?",
+      "options": [
+        "Chloroplast",
+        "Mitochondrion",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "answer": 0,
+      "explanation": "Chlorophyll is located in chloroplast membranes.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-bio-cells-02",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 2,
+      "prompt": "Why are root hair cells effective at absorbing water?",
+      "options": [
+        "They contain haemoglobin",
+        "They have thick waxy walls",
+        "They lack a cell membrane",
+        "They provide a large surface area"
+      ],
+      "answer": 3,
+      "explanation": "Their long projections greatly increase contact with soil water.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-bio-cells-03",
+      "subject": "Biology",
+      "unit": "Cells",
+      "difficulty": 3,
+      "prompt": "A cell with many mitochondria is most likely adapted for what?",
+      "options": [
+        "Preventing all respiration",
+        "Producing cellulose without energy",
+        "High energy demand",
+        "Long-term water storage only"
+      ],
+      "answer": 2,
+      "explanation": "Mitochondria supply ATP for energy-demanding activity.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-bio-genetics-01",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 1,
+      "prompt": "Where are genes located?",
+      "options": [
+        "On ribosome surfaces",
+        "On chromosomes",
+        "Inside cell walls",
+        "Only in blood plasma"
+      ],
+      "answer": 1,
+      "explanation": "Genes are DNA sequences arranged along chromosomes.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-bio-genetics-02",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 2,
+      "prompt": "What type of cell division produces genetically identical daughter cells?",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Fertilisation",
+        "Crossing over"
+      ],
+      "answer": 0,
+      "explanation": "Mitosis copies and separates chromosomes to form identical cells.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-bio-genetics-03",
+      "subject": "Biology",
+      "unit": "Genetics",
+      "difficulty": 3,
+      "prompt": "A carrier mother for an X-linked recessive trait and an unaffected father have a son. What is the son's chance of inheriting the trait?",
+      "options": [
+        "1/4",
+        "0",
+        "1",
+        "1/2"
+      ],
+      "answer": 3,
+      "explanation": "A son receives his X from the mother, who passes the affected allele half the time.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-bio-ecology-01",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 1,
+      "prompt": "Which organisms make organic food from inorganic materials?",
+      "options": [
+        "Scavengers",
+        "Producers",
+        "Decomposers",
+        "Parasites"
+      ],
+      "answer": 1,
+      "explanation": "Producers synthesize food, commonly through photosynthesis.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-bio-ecology-02",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 2,
+      "prompt": "What is the role of nitrifying bacteria in soil?",
+      "options": [
+        "They convert ammonium compounds toward nitrates",
+        "They remove all oxygen",
+        "They digest only animal tissue",
+        "They fix carbon into glucose"
+      ],
+      "answer": 0,
+      "explanation": "Nitrification oxidises ammonium through nitrites to nitrates.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-bio-ecology-03",
+      "subject": "Biology",
+      "unit": "Ecology",
+      "difficulty": 3,
+      "prompt": "Why does deforestation often increase surface runoff?",
+      "options": [
+        "Trees create all rainfall",
+        "Bare soil absorbs unlimited water",
+        "Roots prevent infiltration",
+        "Less vegetation intercepts water and anchors soil"
+      ],
+      "answer": 3,
+      "explanation": "Canopy and roots normally slow water and promote infiltration.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-bio-human-01",
+      "subject": "Biology",
+      "unit": "Human systems",
+      "difficulty": 1,
+      "prompt": "Damage to which lung structures would most directly reduce the surface available for oxygen diffusion into blood?",
+      "options": [
+        "Diaphragm",
+        "Larynx",
+        "Alveoli",
+        "Trachea"
+      ],
+      "answer": 2,
+      "explanation": "Thin-walled alveoli provide the large respiratory exchange surface.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-bio-human-02",
+      "subject": "Biology",
+      "unit": "Human systems",
+      "difficulty": 2,
+      "prompt": "A chewed cracker begins to taste sweet before swallowing. Which salivary enzyme caused this change?",
+      "options": [
+        "Trypsin",
+        "Amylase",
+        "Pepsin",
+        "Lipase"
+      ],
+      "answer": 1,
+      "explanation": "Salivary amylase breaks starch into smaller sugars.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-econ-demand-01",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 1,
+      "prompt": "A movement along a demand curve is caused by a change in what?",
+      "options": [
+        "Consumer taste",
+        "Population",
+        "Income",
+        "The good's own price"
+      ],
+      "answer": 3,
+      "explanation": "Changing the good's price changes quantity demanded along the same curve.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-econ-demand-02",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 2,
+      "prompt": "What happens when market price is below equilibrium price?",
+      "options": [
+        "Demand becomes zero",
+        "Supply becomes unlimited",
+        "A shortage tends to occur",
+        "A surplus tends to occur"
+      ],
+      "answer": 2,
+      "explanation": "At a low price, quantity demanded exceeds quantity supplied.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-econ-demand-03",
+      "subject": "Economics",
+      "unit": "Demand and supply",
+      "difficulty": 3,
+      "prompt": "Supply rises from 100 to 130 units when price rises by 10%. What is the price elasticity of supply?",
+      "options": [
+        "13",
+        "3",
+        "0.3",
+        "1"
+      ],
+      "answer": 1,
+      "explanation": "Quantity rises 30%, so elasticity is 30%/10% = 3.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-econ-market-01",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 1,
+      "prompt": "A few large firms dominate which market structure?",
+      "options": [
+        "Oligopoly",
+        "Monopoly",
+        "Perfect competition",
+        "Monopsony"
+      ],
+      "answer": 0,
+      "explanation": "Oligopoly contains a small number of interdependent dominant sellers.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-econ-market-02",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 2,
+      "prompt": "Product differentiation is a key feature of which market?",
+      "options": [
+        "Perfect competition",
+        "Pure monopoly only",
+        "Bilateral monopoly",
+        "Monopolistic competition"
+      ],
+      "answer": 3,
+      "explanation": "Many firms sell similar but differentiated products in monopolistic competition.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-econ-market-03",
+      "subject": "Economics",
+      "unit": "Market structures",
+      "difficulty": 3,
+      "prompt": "A profit-maximising firm normally produces where marginal cost equals what?",
+      "options": [
+        "Average fixed cost",
+        "Price elasticity",
+        "Marginal revenue",
+        "Total cost"
+      ],
+      "answer": 2,
+      "explanation": "The standard profit-maximising output satisfies MC = MR.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-econ-money-01",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 1,
+      "prompt": "Which quality makes money easy to carry?",
+      "options": [
+        "Portability",
+        "Scarcity",
+        "Homogeneity",
+        "Durability"
+      ],
+      "answer": 0,
+      "explanation": "Portability means money can be transported conveniently.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-econ-money-02",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 2,
+      "prompt": "How can a central bank reduce commercial-bank lending?",
+      "options": [
+        "Lower every tax",
+        "Buy all consumer goods",
+        "Increase bank reserves freely",
+        "Raise the reserve requirement"
+      ],
+      "answer": 3,
+      "explanation": "A higher reserve ratio leaves banks with less money to lend.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-econ-money-03",
+      "subject": "Economics",
+      "unit": "Money and banking",
+      "difficulty": 3,
+      "prompt": "Demand-pull inflation arises when what occurs?",
+      "options": [
+        "Money demand becomes zero",
+        "Imports exceed exports only",
+        "Aggregate demand exceeds productive capacity",
+        "Production costs fall sharply"
+      ],
+      "answer": 2,
+      "explanation": "Excess aggregate spending bids up prices when output cannot respond sufficiently.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-econ-dev-01",
+      "subject": "Economics",
+      "unit": "Development",
+      "difficulty": 1,
+      "prompt": "Kola is available for work, actively seeking a job and unable to find one. How is he classified?",
+      "options": [
+        "Self-employed",
+        "Unemployed",
+        "Retired",
+        "Economically inactive by choice"
+      ],
+      "answer": 1,
+      "explanation": "An available job seeker without work is unemployed.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-econ-dev-02",
+      "subject": "Economics",
+      "unit": "Development",
+      "difficulty": 2,
+      "prompt": "Which policy directly develops human capital?",
+      "options": [
+        "Investment in education and health",
+        "Depleting forests",
+        "Reducing worker training",
+        "Closing hospitals"
+      ],
+      "answer": 0,
+      "explanation": "Education and health improve workers' skills and productive capacity.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-geo-map-01",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 1,
+      "prompt": "What does a map scale show?",
+      "options": [
+        "The relationship between map and ground distance",
+        "Only the map's colour",
+        "Direction of rainfall",
+        "Age of a settlement"
+      ],
+      "answer": 0,
+      "explanation": "Scale expresses how a map measurement corresponds to actual distance.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-geo-map-02",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 2,
+      "prompt": "A bearing is measured clockwise from which direction?",
+      "options": [
+        "South",
+        "East",
+        "West",
+        "North"
+      ],
+      "answer": 3,
+      "explanation": "Conventional bearings start at north and increase clockwise.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-geo-map-03",
+      "subject": "Geography",
+      "unit": "Map reading",
+      "difficulty": 3,
+      "prompt": "A road measures 6 cm on a map where 1 cm represents 2 km. What is its ground distance?",
+      "options": [
+        "8 km",
+        "18 km",
+        "12 km",
+        "3 km"
+      ],
+      "answer": 2,
+      "explanation": "Multiplying 6 cm by 2 km per centimetre gives 12 km.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-geo-climate-01",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 1,
+      "prompt": "A forecaster observes a rapid fall in air pressure. Which weather instrument provided the reading?",
+      "options": [
+        "Thermometer",
+        "Wind vane",
+        "Rain gauge",
+        "Barometer"
+      ],
+      "answer": 3,
+      "explanation": "A barometer measures atmospheric pressure.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-geo-climate-02",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 2,
+      "prompt": "What causes land breeze at night?",
+      "options": [
+        "Land becomes permanently hotter",
+        "Air stops moving over water",
+        "Land cools faster than sea",
+        "Sea cools faster than land"
+      ],
+      "answer": 2,
+      "explanation": "Cooler dense air moves from land toward the relatively warmer sea.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-geo-climate-03",
+      "subject": "Geography",
+      "unit": "Climate",
+      "difficulty": 3,
+      "prompt": "What happens to rising unsaturated air as atmospheric pressure decreases?",
+      "options": [
+        "It loses all gases",
+        "It expands and cools",
+        "It contracts and heats",
+        "It gains pressure"
+      ],
+      "answer": 1,
+      "explanation": "Expansion uses energy and produces adiabatic cooling.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-geo-pop-01",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 1,
+      "prompt": "Birth rate minus death rate gives what?",
+      "options": [
+        "Net migration",
+        "Population density",
+        "Dependency ratio",
+        "Natural increase"
+      ],
+      "answer": 3,
+      "explanation": "Natural increase measures population change excluding migration.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-geo-pop-02",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 2,
+      "prompt": "A country's urban share rises from 35% to 52% over twenty years. Which process does this illustrate?",
+      "options": [
+        "Suburban farming",
+        "Population decline",
+        "Urbanisation",
+        "Rural depopulation only"
+      ],
+      "answer": 2,
+      "explanation": "Urbanisation is growth in the proportion of people living in urban areas.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-geo-pop-03",
+      "subject": "Geography",
+      "unit": "Population",
+      "difficulty": 3,
+      "prompt": "Which ratio compares dependants with the working-age population?",
+      "options": [
+        "Population density",
+        "Dependency ratio",
+        "Sex ratio",
+        "Birth rate"
+      ],
+      "answer": 1,
+      "explanation": "The dependency ratio relates young and old dependants to working-age people.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-geo-res-01",
+      "subject": "Geography",
+      "unit": "Resources",
+      "difficulty": 1,
+      "prompt": "Which activity is part of the primary sector?",
+      "options": [
+        "Fishing",
+        "Banking",
+        "Software design",
+        "Retail advertising"
+      ],
+      "answer": 0,
+      "explanation": "Fishing directly extracts a natural resource.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-geo-res-02",
+      "subject": "Geography",
+      "unit": "Resources",
+      "difficulty": 2,
+      "prompt": "Why is crop rotation useful?",
+      "options": [
+        "It removes all soil organisms",
+        "It guarantees drought",
+        "It increases erosion",
+        "It helps maintain soil fertility"
+      ],
+      "answer": 3,
+      "explanation": "Alternating crops can replenish nutrients and interrupt pests.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-gov-const-01",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 1,
+      "prompt": "Which constitution is contained mainly in a single authoritative document?",
+      "options": [
+        "Flexible convention only",
+        "Judicial custom only",
+        "Written constitution",
+        "Unwritten constitution"
+      ],
+      "answer": 2,
+      "explanation": "A written constitution is codified chiefly in one formal document.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-gov-const-02",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 2,
+      "prompt": "What is constitutional supremacy?",
+      "options": [
+        "Parties replace the constitution",
+        "All authorities are subject to the constitution",
+        "The executive is above every law",
+        "Courts cannot review actions"
+      ],
+      "answer": 1,
+      "explanation": "A supreme constitution binds every institution and invalidates conflicting acts.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-gov-const-03",
+      "subject": "Government",
+      "unit": "Constitutions",
+      "difficulty": 3,
+      "prompt": "In a unitary system, ultimate constitutional authority rests where?",
+      "options": [
+        "At the central government",
+        "Equally in sovereign states",
+        "Only in local councils",
+        "With foreign embassies"
+      ],
+      "answer": 0,
+      "explanation": "Subnational powers in a unitary state derive from the central authority.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-gov-arms-01",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 1,
+      "prompt": "Which arm implements public policy?",
+      "options": [
+        "Legislature",
+        "Electorate",
+        "Executive",
+        "Judiciary"
+      ],
+      "answer": 2,
+      "explanation": "The executive administers laws and carries out government policy.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-gov-arms-02",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 2,
+      "prompt": "A court tests a minister's order against the constitution and cancels it. Which power has the court exercised?",
+      "options": [
+        "Voter registration",
+        "Judicial review",
+        "Legislative appropriation",
+        "Executive budgeting"
+      ],
+      "answer": 1,
+      "explanation": "Judicial review tests official acts against constitutional and legal standards.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-gov-arms-03",
+      "subject": "Government",
+      "unit": "Arms of government",
+      "difficulty": 3,
+      "prompt": "Why is security of judicial tenure important?",
+      "options": [
+        "It supports judicial independence",
+        "It allows judges to campaign for parties",
+        "It removes appeal rights",
+        "It makes courts part of the executive"
+      ],
+      "answer": 0,
+      "explanation": "Protected tenure reduces improper pressure on judicial decisions.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-gov-party-01",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 1,
+      "prompt": "What document states a party's proposed policies?",
+      "options": [
+        "Census",
+        "Manifesto",
+        "Judgment",
+        "Treaty"
+      ],
+      "answer": 1,
+      "explanation": "A manifesto presents promises and policies to voters.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-gov-party-02",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 2,
+      "prompt": "A pressure group differs from a political party because it mainly seeks to what?",
+      "options": [
+        "Influence policy without forming government",
+        "Win every elective office",
+        "Interpret laws",
+        "Command the military"
+      ],
+      "answer": 0,
+      "explanation": "Pressure groups advocate interests but do not primarily seek governmental power.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-gov-party-03",
+      "subject": "Government",
+      "unit": "Political parties",
+      "difficulty": 3,
+      "prompt": "What is a coalition government?",
+      "options": [
+        "Rule by judges alone",
+        "A government without ministers",
+        "Permanent military rule",
+        "An administration formed by multiple parties"
+      ],
+      "answer": 3,
+      "explanation": "Parties combine support to form and sustain an administration.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-gov-foreign-01",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "difficulty": 1,
+      "prompt": "What is an embassy?",
+      "options": [
+        "A domestic polling unit",
+        "A local courthouse",
+        "A party secretariat",
+        "A state's diplomatic mission in another state"
+      ],
+      "answer": 3,
+      "explanation": "An embassy represents its state in the host country.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-gov-foreign-02",
+      "subject": "Government",
+      "unit": "Foreign policy",
+      "difficulty": 2,
+      "prompt": "A country refuses trade with another to pressure its government. This is what?",
+      "options": [
+        "Judicial review",
+        "Naturalisation",
+        "An economic sanction",
+        "A referendum"
+      ],
+      "answer": 2,
+      "explanation": "Economic sanctions restrict trade or finance to influence conduct.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-lit-device-01",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 1,
+      "prompt": "'The kettle hissed' illustrates which sound device?",
+      "options": [
+        "Onomatopoeia",
+        "Metaphor",
+        "Paradox",
+        "Euphemism"
+      ],
+      "answer": 0,
+      "explanation": "Hissed imitates the sound being described.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-lit-device-02",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 2,
+      "prompt": "'Deafening silence' is an example of what?",
+      "options": [
+        "Simile",
+        "Allusion",
+        "Climax",
+        "Oxymoron"
+      ],
+      "answer": 3,
+      "explanation": "The phrase combines apparently contradictory terms.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-lit-device-03",
+      "subject": "Literature",
+      "unit": "Literary devices",
+      "difficulty": 3,
+      "prompt": "An indirect reference to a famous person or event is called what?",
+      "options": [
+        "Aside",
+        "Allegory only",
+        "Allusion",
+        "Assonance"
+      ],
+      "answer": 2,
+      "explanation": "An allusion relies on recognition of an external person, text or event.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-lit-drama-01",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 1,
+      "prompt": "Who writes a play?",
+      "options": [
+        "Persona",
+        "Novelist only",
+        "Chorus leader only",
+        "Playwright"
+      ],
+      "answer": 3,
+      "explanation": "A playwright composes dramatic works.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-lit-drama-02",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 2,
+      "prompt": "A remark intended for the audience but unheard by other characters is what?",
+      "options": [
+        "Epilogue",
+        "Refrain",
+        "Aside",
+        "Soliloquy only"
+      ],
+      "answer": 2,
+      "explanation": "An aside briefly reveals information directly to the audience.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-lit-drama-03",
+      "subject": "Literature",
+      "unit": "Drama",
+      "difficulty": 3,
+      "prompt": "What does denouement provide in drama?",
+      "options": [
+        "Instructions before the play",
+        "Resolution after the climax",
+        "Introduction of every character",
+        "A repeated poetic rhyme"
+      ],
+      "answer": 1,
+      "explanation": "The denouement resolves remaining complications after the climax.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-lit-poetry-01",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 1,
+      "prompt": "What is rhyme?",
+      "options": [
+        "A stage movement",
+        "Similarity of sounds, often at line endings",
+        "The central character",
+        "A prose paragraph"
+      ],
+      "answer": 1,
+      "explanation": "Rhyme repeats similar sounds in words, commonly at line endings.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-lit-poetry-02",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 2,
+      "prompt": "Repetition of vowel sounds in nearby words is called what?",
+      "options": [
+        "Assonance",
+        "Alliteration",
+        "Satire",
+        "Irony"
+      ],
+      "answer": 0,
+      "explanation": "Assonance is the recurrence of vowel sounds.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-lit-poetry-03",
+      "subject": "Literature",
+      "unit": "Poetry",
+      "difficulty": 3,
+      "prompt": "A poem mourning a person's death is usually called what?",
+      "options": [
+        "Ode",
+        "Ballad",
+        "Limerick",
+        "Elegy"
+      ],
+      "answer": 3,
+      "explanation": "An elegy expresses grief or meditation on death.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-lit-prose-01",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 1,
+      "prompt": "What is the setting of a story?",
+      "options": [
+        "Only its title",
+        "The author's signature",
+        "Its punctuation pattern",
+        "The time and place of events"
+      ],
+      "answer": 3,
+      "explanation": "Setting establishes where and when the action occurs.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-lit-prose-02",
+      "subject": "Literature",
+      "unit": "Prose",
+      "difficulty": 2,
+      "prompt": "A character struggling against social injustice faces which type of conflict?",
+      "options": [
+        "Individual versus nature",
+        "Author versus reader",
+        "Individual versus society",
+        "Individual versus self only"
+      ],
+      "answer": 2,
+      "explanation": "The character is opposed by social structures and norms.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-cs-algo-01",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 1,
+      "prompt": "What must every terminating algorithm eventually reach?",
+      "options": [
+        "A stopping condition",
+        "An endless loop",
+        "A hardware failure",
+        "A network address"
+      ],
+      "answer": 0,
+      "explanation": "A finite algorithm must meet a condition that ends execution.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-cs-algo-02",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 2,
+      "prompt": "Which structure chooses between alternative instruction paths?",
+      "options": [
+        "Sequence only",
+        "Storage",
+        "Compilation",
+        "Selection"
+      ],
+      "answer": 3,
+      "explanation": "Selection uses a condition to choose a branch.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-cs-algo-03",
+      "subject": "Computer Science",
+      "unit": "Algorithms",
+      "difficulty": 3,
+      "prompt": "What is linear search's worst-case time complexity for n items?",
+      "options": [
+        "O(log n)",
+        "O(n²) always",
+        "O(n)",
+        "O(1)"
+      ],
+      "answer": 2,
+      "explanation": "The target may require checking every item once.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-cs-net-01",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 1,
+      "prompt": "Which network covers a small area such as one school?",
+      "options": [
+        "LAN",
+        "WAN",
+        "MAN only",
+        "Satellite network"
+      ],
+      "answer": 0,
+      "explanation": "A local area network covers a limited site.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-cs-net-02",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 2,
+      "prompt": "What identifies a device's network interface on a local Ethernet network?",
+      "options": [
+        "File extension",
+        "Screen resolution",
+        "Username only",
+        "MAC address"
+      ],
+      "answer": 3,
+      "explanation": "A MAC address identifies a network interface at the data-link layer.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-cs-net-03",
+      "subject": "Computer Science",
+      "unit": "Networks",
+      "difficulty": 3,
+      "prompt": "What does TCP provide that UDP generally does not?",
+      "options": [
+        "Physical cabling",
+        "Domain registration",
+        "Reliable ordered delivery",
+        "Shorter addresses"
+      ],
+      "answer": 2,
+      "explanation": "TCP acknowledges, sequences and retransmits data for reliable ordered delivery.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-cs-hardware-01",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 1,
+      "prompt": "Which device produces a paper copy?",
+      "options": [
+        "Webcam",
+        "Printer",
+        "Scanner",
+        "Microphone"
+      ],
+      "answer": 1,
+      "explanation": "A printer produces physical hard copy.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-cs-hardware-02",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 2,
+      "prompt": "What is ROM primarily used to store?",
+      "options": [
+        "Instructions retained without power",
+        "Only temporary user input",
+        "Live network packets only",
+        "Volatile working variables"
+      ],
+      "answer": 0,
+      "explanation": "ROM is non-volatile and commonly holds firmware.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-cs-hardware-03",
+      "subject": "Computer Science",
+      "unit": "Hardware",
+      "difficulty": 3,
+      "prompt": "Why is virtual memory slower than RAM?",
+      "options": [
+        "It runs inside the CPU registers",
+        "It has no addresses",
+        "It is always optical",
+        "It uses secondary storage"
+      ],
+      "answer": 3,
+      "explanation": "Disk or flash access is much slower than main-memory access.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-cs-prog-01",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 1,
+      "prompt": "What symbol commonly assigns a value to a variable?",
+      "options": [
+        "Comment marker only",
+        "Loop terminator",
+        "Network protocol",
+        "Assignment operator"
+      ],
+      "answer": 3,
+      "explanation": "An assignment operator stores a value under a variable name.",
+      "curricula": [
+        "JAMB"
+      ]
+    },
+    {
+      "id": "jamb-b2-cs-prog-02",
+      "subject": "Computer Science",
+      "unit": "Programming",
+      "difficulty": 2,
+      "prompt": "What does an array store?",
+      "options": [
+        "A physical cable",
+        "A printed document",
+        "An indexed collection of values",
+        "Only one unchangeable bit"
+      ],
+      "answer": 2,
+      "explanation": "An array groups values accessed by index.",
+      "curricula": [
+        "JAMB"
+      ]
+    }
+  ]
+}
