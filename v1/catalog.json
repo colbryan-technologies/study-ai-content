@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T12:00:00.000Z",
+  "generatedAt": "2026-09-15T14:00:00.000Z",
   "packs": [
     {
       "id": "core-questions",
@@ -26,11 +26,11 @@
     },
     {
       "id": "west-africa-syllabus-expansion",
-      "version": 1,
+      "version": 2,
       "curriculum": "Core",
       "subject": "All",
       "questionCount": 121,
-      "publishedAt": "2026-09-14T20:00:00.000Z",
+      "publishedAt": "2026-09-15T14:00:00.000Z",
       "source": "COLBRYAN Technologies",
       "reviewStatus": "reviewed",
       "downloadUrl": "packs/west-africa-syllabus-expansion.json"
